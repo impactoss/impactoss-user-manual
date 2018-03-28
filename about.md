@@ -4,7 +4,7 @@ IMPACT OSS is an Open Source Software (OSS) for Integrated Management and Planni
 
 IMPACT OSS is based on [Sadata](https://github.com/nmrf/sadata), the platform initially designed and developed by Ashley Bowe and [Unfold Data](http://unfolddata.com) for Samoa's National Mechanism for Reporting and Follow-up (NMRF), and was enhanced by Unfold Data for the [New Zealand Human Rights Commission](http://hrc.co.nz/) to replace the first version of its interactive [National Plan of Action](http://npa.hrc.co.nz) (also designed and developed by Unfold Data) that to some extent can be considered a conceptual ancestor of Sadata.
 
-For more information on this software and how it was made please take a look at its [development history](/appendix//history.md).
+For more information on the development history and credits for the IMPACT OSS software please take a look at **[History & credits](/appendix/history.md)**.
 
 #### The Problem
 

@@ -1,4 +1,4 @@
-### 1.2 History
+### History
 
 [IMPACT OSS](http://impactoss.org/) was designed and developed by human rights consultant [Mr. Ashley Bowe](https://www.linkedin.com/in/ashley-bowe-a4716019/) and data visualisation agency [Unfold Data](http://unfolddata.com/) with the help of Mr. Moana Eruera of the [New Zealand Human Rights Commission](https://www.hrc.co.nz/) (HRC) who together would later form the IMPACT OSS Group with the mission of advancing the enjoyment of human rights by promoting and developing suitable technologies.
 
