@@ -1,40 +1,64 @@
-![](/assets/Logo.png)
+![](/assets/logo.png)
+# User Manual
 
-# 1. Introduction
+## Introduction
 
-### 1.1 What is Sadata?
-
-#### The Problem
-
-Each State around the world has a huge range of international obligations, in terms of human rights, the Sustainable Development Goals and more. Many of these obligations overlap meaning that one of the SDG targets may be asking a State to do the same thing as one of its UPR recommendations. However, up until now no tool existed to help identify all of those linkages and eliminate the duplication of activities and reporting that can occur as a result. With the birth of this software this is no longer the case.
-
-#### The Solution
-
-[Sadata](https://sadata-staging.firebaseapp.com/) is a web tool for coordinating and monitoring implementation of human rights and the SDGs. It helps States develop a National Implementation Plan through sophisticated clustering of all obligations and recommendations it has received. Through a series of automated processes it helps to ensure ongoing data collection and guard against non-entry of data, meaning the Implementation Plan progress is always 100% up to date. This allows greater oversight by the public and civil society, and for States to have far greater control over implementation of its obligations - ultimately leading to more effective State implementation and reporting and improvements on the ground for everyday people, every day.
-
-#### The Technology
-
-Sadata is built using [IMPACT OSS](http://impactoss.org/) \(**I**ntegrated **M**anagement and **P**lanning of **Act**ions **O**pen **S**ource **S**oftware\). For more information on this software and how it was made please take a look at its [development history](/history.md).
-
-#### The Users
-
-Sadata is a primarily a tool for States to plan and monitor implementation of its human rights and SDG obligations. However, it has also been built with a wider audience in mind whereby civil society and other stakeholders can access the publicly available database and track progress, holding Government to account and contributing their own data where appropriate.
-
-#### The Manual
-
-The manual is split into three parts:
-
-1. [**How To**](/howto/creating-the-implementation-plan.md)** - **A quick start guide for users in some of the most common ways the software is designed to be used for: creating an implementation plan, reporting, monitoring implementation \(either as Government or civil society\) and editing.
-2. [**In Depth: Visitors**](/visitors/using-as-a-visitor.md)** **- Everything visitors to the site need to know about how to use the tool from monitoring the implementation plan, to using the filtering system to find what the Government is doing in their area of interest to submitting information of their own. 
-3. [**In Depth: Registered Users**](/members/user-roles.md)** - **Everything States need to know in how to use and setup the application. This section also details the different types of registered user and how they can perform their roles.
-
-The manual is written using GitBooks, which allows readers and users of the software to suggest improvements or changes as the tool evolves.
-
-The manual is a [documentation file](https://github.com/nmrf/sadata-user-manual/blob/master/LICENSE.md) of the [Sadata Open Source Software](https://github.com/nmrf/sadata/blob/master/LICENSE.md) and draws upon relevant content from the IMPACT OSS manual permitted under its MIT licence.
-
-The original manual was written by [Mr. Ashley Bowe](https://www.linkedin.com/in/ashley-bowe-a4716019/), for the Office of the High Commissioner for Human Rights, and [Unfold Data](http://unfolddata.com/)
+This user manual provides guidance on how to use IMPACT OSS, the Open Source Software (OSS) for Integrated Management and Planning of Actions (IMPACT), created to assist States with coordinating and monitoring implementation of human rights and the Sustainable Development Goals (SDGs). You can learn more about the platform and history on **[About IMPACT OSS](about.md)**.
 
 ---
 
+#### Howtos: common use cases by user type
 
+This manual is organised by user type, ordered by increasing rights & responsibilities:
 
+##### 1. Visitor (all users)
+
+To learn how all users can use IMPACT OSS, including unregistered members of the public, go to **[Visitor](visitors/visitor.md)** or select one of the common use cases below:
+
+* **[Explore by Category](visitors/categories.md)**
+* **[Explore Action Implementation Plan](visitors/actions.md)**
+* **[Search the database](/visitors/search.md)**
+* **[Register](/visitors/register.md)**
+
+##### 2. User type: Guest (all registered users)
+
+To learn what all registered users can do, go to **[Guest](/guests/guest.md)** or select one of the common use cases below:
+
+* **[Submit Progress Reports](/guests/reporting.md)** as Visitor
+* **[Update User Profile](/guests/user-profile.md)**
+
+##### 3. User type: Contributor
+
+To learn about the contributor role go to **[Contributor](contributors/contributor.md)** or select the common use case below:
+
+* **[Submit Progress Reports](/contributors/reporting.md)** as Contributor
+
+##### 4. User type: Manager
+
+To learn about the rights & responsibilities of a Manager go to **[Manager](managers/manager.md)** or select one of the common use cases below:
+
+* **[Create Implementation Plan](managers/create-implementation-plan.md)**
+* **[Monitor Implementation Plan](managers/monitor-implementation-plan.md)**
+* **[Oversee Progress Reports](managers/oversee-reporting.md)**
+* **[Promote Users](managers/users-admin.md)**
+
+##### 5. User type: Admininistrator
+
+To learn about the rights & responsibilities of the Admininistrator go to **[Administrator](admins/admin.md)**.
+
+---
+
+##### Contribute
+
+Please help us improve this user manual and the IMPACT OSS software:
+
+* **[Improve this user manual](/appendix/contribute.md)**
+* **[Report software bugs](/appendix/report-bugs.md)**
+
+##### Credits
+
+The IMPACT OSS project and all documentation is maintained by the [Impact Open Source Software Trust](http://impactoss.org/). This User Manual is based on the [User Manual written for Sadata](https://nmrf.gitbooks.io/sadata/content/) by human rights consultant [Mr. Ashley Bowe](https://www.linkedin.com/in/ashley-bowe-a4716019/) and [Unfold Data](http://unfolddata.com/) and was kindly supported by the [Universal Rights Group Geneva](http://www.universal-rights.org/) and the [Permanent Mission of the Republic of Singapore, Geneva](https://www.mfa.gov.sg/content/mfa/overseasmission/geneva.html).
+
+##### Licence
+
+This manual is part of the [IMPACT OSS open source software](https://github.com/impactoss/impactoss-server/) and accordingly licensed under the same MIT license, see [License](LICENSE.md)

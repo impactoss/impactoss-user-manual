@@ -28,13 +28,13 @@ NGOs, NHRIs or any member of the public can contribute data as a **Guest Contrib
 
 ##### Role: Contributor
 
-A user promoted to "Contributor". As the data owner for an indicator the user can be assigned to that indicator and become an **Indicator Manager**. A user can be promoted to Contributor and/or be assigned an Indicator Manager by either a Manager or Administrator \(see below\)
+A user promoted to "Contributor". As the data owner for an indicator the user can be assigned to that indicator and become an **Indicator Manager**. A user can be promoted to Contributor and/or be assigned an Indicator Manager by either a Manager or Administrator (see below)
 
 ##### Role: Manager
 
 A user promoted to "Manager" can become a
 
-* **Category Manager** responsible for an area of the National Implementation Plan \(e.g. UPR recommendations, CRC recommendations, SDG targets, etc.\), 
+* **Category Manager** responsible for an area of the National Implementation Plan (e.g. UPR recommendations, CRC recommendations, SDG targets, etc.), 
 * **Implementation Plan Manager** responsible for developing and updating the National Implementation Plan.
 
 ##### Role: Administrator
@@ -64,7 +64,7 @@ Learn more: [for visitors](/visitors/recommendations.md) \| [for registered user
 
 ![](/assets/actions_icon.png)
 
-Actions are what the State says it is going to do to address **Thematic Clusters** \(see below\) of **Recommendations **and implement those obligations
+Actions are what the State says it is going to do to address **Thematic Clusters** (see below) of **Recommendations **and implement those obligations
 
 Learn more: [for visitors](/visitors/actions.md) \| [for registered users](/members/actions.md)
 
@@ -74,7 +74,7 @@ Learn more: [for visitors](/visitors/actions.md) \| [for registered users](/memb
 
 ![](/assets/7_sdgs.png)
 
-One or more SDG Targets have been defined for each **Sustainable Development Goal** \(SDG, see below\).
+One or more SDG Targets have been defined for each **Sustainable Development Goal** (SDG, see below).
 
 Learn more: [for visitors](/visitors/sdg-targets.md) \| [for registered users](/members/sdg-targets.md)
 
@@ -94,7 +94,7 @@ Learn more: [for visitors](/visitors/indicators.md) \| [for registered users](/m
 
 ![](/assets/report_icon.png)
 
-When an **Indicator** is created within the application a date is set for when the information/data is due. This could be a one off or an ongoing process \(e.g. quarterly crime statistics\). When information is due the Indicator Owner will receive an automate email to upload the required data. This is called a progress report.
+When an **Indicator** is created within the application a date is set for when the information/data is due. This could be a one off or an ongoing process (e.g. quarterly crime statistics). When information is due the Indicator Owner will receive an automate email to upload the required data. This is called a progress report.
 
 Learn more: [for registered users](/members/indicators.md)
 
@@ -102,7 +102,7 @@ Learn more: [for registered users](/members/indicators.md)
 
 #### Taxonomies
 
-Taxonomies are groups of categories that allow to classify and cluster the principal Implementation Plan entities \(see above\)
+Taxonomies are groups of categories that allow to classify and cluster the principal Implementation Plan entities (see above)
 
 Learn more: [for visitors](/visitors/categories.md) \| [for registered users](/members/categories.md)
 
@@ -176,7 +176,7 @@ _Categorise: Actions_
 
 ---
 
-##### Sustainable Development Goals \(SDG\)
+##### Sustainable Development Goals (SDG)
 
 ![](/assets/7_sdgs.png)
 
@@ -191,7 +191,7 @@ _Categorise: SDG targets_
 | Icon | Name / description |
 | :--- | :--- |
 | ![](/assets/categories_icon.png) | Categories |
-| ![](/assets/connectedCategories_icon.png) | Connected Categories: categories \(or tags\) inherited from a connected entity |
+| ![](/assets/connectedCategories_icon.png) | Connected Categories: categories (or tags) inherited from a connected entity |
 | ![](/assets/connections_icon.png) | Connections: relationships between entities, eg an action is connected to a recommendation |
 | ![](/assets/attributes_icon.png) | Entity attributes, eg publication status |
 | ![](/assets/trash_icon.png) | Delete entity |
