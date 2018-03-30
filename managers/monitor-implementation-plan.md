@@ -33,3 +33,16 @@ iii. using the filtering and search functions to look into any section of the im
 
 See also
 * [Oversee Reporting](/managers/oversee-reporting.md))
+
+
+
+
+
+
+
+![](/assets/c-action-list.png)
+_**All information demonstrated is for illustrative purposes only **_
+
+The image above demonstrates what actions, indicators and look like in the Implementation Plan. In the example highlighted, two indicators have been set for the Action (training for judges, prosecutors and MJCA). The final column demonstrates when the information relating to those indicators is due. On that date the user who has been assigned to these indicators - in this case likely the training facilitator - will receive an email with a link requesting that they upload the information for each.
+
+Should they fail to do so then they will continue to receive email reminders until the data has been uploaded. This is the first safeguard against non-entry built into the application. Data can be uploaded in any file type format.

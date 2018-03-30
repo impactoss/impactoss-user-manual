@@ -21,20 +21,20 @@
 ## 2. Guests
 
 * [Guest overview](/guests/guest.md)
+* [Reporting as Guest](/guests/reporting.md)
 * [Update User Profile & Password](/guests/user-profile.md)
 * [Login & recover password](/guests/login.md)
-* [Reporting as Guest](/guests/reporting.md)
 * [Become authorised](/guests/promotion.md)
 
 ## 3. Contributors
 
-* [DRAFT: Contributor overview](/contributors/contributor.md)
-* [DRAFT: Reporting as Contributor](/contributors/reporting.md)
-* [DRAFT: Explore Draft Content](/contributors/draft.md)
+* [Contributor overview](/contributors/contributor.md)
+* [Reporting as Contributor](/contributors/reporting.md)
+* [Explore Draft Content](/contributors/draft.md)
 
 ## 4. Managers
 
-* [DRAFT: Manager overview](/managers/manager.md)
+* [Manager overview](/managers/manager.md)
 * [DRAFT: Create Implementation Plan](/managers/create-implementation-plan.md)
 * [DRAFT: Monitor Implementation Plan](/managers/monitor-implementation-plan.md)
 * [DRAFT: Oversee Reporting](/managers/oversee-reporting.md)
@@ -45,10 +45,11 @@
 * [DRAFT: Manage SDG Targets (optional)](/managers/sdg-targets.md)
 * [DRAFT: Manage & Promote Users](/managers/users-admin.md)
 * [DRAFT: Reporting as Manager](/managers/reporting.md)
-* [DRAFT: Add single item](/managers/add-content.md)
+* [REMOVE?: Add single item](/managers/add-content.md)
 * [DRAFT: Edit single item](/managers/edit-content.md)
 * [DRAFT: Import multiple items](/managers/import.md)
 * [DRAFT: Batch edit multiple items](/managers/batch-edit.md)
+* [DRAFT: Delete single item](/managers/delete-item.md)
 
 ## 5. Admininistrators
 

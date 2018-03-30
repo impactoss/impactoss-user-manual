@@ -2,11 +2,11 @@
 
 > _Available for: Visitors and registered users ([Guests](/guests/guest.md), [Contributors](/contributors/contributor.md), [Managers](/managers/manager.md), and [Administrators](/admins/admin.md))_
 
-##### Who are Visitors?
+#### Who are Visitors?
 
 Any member of the public that is not registered or logged in.
 
-##### What can I do as a Visitor?
+#### What can I do as a Visitor?
 
 Whether you are an NGO or interested member of the public, this application allows visitors to:
 
@@ -20,7 +20,7 @@ Whether you are an NGO or interested member of the public, this application allo
 
 ---
 
-#### Overview & navigation
+### Overview & navigation
 
 Once you click 'Explore' on the homepage you will be taken to the **Overview** page, from where you can access all published information.
 
@@ -41,7 +41,7 @@ These areas of interest are also available in the **main navigation (1)** above.
 
 ---
 
-##### Category groups (or Taxonomies)
+#### Category groups (or Taxonomies)
 
 ![](/assets/icon-categories.png)
 
@@ -53,7 +53,7 @@ For more details go to  **[Explore by Category](/visitors/categories.md)**
 
 ---
 
-##### Recommendations
+#### Recommendations
 
 ![](/assets/icon-recommendations.png)
 
@@ -65,7 +65,7 @@ For more information go to **[Explore Recommendations ](/visitors/recommendation
 
 ---
 
-##### Sustainable Development Goal (SDG) Targets (optional configuration)
+#### Sustainable Development Goal (SDG) Targets (optional configuration)
 
 ![](/assets/icon-sdg.png)
 
@@ -77,7 +77,7 @@ For more information go to **[Explore SDG Targets (optional)](/visitors/sdg-targ
 
 ---
 
-##### Actions
+#### Actions
 
 ![](/assets/icon-action.png)
 
@@ -87,7 +87,7 @@ For more information go to **[Explore Action Implementation Plan](/visitors/acti
 
 ---
 
-##### Indicators
+#### Indicators
 
 ![](/assets/icon-indicators.png)
 

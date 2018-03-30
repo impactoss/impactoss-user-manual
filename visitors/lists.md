@@ -59,8 +59,7 @@ Filter options includes
 * **Filter by Category**: allows filtering the list items by any Category they are tagged with, grouped by taxonomy
 * **Filter by Connected Category** (where applicable): you can also filter items by a Category a connected element is tagged with, this allows for example filtering Actions by Human Rights Mechanisms that a Recommendation they address is tagged with
 * **Filter by Connection** (where applicable): you can filter items by any other element they are related with, this allows for example filtering Actions by a specific Recommendation
-* **Filter by Attribute** (where applicable): you can filter items by specific attributes and characteristics, for example if Recommendations have been accepted or not accepted.
-
+* **Filter by Attribute** (where applicable): you can filter items by specific attributes and characteristics, for example if Recommendations have been accepted or not accepted and (if authorised) also by assigned user.
 
 **Example: how to filter a list of actions by Education category (of Thematic CLuster taxonomy)**
 

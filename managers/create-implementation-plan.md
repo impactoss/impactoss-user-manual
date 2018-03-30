@@ -8,21 +8,33 @@ The obligations, which form the basis of the National Implementation Plan, can b
 
 Once the National Implementation Plan has been developed, users of the application will add regular progress reports and anyone will be able to track how well implementation is progressing.
 
-#### Creating Your Human Rights Implementation Plan in 3 Easy Steps
+#### Creating Your Human Rights Implementation Plan in 3 Steps
 
-##### 1.Enter human rights recommendations or Convention article**s **
+##### 1. Enter human rights recommendations or Convention articles
 
-This can either be done by importing recommendations or articles in bulk or entering them one by one. Simply click on the 'Recommendations ' tab in the top menu bar and get going. For more information on adding recommendations and articles [click here](/managers/recommendations.md).
+This can either be done by importing recommendations or observations in bulk or entering them one by one. Simply click on 'Recommendations' in the top menu bar and get going. For more information on adding recommendations and observations see
+
+* [Manage Recommendations](/managers/recommendations.md)
+* [Import multiple items](/managers/import.md)
 
 ![](/assets/m-add-recommendation.png)
+_Screenshot from demo site ([demo.impactoss.org](https://demo.impactoss.org)) - all content for demo purposes only_
+
+---
 
 ##### 2. Cluster your recommendations and articles
 
-By creating clusters the wide ranging obligations become more manageable and easier to track. There are two ways to cluster recommendations and articles. The most efficient is to go to the 'Recommendations' tab in the top menu bar as above and (1) use the filtering and search functions to find similar obligations, (2) select them and then (3) click on 'Thematic Cluster' in the left hand menu bar to create and name a new cluster to put them in.
+By creating recommendation clusters and themes the wide ranging obligations become more manageable and easier to track.
+
+The most efficient way to cluster Recommendations is to use a combination of using
+
+* **list filtering** (1) to find similar obligations (see [Lists: filter, group & more](/visitors/lists.md)) and
+* **batch editing** of selected (2) obligations ([Batch edit multiple items](/managers/batch-edit.md))
 
 ![](/assets/m-recommendation-list.png)
+_Screenshot from demo site ([demo.impactoss.org](https://demo.impactoss.org)) - all content for demo purposes only_
 
-Alternatively, recommendations or articles could be allocated to clusters individually by finding the one you want, clicking on it to edit and assigning it to a cluster. More information on both approaches can be found [here](/managers/recommendations.md). For more information on the difference between 'filtering' and 'editing' [click here](/managers/batch-edit.md).
+Alternatively, Recommendations can be allocated to Clusters individually (or CLusters to Recommendations if you prefer) as described here: [Edit single item](/managers/edit-content.md)
 
 ##### 3. Add Actions and Indicators
 

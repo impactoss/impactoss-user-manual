@@ -2,12 +2,18 @@
 
 > _Available for: Contributors, and all other authorised users ([Managers](/managers/manager.md), and [Administrators](/admins/admin.md))_
 
-##### Who?
+#### Who are Contributors?
 
-The data owner for an indicator and this are key to the success of the data entry - they are the registered users who upload information against all of the indicators. Once assigned to an indicator the user becomes responsible for uploading data at the required time. Receive automated reminder emails when a progress report is due (weekly, 30 days ahead of due date) and overdue (daily, after due date has passed)
+Contributors are users that are usually the data owners of information relevant for one or more Indicators and are thus a key to the success of the data entry. Once assigned to an Indicator they are responsible for uploading relavent information at the required time.
 
-##### What can I do as a Contributor?
+**Email reminders**
 
-* Everything a Guest can do (see [Guest overview](/guests/guest.md))
-* Become an "Indicator manager" that can create public progress reports for assigned indicators (see [Reporting as Contributor](/contributors/reporting.md))
-* Can view draft content (see [Explore Draft Content](/contributors/draft.md))
+If a reporting schedule has been set up for an assigned indicator, Contributors receive automated reminder emails shortly before and after the progress report is due.
+
+> Note: while the reporting schedule frequency can be set for each indicator, the reminder email frequency and lead period (the period before the due date) can depend on the configuration. In the default configuration the lead period is **30 days** and the email frequency is **weekly** before the due date and **daily** after the due date
+
+#### What can I do as a Contributor?
+
+* Everything a Guest can do: [Guest overview](/guests/guest.md)
+* Create public progress reports for assigned Indicators: [Reporting as Contributor](/contributors/reporting.md)
+* View draft content: [Explore Draft Content](/contributors/draft.md)

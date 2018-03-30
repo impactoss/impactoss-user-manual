@@ -2,11 +2,11 @@
 
 > _Available for: Managers and [Administrators](/admins/admin.md))_
 
-##### Who?
+#### Who are Managers?
 
 Managers are responsible for developing and updating the National Implementation Plan. Some managers can also become "Category managers" and are responsible for an area of the National Implementation Plan (e.g. UPR recommendations, CRC recommendations, SDG targets, etc.) and thus for sets of recommendations. Category Managers play an oversight role to ensure that data is entered when required - thus providing the second safeguard against non-entry of data.
 
-##### What can I do as a Manager?
+#### What can I do as a Manager?
 
 * Everything a Contributor can do (see [Contributor overview](/contributors/contributor.md))
 * [Create Implementation Plan](managers/create-implementation-plan.md)
@@ -19,40 +19,61 @@ Managers are responsible for developing and updating the National Implementation
   * [Manage Indicators](/managers/indicators.md)
   * [Manage Recommendations](/managers/recommendations.md)
   * [Manage SDG Targets (optional)](/managers/sdg-targets.md)
-  * [Add content](/managers/add-content.md)
   * [Import content](/managers/import.md)
-  * [Edit content](/managers/edit-content.md)
   * [Batch editing](managers/batch-edit.md)  
+  * [Delete content](/managers/delete-content.md)
 
+---
 
-##### Function: Implementation Plan Manager
+### Specific functions and responsibilities of a Manager
 
-Responsible for developing and updating the National Implementation Plan.
+#### Function: Implementation Plan Manager
 
-###### Responsibilities
+As an **Implementation Plan Manager**, a user can be responsible for developing and updating the National Implementation Plan. This functional role is not explicitly assigned but is expected to be assigned by the overseeing organisation (e.g. NMRF).
 
-* Create and edit recommendations, actions and indicators, as well as categories
-* Connect and categorise recommendations, actions and indicators
-* Adding newly received recommendations into the database and assigning them to clusters, as directed by the NMRF
-* Maintaining and updating the category lists
+##### Responsibilities
 
+The responsibilities of an **Implementation Plan Manager** are:
+* Create and update Recommendations, Actions and Indicators, as well as Categories
+* Categorise and cluster Recommendations, Actions and SDG Targets, and associate Recommendations with Actions
 
-##### Function: Category Manager
+Also see [Create Implementation Plan](managers/create-implementation-plan.md) and [Monitor Implementation Plan](managers/monitor-implementation-plan.md)
 
-The person responsible for an area of the National Implementation Plan (e.g. UPR recommendations, CRC recommendations, SDG targets, etc.) and thus for sets of recommendations. Category Managers play an oversight role to ensure that data is entered when required - thus providing the second safeguard against non-entry of data.
+---
 
-For each 'Human Rights Body' category, as well as for each SDG, a 'Category Manager' should be assigned by one of the Administrators.
+#### Function: Category Manager
 
-At each NMRF quarterly meeting each Manager should provide an overview of recently added data/information to the Working Group.
+The Manager can as **Category Managers** be explicitly made responsible for an area of the National Implementation Plan, thus for sets of Recommendations, commonly by Human Rights Mechanism (depends on application configuration). Category Managers play an oversight role to ensure that data is entered when required.
 
-###### Prerequisites
+> For each 'Human Rights Body' Mechanism, as well as for each SDG, a 'Category Manager' should be assigned by one of the Administrators.
 
-* Assigned to suitable category
+##### Prerequisites
 
-###### Responsibilities
+* A Manager requiress to be assigned to suitable category (by Admininistrator, see [Assign Category Manager](/admins/assign-category.md))
 
-* Assign users to indicators
-* Oversee and follow-up data collection
-* Receive automated reminder emails when a progress report is overdue (weekly, after due date has passed) for indicators in the assigned area.
-* Raise repeated failure to upload with the relevant Ministry at the next scheduled meeting of the National Mechanism for Reporting and Follow-Up.
-* Review and publish progress reports added by **Guest Contributors**
+##### Responsibilities
+
+The responsibilities of an **Category Managers** are:
+* Assign users to indicators (see [Oversee Reporting](/managers/oversee-reporting.md))
+* Oversee and follow-up data collection (see [Oversee Reporting](/managers/oversee-reporting.md))
+* Review and publish progress reports added by **Guest Contributors** (see [Reporting as Guest](/guests/reporting.md))
+
+##### Email reminders
+
+**Category Managers** will receive automated email reminders when a reporting due date for Indicators in their area have lapsed ('overdue') so that they can follow-up with the responsible [Contributors](/contributors/contributor.md). 'Indicators in their area' are all **Indicators** that are associated with **Actions** that are targeting **Recommendations** that are tagged with the **Category** the **Manager** has been assigned to:
+
+```
+Manager ---- Category ---- Recommendation 1 ---- Action 1 ---- Indicator 1.1
+                        |
+                        -- Recommendation 2 ---- Action 2 ---- Indicator 2.1
+                        |
+                        -- Recommendation 3 ---- Action 3 ---- Indicator 3.1
+                                              |
+                                              -- Action 4 ---- Indicator 4.1
+                                                            |
+                                                            -- Indicator 4.2
+```
+
+> Please note: if Recommendations are part of tagged with Categories or if Actions are associated with Recommendations of multiple Categories, it is possible that multiple Managers receive email reminders for the same Indicator
+
+> Also note that the frequency of email reminders may vary dependoing on configuration - default is **weekly** (compare [Contributor overview](/contributors/contributor.md))
