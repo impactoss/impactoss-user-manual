@@ -8,8 +8,8 @@
 ## 1. Visitors
 
 * [Visitor overview (all users)](/visitors/visitor.md)
-* [DRAFT: Explore by Category](/visitors/categories.md)
-* [DRAFT: Explore Action Implementation Plan](/visitors/actions.md)
+* [Explore by Category](/visitors/categories.md)
+* [Explore Action Implementation Plan](/visitors/actions.md)
 * [DRAFT: Explore Indicators](/visitors/indicators.md)
 * [DRAFT: Explore Recommendations ](/visitors/recommendations.md)
 * [DRAFT: Explore SDG Targets (optional)](/visitors/sdg-targets.md)
