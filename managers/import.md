@@ -4,14 +4,13 @@
 
 By clicking on the 'Import' button (top image) the Administrator will be provided with a CSV template download (see image below) for batch importing multiple Actions. Once in the required format the Administrator can click on the 'Select File' button and upload their file and all of the Actions will automatically be imported.
 
-![](/assets/Batch import.png)
-
+![](/assets/m-action-import.png)
 > When importing recommendations it is only possible to import Title, Reference, Accepted Status and Accepted Response. Linking to thematic clusters, assigning human rights body and cycle, etc. still has to be executed either using the batch edit function (below) or individually (as above)
 
 
 A time-efficient way to add new actions, indicators, recommendations or SDG targets is to use the 'import' function to import multiple entities in one go. The process for importing is the same for the different types of entity. First, the Administrator or Manager clicks on the import button as shown above on the relevant entity page - the following box will then appear:
 
-![](/assets/Batch import 2.png)
+![](/assets/m-batch-import.png)
 
 1. Clicking on this link allows the Administrator or Manager to download a CSV template for importing multiple entities. If the template structure is not used then the batch import will not work. The Administrator or Manager should download the template, copy and paste their data into this file and then save it using an appropriate file name.
 

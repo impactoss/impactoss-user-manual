@@ -11,7 +11,7 @@ There are two ways for an Administrator to add recommendations:
 1. Add single recommendations (see below)
 2. Import a file of multiple recommendations (see [Import content](/managers/import.md))
 
-![](/assets/Add recommendations.png)
+![](/assets/m-recommedation-list.png)
 
 Both methods of adding actions can be accessed via the buttons in the top right hand corner of the actions page (pictured above).
 
@@ -19,7 +19,7 @@ Both methods of adding actions can be accessed via the buttons in the top right 
 
 Click on the 'Add Recommendation' icon and the following form will appear:
 
-![](/assets/Add recommendation 2.png)
+![](/assets/m-recommedation-add-new.png)
 
 1. ID: Administrator/Manager can add a recommendation ID. This should be the reference given by the relevant UN body. If left blank an ID will automatically be assigned.
 
@@ -56,7 +56,7 @@ There are also two ways in which Recommendations can be edited;
 
 Individual editing is as simple as finding the recommendation you wish to edit, using the search and filtering functions and clicking on the recommendation title in question, which brings up the following screen with an Edit button (circled):
 
-![](/assets/Edit recommendations.png)
+![](/assets/m-recommedation-single.png)
 
 Clicking the edit button allows the Administrator/Manager to edit all of the fields associated with that recommendation including:
 

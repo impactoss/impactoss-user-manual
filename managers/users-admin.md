@@ -8,13 +8,13 @@ On the Users page Administrators and Managers can manage all of the registered u
 * Assign users to a particular organisation (if configured), individually or by [Batch editing](/managers/batch-edit.md))
 * Promote a user
 
-![](/assets/Users.png)
+![](/assets/m-user-list.png)
 
 ##### Update existing Users
 
 To edit existing users, or to reset a password the Administrator simply needs to find the relevant user using the search and filter functions and click on their name. This will bring up the following screen:
 
-![](/assets/Edit User.png)
+![](/assets/m-user-profile.png)
 
 The 'Change Password' link will allow the Administrator to reset that user's password. Please notify the user of the password change and ask them to login to their account as soon as possible and reset it themselves so that their account remains secure.
 
@@ -39,11 +39,11 @@ When a person first registers on the site they are a guest user and assigned no 
 
 To promote a user the Manager or Administrator should navigate to the 'Users' page on the top menu bar. They can then locate the user they wish to promote using either the search bar (entering their name) or the filtering options (selecting the organisation for whom they work). Clicking on the 'edit' button will bring up the following control box:
 
-![](/assets/No user role.png)
+![](/assets/m-user-assign.png)
 
 Clicking on the user role drop down menu (circled) brings up the following options:
 
-![](/assets/userr role drop down.png)
+![](/assets/m-role.png)
 
 The new role can be selected and the save button pressed to confirm the promotion.
 

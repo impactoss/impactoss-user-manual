@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This user manual provides guidance on how to use IMPACT OSS, the Open Source Software (OSS) for Integrated Management and Planning of Actions (IMPACT), created to assist States with coordinating and monitoring implementation of human rights and the Sustainable Development Goals (SDGs). To learn more about the motivation behind IMPACT OSS and its history have a look at [**About IMPACT OSS**](/about.md) or go to the project website [impactoss.org](https://impactoss.org)
+This user manual provides guidance on how to use IMPACT OSS, the Open Source Software \(OSS\) for Integrated Management and Planning of Actions \(IMPACT\), created to assist States with coordinating and monitoring implementation of human rights and the Sustainable Development Goals \(SDGs\). To learn more about the motivation behind IMPACT OSS and its history have a look at [**About IMPACT OSS**](/about.md) or go to the project website [impactoss.org](https://impactoss.org).
 
 ---
 
@@ -25,7 +25,7 @@ or select one of the common use cases below
 * [Search the entire database](/visitors/search.md)
 * [Register](/visitors/register.md)
 
-##### 2. User type: Guest (all registered users)
+##### 2. User type: Guest \(all registered users\)
 
 To learn about usage options once you have registered, go to
 
@@ -83,3 +83,4 @@ For more information on the development history and credits for the IMPACT OSS s
 ##### Licence
 
 This manual is part of the [IMPACT OSS open source software](https://github.com/impactoss/impactoss-server/) and accordingly licensed under the same MIT license, see [License](LICENSE.md).
+

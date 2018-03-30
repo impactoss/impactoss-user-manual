@@ -11,7 +11,7 @@ There are two ways for an Administrator to add indicators:
 1. Add single indicators (see below)
 2. Import a file of multiple indicators (see [Import content](/managers/import.md))
 
-![](/assets/Add indicators.png)
+![](/assets/m-indicator-list.png)
 
 Both methods of adding actions can be accessed via the buttons in the top right hand corner of the actions page (pictured above).
 
@@ -19,7 +19,7 @@ Both methods of adding actions can be accessed via the buttons in the top right 
 
 Click on the 'Add Indicator' icon and the following form will appear:
 
-![](/assets/Add indicator 2.png)
+![](/assets/m-indicator-add-new.png)
 
 1. ID: Administrator can add an indicator ID. If left blank an ID will automatically be assigned.
 
@@ -52,7 +52,7 @@ There are also two ways in which Indicators can be edited;
 
 Individual editing is as simple as finding the indicator you wish to edit, using the search and filtering functions and clicking on the indicator title in question, which brings up the following screen with an Edit button (circled):
 
-![](/assets/Edit indicator.png)
+![](/assets/m-indicatorc-single.png)
 
 Clicking the edit button allows the Administrator to edit all of the fields associated with that indicator including:
 

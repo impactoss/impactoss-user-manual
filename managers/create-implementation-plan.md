@@ -14,13 +14,13 @@ Once the National Implementation Plan has been developed, users of the applicati
 
 This can either be done by importing recommendations or articles in bulk or entering them one by one. Simply click on the 'Recommendations ' tab in the top menu bar and get going. For more information on adding recommendations and articles [click here](/managers/recommendations.md).
 
-![](/assets/Add recommendations.png)
+![](/assets/m-add-recommendation.png)
 
 ##### 2. Cluster your recommendations and articles
 
 By creating clusters the wide ranging obligations become more manageable and easier to track. There are two ways to cluster recommendations and articles. The most efficient is to go to the 'Recommendations' tab in the top menu bar as above and (1) use the filtering and search functions to find similar obligations, (2) select them and then (3) click on 'Thematic Cluster' in the left hand menu bar to create and name a new cluster to put them in.
 
-![](/assets/Clustering.png)
+![](/assets/m-recommendation-list.png)
 
 Alternatively, recommendations or articles could be allocated to clusters individually by finding the one you want, clicking on it to edit and assigning it to a cluster. More information on both approaches can be found [here](/managers/recommendations.md). For more information on the difference between 'filtering' and 'editing' [click here](/managers/batch-edit.md).
 
@@ -28,7 +28,7 @@ Alternatively, recommendations or articles could be allocated to clusters indivi
 
 Now the framework for the National Implementation Plan has been created all that is left to do is add the actions (and associated indicators) that will achieve it. Adding actions and indicators can also be done individually or by importing multiple entries at once. First click on the 'Action' or 'Indicator' page in the top menu bar and then select whether to import or add.
 
-![](/assets/Add action.png)
+![](/assets/m-add-action.png)
 
 If adding multiple entries then the actions/indicators can then be assigned to clusters or individual recommendations/articles using the filter and edit process. If adding one by one then at the time of creation this can be done. Additionally, if you are creating a single action you can also create the indicator(s) associated with it as part of the same process, without having to click on the 'indicators' tab in the top menu bar. For more information on how to carry out these functions [click here](/managers/actions.md).
 
@@ -57,5 +57,5 @@ The SDG Implementation Plan can be developed on its own using the steps above (o
 ##### An Example Implementation Plan
 
 (screenshot covering an illustrative section)
-![](/assets/Implementation Plan 2.png)
+![](/assets/m-action-list.png)
 _(screenshot covering an illustrative section)_
