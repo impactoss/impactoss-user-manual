@@ -24,7 +24,7 @@ To learn about the **principal concepts** in IMPACT OSS and how they relate, as 
 
 Once you click 'Explore' on the homepage you will be taken to the **Overview** page, from where you can access all of published information.
 
-![](/assets/Overview for Visitors.png)  
+![](/assets/overview-for-visitors.png)  
 _Screenshot from demo site ([demo.impactoss.org]https://demo.impactoss.org)) - all content for demo purposes only_
 
 The **overview map (3)** is a visual representation of the principal information contained within the application's database. Clicking on any element map will take you to the relevant area of the tool to explore further.
@@ -33,7 +33,7 @@ These areas of interest are also available in the **main navigation (1)** above.
 
 ##### Recommendations
 
-![](/assets/recommendations_icon.png)
+![](/assets/icon-recommendations.png)
 
 Each country is party to a number of human rights treaties (e.g Convention on the Elimination of All Forms of Discrimination Against Women (CEDAW)). For each treaty it has signed it has a range of legal obligations to implement and regularly receives recommendations, also called observations, from the respective Treaty Bodies on specific areas for improvement.
 
@@ -43,7 +43,7 @@ For more information go to **[Explore Recommendations ](/visitors/recommendation
 
 ##### SDG Targets (optional configuration)
 
-![](/assets/7_sdgs.png)
+![](/assets/icon-sdg.png)
 
 The Sustainable Development Goal (SDG) targets are 169 internationally agreed goals to achieve the 17 SDGs.
 
@@ -53,7 +53,7 @@ For more information go to **[Explore SDG Targets (optional)](/visitors/sdg-targ
 
 ##### Actions
 
-![](/assets/actions_icon.png)
+![](/assets/icon-action.png)
 
 Actions the Government and partners are doing or planning to implement human rights and achieve the SDGs form the overall National Implementation Plan.
 
@@ -61,7 +61,7 @@ For more information go to **[Explore Action Implementation Plan](/visitors/acti
 
 ##### Indicators
 
-![](/assets/indicators_icon.png)
+![](/assets/icon-indicators.png)
 
 Each Action and also SDG targets have at least one indicator to measure progress, outcomes or impact.
 
@@ -69,7 +69,7 @@ For more information go to **[Explore Indicators](/visitors/indicators.md)**
 
 ##### Category groups (or Taxonomies)
 
-![](/assets/categories_icon.png)
+![](/assets/icon-categories.png)
 
 Categories are the ways in which actions, recommendations and the SDG targets are indexed and classified. The different types of categories (also called taxonomies) are listed down the left hand side of the overview screen (marked with (3) in the screenshot above). By selecting category groups you to easily explore recommendations, actions and SDG targets by category.
 

@@ -8,7 +8,7 @@ There are 169 internationally agreed SDG targets, all of which are contained wit
 
 Visitors can therefore explore everything the Government is doing to achieve the SDGs and how work being undertaken in the field of human rights is also helping to achieve the SDGs and vice versa.
 
-![](/assets/SDGs.png)
+![](/assets/v-sdgs.png)
 
 > note on optional configuration
 
@@ -35,3 +35,5 @@ For more details on how to filter read the [Actions page](/visitors/actions.md).
 #### View single SDG target
 
 TODO: single target view
+
+![](/assets/v-sdg-single.png)

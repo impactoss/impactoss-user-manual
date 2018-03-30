@@ -8,7 +8,7 @@
 
 By selecting any of the **category groups** on the left menu bar of the "Overview page" (see [Visitor overview](/visitors/visitor.md)) or any of the "Category group" pages you will be able to explore the different category groups listed and all associated recommendations, actions and optionally also SDG targets for each.
 
-![](/assets/Categories.png)
+![](/assets/v-categories.png)
 _Screenshot from demo site ([demo.impactoss.org]https://demo.impactoss.org)) - all content for demo purposes only_
 
 > Please note that IMPACT OSS can be configured with many different category groups and thus differ significantly from the list shown above
@@ -18,6 +18,9 @@ The recommendations and actions that make up the National Implementation Plan ar
 ---
 
 #### View single category
+
+![](/assets/v-categories-single.png)
+_Screenshot from demo site ([demo.impactoss.org]https://demo.impactoss.org)) - all content for demo purposes only_
 
 Each category group has its own unique colour so that itis easy to identify which category 'tags' have been attached to recommendations, actions and SGD targets.
 
@@ -34,7 +37,7 @@ In the example above, the icons below the recommendation show the different tags
 
 ##### Human Rights Mechanisms (or Bodies)
 
-![](/assets/1_humanRightsBody.png)
+![](/assets/icon-hr-bodies.png)
 
 This taxonomy or group of categories covers all human rights bodies or mechanisms that can make recommendations to a State on how to implement its human rights obligations. There are three different types of categories which may fall under this taxonomy:
 
@@ -44,26 +47,26 @@ This taxonomy or group of categories covers all human rights bodies or mechanism
 
 ##### Reporting cycles
 
-![](/assets/2_UNsession.png)
+![](/assets/icon-cycles.png)
 
 Both the treaty body reviews and the Universal Periodic Review are regular and ongoing. The 'Cycles' taxonomy allows recommendations to be classified by specific cycle. E.g. if the user wants to only view recommendations and associated actions from the most  recent Universal Periodic Review they can easily select this using the 'Cycles' category.
 
 ##### Human rights issues (or Themes)
 
-![](/assets/5_humanrightsissue.png)
+![](/assets/icon-hr-issues.png)
 
 The Office of the United Nations High Commissioner for Human Rights has developed a [Human Rights Index](http://uhri.ohchr.org/en/) which contains a classification system that is the basis for the 'Human Rights Issues' taxonomy. It helps users search by particular area of interest and see what the Government is doing in that field of work.
 
 
 ##### Affected persons
 
-![](/assets/4_affectedPersons.png)
+![](/assets/icon-affected-persons.png)
 
 In the same way that 'Human Rights Issues' allows users to examine particular issues in detail, 'Affected Persons' allows the user to do that with a wide range of demographics. This is again based on the United Nations Human Rights Index system.
 
 ##### Clusters
 
-![](/assets/SMART.png)
+![](/assets/icon-clusters.png)
 
 Every United nations member State receives hundreds of recommendations from the human rights bodies, the Universal Periodic Review and the Special Procedures. There is often overlap between some of the recommendations and in many case they can be similar or be the same. This can make the management of those recommendations more difficult than it needs to be. The application allows the Government to cluster recommendations into general headings to help alleviate this issue.
 
@@ -73,12 +76,12 @@ For the user, this taxonomy once again allows them to explore potential areas of
 
 ##### Organisations
 
-![](/assets/6_organisation.png)
+![](/assets/icon-organisations.png)
 
 The organisations taxonomy lists the Government agencies (and others) carrying out actions contained within the National Implementation Plan. Visitors can use this taxonomy to easily see what work any particular Ministry is doing in the areas of human rights and the SDGs at the click of a button. If your organisation is doing a variety of work related to the actions contained with the National Implementation Plan you can contact the administrator using the 'Contact' link on the website to discuss your involvement.
 
 ##### Sustainable Development Goals
 
-![](/assets/7_sdgs.png)
+![](/assets/icon-sdgs.png)
 
 In addition to being a tool which helps track and coordinate implementation a country's human rights obligations, the application also does the same in relation to the SDGs. Visitors can therefore click on this taxonomy to explore the SDG targets in more detail or to look into what actions the Government is taking to achieve the SDGs. The tool helps to draw the links between the work the Government is doing in relation to the SDGs and the work it is doing in relation to human rights, again eliminating duplication and increasing efficiency.
