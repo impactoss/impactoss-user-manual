@@ -20,11 +20,11 @@
 
 ## 2. Guests
 
-* [DRAFT: Guest overview](/guests/guest.md)
-* [DRAFT: Update User Profile & Password](/guests/user-profile.md)
-* [DRAFT: Reporting as Guest](/guests/reporting.md)
-* [DRAFT: Login & recover password](/guests/login.md)
-* [DRAFT: Become authorised](/guests/promotion.md)
+* [Guest overview](/guests/guest.md)
+* [Update User Profile & Password](/guests/user-profile.md)
+* [Login & recover password](/guests/login.md)
+* [Reporting as Guest](/guests/reporting.md)
+* [Become authorised](/guests/promotion.md)
 
 ## 3. Contributors
 
