@@ -63,7 +63,7 @@ or select one of the common use cases below:
 
 To learn about the capabilities & responsibilities of the Admininistrator go to
 
-* [**Administrator overview**](/admins/admin.md).
+* [**Administrator overview**](/admins/admin.md)
 
 ---
 
