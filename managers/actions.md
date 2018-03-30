@@ -11,7 +11,7 @@ There are two ways for an Administrator to add actions:
 1. Add single actions (see below)
 2. Import a file of multiple actions (see [Import content](/managers/import.md))
 
-![](/assets/Add action.png)
+![](/assets/m-add-action.png)
 
 Both methods of adding actions can be accessed via the buttons in the top right hand corner of the actions page (pictured above).
 
@@ -19,7 +19,7 @@ Both methods of adding actions can be accessed via the buttons in the top right 
 
 Click on the 'Add Action' icon and the following form will appear:
 
-![](/assets/Add actions 3.png)
+![](/assets/m-action-add-new.png)
 
 1. Title: Short title of action
 
@@ -55,7 +55,7 @@ There are also two ways in which Actions can be edited;
 
 Individual editing is as simple as finding the action you wish to edit, using the search and filtering functions and clicking on the action title in question, which brings up the following screen with an Edit button (circled):
 
-![](/assets/Edit action.png)
+![](/assets/m-action-single.png)
 
 Clicking the edit button allows the Administrator to edit all of the fields associated with that action including:
 

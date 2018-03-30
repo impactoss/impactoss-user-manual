@@ -6,11 +6,11 @@
 
 'Filter' mode is available to all users and visitors and allows for actions, indicators, recommendations or SDG targets to be filtered by [category, connected category, connection or status](/glossary.md).
 
-![](/assets/Filter.png)
+![](/assets/m-action-list-1.png)
 
 As soon as an Administrator or Manager is logged in this view changes to:
 
-![](/assets/Filter 2.png)
+![](/assets/m-action-list-2.png)
 
 1. The filter list now becomes a filter or edit list, with filter selected as the default (coloured orange)
 
@@ -18,7 +18,7 @@ As soon as an Administrator or Manager is logged in this view changes to:
 
 As soon as any of the results are selected by the user the mode will automatically switch from 'filter' to 'edit'
 
-![](/assets/Filter 3.png)
+![](/assets/m-action-list-edit.png)
 
 Once the Administrator or Manager is in 'Edit' mode they can update the selected entries (either Actions, Indicators, Recommendations or SDG Targets) and change the entry associations (e.g. the category tags, actions, indicators, thematic cluster). This allows the Administrator to edit entries in bulk. The full details of what is possible for each type of entry is discussed in the chapters below and is only applicable to Administrators and Managers.
 
@@ -27,7 +27,6 @@ Once the Administrator or Manager is in 'Edit' mode they can update the selected
 
 'Filter' mode is available to all registered users and visitors and allows for actions, indicators, recommendations or SDG targets to be filtered by [category, connected category, connection or status](/glossary.md).
 
-![](/assets/Filter.png)
 
 The edit function is available only to **Administrators and Managers.**
 
@@ -37,7 +36,6 @@ The edit function is available only to **Administrators and Managers.**
 
 As soon as any of the results are selected by the user the mode will automatically switch from 'filter' to 'edit'
 
-![](/assets/Filter 3.png)
 
 Once the Administrator or Manager is in 'Edit' mode they can update the selected entries (either Actions, Indicators, Recommendations or SDG Targets) and change the entry associations (e.g. the category tags, actions, indicators, thematic cluster). This allows the Administrator or Manager to edit entries in bulk.
 
@@ -57,11 +55,11 @@ Batch editing is a simple process - first the Administrator needs to identify an
   * Select individual actions using the checkbox next to each action (see \#1 on image below)
   * Select all actions on the page displayed (see \#2 on image below)
   * Select all actions returned by the search and filtering results if they do not fit onto a single display page (see \#3 on image below)
-![](/assets/Selecting actions.png)
+![](/assets/m-action-list-edit-all.png)
 
 2. Once the relevant actions have been selected the Administrator can then use the menu on left hand side of the screen to link the selected actions to any category, connected category or connection. For example, if the selected actions were to be linked to a particular thematic cluster the Administrator would click on the thematic cluster title in the left hand menu bar and the box 1 below will appear. Box 2 shows what happens when the Administrator selects the thematic cluster they wish to link to the actions:
 
-![](/assets/Batch edit actions.png)
+![](/assets/m-action-list-edit-2.png)
 
 1. The Administrator can use the filter box to search for the thematic cluster (or category/sub-category/connection) they wish to find
 
