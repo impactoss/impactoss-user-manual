@@ -51,7 +51,7 @@ A user promoted to "Administrator" can be responsible for
 
 ##### Recommendations
 
-![](/assets/recommendations_icon.png)  ![Accepted](/assets/recAccepted_icon.png) ![Not accepted](/assets/recNotAccepted_icon.png)  
+![](/assets/icon-recommendations.png)  ![Accepted](/assets/icon-rec-accepted.png) ![Not accepted](/assets/icon-rec-noted.png)  
 _Recommendation \| Accepted \| Not accepted_
 
 States receive Recommendations from the Universal Periodic Review, the UN Committees of the Treaties it has ratified and the Special Procedures. These Recommendations are entered into the application and are clustered to form the basis of the National Implementation
@@ -62,7 +62,7 @@ Learn more: [for visitors](/visitors/recommendations.md) \| [for registered user
 
 ##### Actions
 
-![](/assets/actions_icon.png)
+![](/assets/icon-action.png)
 
 Actions are what the State says it is going to do to address **Thematic Clusters** (see below) of **Recommendations** and implement those obligations
 
@@ -70,19 +70,9 @@ Learn more: [for visitors](/visitors/actions.md) \| [for registered users](/memb
 
 ---
 
-##### SDG Targets
-
-![](/assets/7_sdgs.png)
-
-One or more SDG Targets have been defined for each **Sustainable Development Goal** (SDG, see below).
-
-Learn more: [for visitors](/visitors/sdg-targets.md) \| [for registered users](/members/sdg-targets.md)
-
----
-
 ##### Indicators
 
-![](/assets/indicators_icon.png)
+![](/assets/icon-indicators.png)
 
 For each **Action** there will be at least one indicator, which describes how the success of that **Action** will be measured. Indicators have also been defined for **SDG Targets**
 
@@ -90,15 +80,16 @@ Learn more: [for visitors](/visitors/indicators.md) \| [for registered users](/m
 
 ---
 
-##### Progress reports
+##### SDG Targets
 
-![](/assets/report_icon.png)
+![](/assets/icon-sdg.png)
 
-When an **Indicator** is created within the application a date is set for when the information/data is due. This could be a one off or an ongoing process (e.g. quarterly crime statistics). When information is due the Indicator Owner will receive an automate email to upload the required data. This is called a progress report.
+One or more SDG Targets have been defined for each **Sustainable Development Goal** (SDG, see below).
 
-Learn more: [for registered users](/members/indicators.md)
+Learn more: [for visitors](/visitors/sdg-targets.md) \| [for registered users](/members/sdg-targets.md)
 
 ---
+
 
 #### Taxonomies
 
@@ -106,19 +97,21 @@ Taxonomies are groups of categories that allow to classify and cluster the princ
 
 Learn more: [for visitors](/visitors/categories.md) \| [for registered users](/members/categories.md)
 
-##### Thematic Clusters
+#### Global taxonomies
 
-![](/assets/SMART_icon.png)
+##### Sustainable Development Goals (SDGs)
 
-Thematic Clusters are groups of **Recommendations** that make the National Implementation Plan more manageable. For instance, if **Recommendations** were received on the same topic from the UPR and CRC Committee they can be put into one thematic cluster and dealt with together, eliminating duplication and taking a coordinated approach to implementation
+![](/assets/icon-sdgs.png)
 
-_Categorise: Recommendations_
+The Sustainable Development Goals is a set of 17 global goals covering a broad range of sustainable development issues. Within the application they can be used to tag **SDG targets**
+
+_Categorise: SDG targets_
 
 ---
 
 ##### Human Rights Bodies
 
-![](/assets/1_humanRightsBody.png)
+![](/assets/icon-hr-bodies.png)
 
 Human Rights Bodies, incl. Treaty bodies, refers to the Committees which issue recommendations to States on how to meet their human rights obligations. This taxonomy also includes the Universal Periodic Review and Special Procedures. Recommendations within the application are tagged with the relevant treaty body so users can easily see where they came from.
 
@@ -126,9 +119,9 @@ _Categorise: Recommendations_
 
 ---
 
-##### Cycles
+##### Reporting Cycles
 
-![](/assets/2_UNsession.png)
+![](/assets/icon-cycles.png)
 
 Each **Human Rights Body** Committee reviews the State on a regular basis. The cycle allows users of the application to easily see which cycle the recommendations relate to.
 
@@ -138,7 +131,7 @@ _Categorise: Recommendations_
 
 ##### Human Rights Issues
 
-![](/assets/3_humanRight.png)
+![](/assets/icon-hr-issues.png)
 
 The application contains a list of human rights issues which are used to tag **Recommendations**
 
@@ -148,7 +141,7 @@ _Categorise: Recommendations_
 
 ##### Affected persons
 
-![](/assets/4_affectedPersons.png)
+![](/assets/icon-affected-persons.png)
 
 The application contains a list of groups of persons which are used to tag **Recommendations**
 
@@ -158,7 +151,7 @@ _Categorise: Recommendations_
 
 ##### Recommending States
 
-![](/assets/country_icon.png)
+![](/assets/icon-recommending-state.png)
 
 The application contains a list of all United Nations member States so that recommendations made during the Universal Periodic Review Process can be tagged with the country who made the **Recommendation**.
 
@@ -166,9 +159,21 @@ _Categorise: Recommendations_
 
 ---
 
+#### National taxonomies
+
+##### Thematic Clusters
+
+![](/assets/icon-clusters.png)
+
+Thematic Clusters are groups of **Recommendations** that make the National Implementation Plan more manageable. For instance, if **Recommendations** were received on the same topic from the UPR and CRC Committee they can be put into one thematic cluster and dealt with together, eliminating duplication and taking a coordinated approach to implementation
+
+_Categorise: Recommendations_
+
+---
+
 ##### Organisations, incl Government Agencies
 
-![](/assets/6_organisation.png)
+![](/assets/icon-organisations.png)
 
 The application contains a list of organisations, mainly Government agencies, which are used to tag **Actions**
 
@@ -176,28 +181,46 @@ _Categorise: Actions_
 
 ---
 
-##### Sustainable Development Goals (SDG)
+##### SMART criteria
 
-![](/assets/7_sdgs.png)
+![](/assets/icon-smart.png)
 
-The Sustainable Development Goals is a set of 17 global goals covering a broad range of sustainable development issues. Within the application they can be used to tag **SDG targets**
+_Categorise: Actions_
 
-_Categorise: SDG targets_
+![](/assets/icon-smart-specific.png)
+![](/assets/icon-smart-measurable.png)
+![](/assets/icon-smart-assignable.png)
+![](/assets/icon-smart-resultoriented.png)
+![](/assets/icon-smart-timebound.png)
+
+_Specific \| Measurable \| Asssignable \| Result-oriented \| Timebound_
+
 
 ---
 
+
 #### Other Icons
+
+##### Progress reports
+
+![](/assets/icon-progress-report.png)
+
+When an **Indicator** is created within the application a date is set for when the information/data is due. This could be a one off or an ongoing process (e.g. quarterly crime statistics). When information is due the Indicator Owner will receive an automate email to upload the required data. This is called a progress report.
+
+Learn more: [for registered users](/members/indicators.md)
+
+---
 
 | Icon | Name / description |
 | :--- | :--- |
-| ![](/assets/categories_icon.png) | Categories |
-| ![](/assets/connectedCategories_icon.png) | Connected Categories: categories (or tags) inherited from a connected entity |
-| ![](/assets/connections_icon.png) | Connections: relationships between entities, eg an action is connected to a recommendation |
-| ![](/assets/attributes_icon.png) | Entity attributes, eg publication status |
-| ![](/assets/trash_icon.png) | Delete entity |
-| ![](/assets/reminder_icon.png) | Indicator reminder |
-| ![](/assets/calendar_icon.png) | Due Date |
-| ![](/assets/filter_icon.png) | Filter entities |
-| ![](/assets/edit_icon.png) | Edit entities |
+| ![](/assets/icon-connections.png) | Connections: relationships between entities, eg an action is connected to a recommendation |
+| ![](/assets/icon-categories.png) | Categories |
+| ![](/assets/icon-categories-connected.png) | Connected Categories: categories (or tags) inherited from a connected entity |
+| ![](/assets/icon-attributes.png) | Entity attributes, eg publication status |
+| ![](/assets/icon-filter.png) | Filter entities |
+| ![](/assets/icon-edit.png) | Edit entities |
+| ![](/assets/icon-delete.png) | Delete entity |
+| ![](/assets/icon-reminder.png) | Indicator reminder |
+| ![](/assets/icon-due-date.png) | Due Date |
 
 ---
