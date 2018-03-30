@@ -1,4 +1,4 @@
-![](/assets/logo.png)
+![](/assets/header.png)
 
 # User Manual
 
@@ -65,4 +65,3 @@ For more information on the development history and credits for the IMPACT OSS s
 ##### Licence
 
 This manual is part of the [IMPACT OSS open source software](https://github.com/impactoss/impactoss-server/) and accordingly licensed under the same MIT license, see [License](LICENSE.md).
-

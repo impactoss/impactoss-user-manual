@@ -4,7 +4,7 @@ Indicators are the measure of success of whether actions have been completed. Fo
 
 The Indicators tab works in a very similar manner to the [Actions](/visitors/actions.md) tab, except its focus is on the indicators and allows users to search through the all indicators contained within the database, using the filtering tools described in the previous chapter.
 
-![](/assets/Indicators.png)
+![](/assets/v-indicators.png)
 
 ---
 
@@ -30,7 +30,7 @@ A difference to be aware of is that the filter list for indicators is smaller th
 
 If a progress report has been uploaded for an indicator it will be visible to any visitor (circled below).
 
-![](/assets/Progress Report.png)
+![](/assets/v-progress-report.png)
 
 Unless the progress report has been made private for reasons of data protection then the visitor can click on the progress report title and download the information in full.
 
@@ -40,5 +40,4 @@ Unless the progress report has been made private for reasons of data protection 
 
 TODO: single indicator view
 
-
-
+![](/assets/v-indicator-single.png)
