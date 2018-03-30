@@ -71,7 +71,7 @@ For more information go to **[Explore Recommendations ](/visitors/recommendation
 
 The **SDG Targets** are 169 internationally agreed goals to achieve the 17 SDGs.
 
-> Please note that IMPACT OSS can also be configured without SDGs
+> Please note that IMPACT OSS can optionally also be configured without SDGs
 
 For more information go to **[Explore SDG Targets (optional)](/visitors/sdg-targets.md)**
 
@@ -81,7 +81,7 @@ For more information go to **[Explore SDG Targets (optional)](/visitors/sdg-targ
 
 ![](/assets/icon-action.png)
 
-**Actions** the Government and partners are doing or planning to implement human rights and achieve the SDGs form the overall National Implementation Plan. Actions can address both Recommendations and SDG Targets
+**Actions** the Government and partners are doing or planning to implement human rights and achieve the SDGs form the overall National Implementation Plan. Actions can address both Recommendations and SDG Targets.
 
 For more information go to **[Explore Action Implementation Plan](/visitors/actions.md)**
 

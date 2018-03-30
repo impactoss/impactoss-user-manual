@@ -34,7 +34,7 @@ A user promoted to "Contributor". As the data owner for an indicator the user ca
 
 A user promoted to "Manager" can become a
 
-* **Category Manager** responsible for an area of the National Implementation Plan (e.g. UPR recommendations, CRC recommendations, SDG targets, etc.), 
+* **Category Manager** responsible for an area of the National Implementation Plan (e.g. UPR recommendations, CRC recommendations, SDG targets, etc.),
 * **Implementation Plan Manager** responsible for developing and updating the National Implementation Plan.
 
 ##### Role: Administrator
@@ -64,7 +64,7 @@ Learn more: [for visitors](/visitors/recommendations.md) \| [for registered user
 
 ![](/assets/actions_icon.png)
 
-Actions are what the State says it is going to do to address **Thematic Clusters** (see below) of **Recommendations **and implement those obligations
+Actions are what the State says it is going to do to address **Thematic Clusters** (see below) of **Recommendations** and implement those obligations
 
 Learn more: [for visitors](/visitors/actions.md) \| [for registered users](/members/actions.md)
 

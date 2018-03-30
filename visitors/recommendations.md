@@ -2,26 +2,33 @@
 
 > _Available for: [Visitors](/visitors/visitor.md) and registered users ([Guests](/guests/guest.md), [Contributors](/contributors/contributor.md), [Managers](/managers/manager.md), and [Administrators](/admins/admin.md))_
 
-Recommendations are received from the various [Human Rights Bodies](/visitors/categories.md) and are intended to help a country implement its human rights obligations. This page is a collection of all of the recommendations a country has received. The default grouping when users arrive on this page is to group recommendations first by Human Rights Body and then by Cycle.
-
-![](/assets/v-recommendations.png)
+Recommendations are received from the various [Human Rights Bodies](/visitors/categories.md) and are intended to help a country implement its human rights obligations.
 
 ---
 
-#### View recommendation list
+#### View Recommendation list
+
+This 'Recommendation list' page is a collection of all of the recommendations a country has received.
+
+> Depending on the specific configuration, Actions can be grouped by default, e.g. by Human Rights Mechanism and Reporting Cycle
+
+![](/assets/v-recommendations.png)
+_Screenshot from demo site ([demo.impactoss.org](https://demo.impactoss.org)) - all content for demo purposes only_
 
 The 'Recommendations' page works similarly to both the 'Actions' and 'Indicators' pages in that it allows users to explore and filter recommendations based on areas of interest. Unlike 'Actions' and 'Indicators' there is only one view with Recommendations as there is no Implementation Plan to explore in this area.
 
-Also see [Lists: filter, group & more](/visitors/lists.md)
-
-#### Grouping Recommendations
-
-By default recommendations are grouped by human rights body and then cycle, showing users the groups of recommendations that were received at any one time. If a user would like to group the recommendations differently simply click the cross next to 'Human Rights Body' or 'Cycle' (see image above) and select a different grouping from the drop down menu. For more instructions read the [Actions page](/visitors/actions.md).
-
-#### Filtering
-
-Searching and filtering of recommendations works in the same way as filtering actions and indicators. It can be done either through entering words/numbers in the search text box at the top of the screen or by selecting from the filter list on the left hand side. This includes being able to filter by Action or by Government response (UPR recommendations can be either accepted or 'noted' - all other recommendations received are inherently accepted by the Government by way of being party to that Treaty.
-
-For more details on how to filter read the [Actions page](/visitors/actions.md).
+Please see [Lists: filter, group & more](/visitors/lists.md) for options to customise your list view:
+* grouping options
+* sorting options,
+* filtering options.
 
 ---
+
+#### View a single Recommendation
+
+You can explore a single recommendation either from the Recommendation Listor any associated Category or Action view or list.
+
+On the Single Recommendation View (pictured below) you can inspect all information about the recommendation, including government response (if applicable), as well as all associated categories related and Actions:
+
+![](/assets/v-recommendation-single.png)
+_Screenshot from demo site ([demo.impactoss.org](https://demo.impactoss.org)) - all content for demo purposes only_

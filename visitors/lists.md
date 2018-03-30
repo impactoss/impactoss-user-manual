@@ -2,139 +2,108 @@
 
 > _Available for: [Visitors](/visitors/visitor.md) and registered users ([Guests](/guests/guest.md), [Contributors](/contributors/contributor.md), [Managers](/managers/manager.md), and [Administrators](/admins/admin.md))_
 
-The filter and search functions of the application are powerful tools that can be used for a number of purposes, including:
+On any list view, including for [Actions](/visitors/actions.md), [Indicators](/visitors/indicators.md), [Recommendations ](/visitors/recommendations.md), and optionally also [SDG Targets ](/visitors/sdg-targets.md), you can use several features to customise your view:
 
-* Exploring actions, indicators, recommendations or SDG targets by affected persons, or human rights treaty or other category any keyword of your choosing;
-* Finding the actions, indicators, recommendations or SDG targets you wish to update or edit, either individually or as a group (only possible as an Administrator or Manager)
+* **group list items** (except Indicators),
+* **sort list items**,
+* **filter list items** by keyword, attribute and/or associated categories and related elements
+* **change pagination** (number of items on page),
+* **change view mode** to see (Implementation View) or hide (Liust View) nested elements such as Indicators and Progress Reports
 
-> Filtering to Edit: Managers can use the filter function to select the entities they wish to edit individually or in bulk. They must be logged in to do so. For more details on how to editing entities [Batch edit](/managers/batch-edit.md).
+> Note: [Managers](/managers/manager.md) can use the filter function to select the entities they wish to edit individually or in bulk. They must be logged in to do so. For more details on how to edit multiple entities from the list view please see [Batch edit](/managers/batch-edit.md).
 
+#### Grouping
+
+List items can be grouped by any category group (or taxonomy) that is applicable. It additionally allows to subgroup items.
+
+> Depending on the specific configuration, items can be grouped by default, e.g. by Recommendation Cluster and/or by Organisation as pictured below
+
+![](/assets/v-actions-grouping.png)
+_Screenshot from demo site ([demo.impactoss.org](https://demo.impactoss.org)) - all content for demo purposes only_
+
+You can change the grouping by selecting a different taxonomy from the dropdown and ungroup by clicking on the cross next to the grouping.
+
+#### Sorting
+
+List items can also be sorted by creation date (often default), title, reference (where applicable) and last update.
+
+> Depending on the specific configuration, sorting options and default sorting can vary for different list types
+
+#### Filtering
+
+Lists can be filtered by keyword or any associated category, related element or attribute. This can help you narrow down the number of list items according to personal preferences or areas of interest.
+
+> Please note: for a full text search that includes descriptons use the [Search feature](/visitors/search.md)
+
+Any active filter will appear in the search field at the top of the list views:
+
+![](/assets/Search box.png)
+_Screenshot from demo site ([demo.impactoss.org](https://demo.impactoss.org)) - all content for demo purposes only_
+
+##### Filtering by keyword (Reference or Title)
+
+By typing into the search field you can filter list items by keyword, targeting each list item's title, and unique reference (sometime database id). The list will auto update and the number of matching items will accordingly reduce immediately.
+
+In the example pictured below, the list of actions was filtered by 'children':
+
+![](/assets/v-list-search.png)
+_Screenshot from demo site ([demo.impactoss.org](https://demo.impactoss.org)) - all content for demo purposes only_
+
+> The keyword filter function can also be used to find specific entities, e.g. by entering a UPR recommendation reference number.
+
+##### Filtering by Category, connected Category, Connection or Attribute
+
+Other filter options for specific associations can be found in the list side bar on the left hand side.
+
+Filter options includes
+* **Filter by Category**: allows filtering the list items by any Category they are tagged with, grouped by taxonomy
+* **Filter by Connected Category** (where applicable): you can also filter items by a Category a connected element is tagged with, this allows for example filtering Actions by Human Rights Mechanisms that a Recommendation they address is tagged with
+* **Filter by Connection** (where applicable): you can filter items by any other element they are related with, this allows for example filtering Actions by a specific Recommendation
+* **Filter by Attribute** (where applicable): you can filter items by specific attributes and characteristics, for example if Recommendations have been accepted or not accepted.
+
+
+**Example: how to filter a list of actions by Education category (of Thematic CLuster taxonomy)**
+
+![](/assets/v-list-filter.png)
+_Screenshot from demo site ([demo.impactoss.org](https://demo.impactoss.org)) - all content for demo purposes only_
+
+Clicking on the 'Thematic Cluster' taxonomy in the filter list will bring out all Thematic Cluster  categories, including the number of list Actions each category 'tags'. From the cluster list you can simply select the cluster you are interested in and the filter will be applied. If the list of options is long you can also filter the list of filters using the search box above the filter options.
+
+For instance, if we select 'Education' then we are presented with the 5 actions associated with that cluster of Recommendations:
+
+![](/assets/v-list-filtered.png)
+_Screenshot from demo site ([demo.impactoss.org](https://demo.impactoss.org)) - all content for demo purposes only_
+
+The filter the user has applied now appears in the seacrh field above the list (circled in red). You can remove the filter by clicking on the cross on the tag or you can choose additional filters (including keyword filters) to further reduce the number of list items.
 
 ---
+
+### Pagination
+
+You can change the number of items per page or navigate to additional pages by using the options below the list.
+
+> Please note: the default number of search results can vary depening on the specific configuration
+
 ---
----
 
-##### Expanding the Implementation Plan - 'Implementation View'
+#### Change view mode: expanding the Implementation Plan
 
-The Implementation Plan can be viewed in either 'List View' or 'Implementation View'. 'List View' gives the user an overview of the indicators and reports associated with an action whilst "Implementation View' gives the user a more detailed view and with direct access to any associated indicators and reports/data.  The user can toggle between the views in two ways:
-
-1. By clicking on 'Implementation View' towards the top right-hand corner of the screen (see image at top of this page). Once selected the user can revert by clicking on 'List View' in the same place.
-2. By clicking to expand the boxes in list view as described above.
-
-The difference between the two views is illustrated below.
+The National Action Implementation Plan (Action List), as well as Indicator and SDG Target list views, can be viewed in either 'List View' or 'Implementation View'.
 
 **List View**:
 
+The default 'List View' gives the user a condensed overview with the a summary of associated Indicators and Progress Reports only.
+
 ![](/assets/v-impl-list-view.png)
+_Screenshot from demo site ([demo.impactoss.org](https://demo.impactoss.org)) - all content for demo purposes only_
+
+From the list view you can activate the Implementation View either clicking on 'Implementation View' towards the top right-hand corner of the screen (see screenshots). You can also drill down one level at a time by clicking on the respective column headers or summary boxes within each column.
 
 **Implementation View**
 
+The 'Implementation View' gives a more detailed view with direct access to any associated Indicators and Progress Reports
+
 ![](/assets/v-impl-extended-view.png)
+_Screenshot from demo site ([demo.impactoss.org](https://demo.impactoss.org)) - all content for demo purposes only_
 
-##### Grouping Actions
-
-The default grouping of all Actions contained within the database is by Thematic Cluster. The user can change this as they wish to suit their needs.
-
-![](/assets/v-actions-grouping.png)
-
-By clicking on the cross next to the grouping the user can remove that category and select their preferred category from a drop down list. A sub-group category can also be selected if required.
-
-##### Filtering
-
-For a user there may be an overwhelming number of actions, nor may they all be of interest. The tool therefore offers a range of filtering options to help users narrow down the number of actions according to personal preferences or areas of interest.
-
-
-**Filtering by Keyword (Reference or Title)**
-
-Each Action has a reference number and title describing the action. Users can enter words or numbers in the box indicated on the image immediately above to filter the list of actions. For example, if a user was only interested in actions relating to 'prisons' they could enter that word into the filter box and the number of actions would immediately be reduced to only those with 'prison' in the reference:
-
-![](/assets/v-list-search.png)
-
-> Please note, the default number of search results returned at any time is 20. If a user wishes to view more than this at any one time they can scroll to the bottom of the page and select up to 100 per page from a drop down menu
-
-**Filtering by Category, connected category, connection or attribute**
-
-The filter list is a powerful tool for users, allowing them to filter actions (and also indicators and recommendations, as discussed in chapters below) in a variety of ways to suit their needs. The filter list can be located on the left hand side of the screen, as per the image at the top of this section.
-
-Clicking on any of the headings in the filter list will bring out the categories of that taxonomy:
-
-![](/assets/v-list-filter.png)
-
-The pop out menu shows the user all of the categories and the number beside each one shows how many actions each category has associated with it. In this example we have a number of organisations who have either one or two actions associated with them and 559 actions which have yet to be assigned to an organisation. (Please note that this is test data).
-
-The user can simply select which organisation they are interested in and the filter will be applied. If the list of options is long and the user is unable to see the one they would like, there is a search box within the filter pop-out.
-
-For instance, if we select Office of the Attorney General then we are shown the two actions owned by that organisation:
-
-![](/assets/v-list-filtered.png)
-
-The filter the user has applied appears in the filter box in the centre of the page (circled in red). The user can choose to remove the filter for the Office of the Attorney General by clicking on the cross on the tag or they can choose to add another filter to reduce their search results even further. This can be done either using the filter list on the left-hand side or by typing a word or number into the filter box, as described above.
-
-
----
----
----
-
-
-
----
-
-#### Filtering by keyword (Reference or Title)
-
-The search box appears at the top of each of the following pages: actions, indicators, recommendations and SDG targets.
-
-![](/assets/Search box.png)
-
-The user can enter any keyword or reference number to search that particular set of entities (in the example above the 567 actions in the database).
-
-The search function can be used to find specific entities (e.g. by entering a UPR recommendation reference number) or by searching for a group of similar entities (e.g. by entering 'prison' to view all actions involving prisons).
-
-The search function searches the titles and the references - it does not search descriptions or any associated categories, or connections. To search by associated categories or connection the filtering system should be used.
-
-##### Filtering by Category, connected category, connection or attribute
-
-The filter function allows users to filter the results of the page they are on using some or all of the following criteria:
-
-* Thematic cluster
-* Organisation
-* Human Rights Body
-* Reporting Cycle
-* Human Rights Issue
-* Affected Persons
-* SDG
-* Action
-* Indicator
-* Recommendation
-* SDG Target
-* Draft/public status (administrators only)
-
-The filtering system works in the same manner across the different pages. The arrow points to the filtering list on the actions page, which is always in the same place on all of the pages. To start filtering the user simply needs to click on the category, connected category or connection they wish to filter by. For example, if we want to filter by affected pesons body and click on that title, the following box appears
-
-![](/assets/Filter list 3.png)
-
-For example, if we wanted to filter by human rights issue on the recommendations page, the user simply needs to click on the 'affected persons title and the following box will appear:
-
-![](/assets/Filter recs.png)
-
-The list of human rights issues appears in the right hand column, through which the user can scroll. The number next to each issue indicates the number of results will be returned if this filter is applied. To apply the filter the user simply needs to select the check box to the left of the required issue.
-
-Multiple filters can be applied by repeating the steps described above.
-
-Once a filter is applied the tag appears in the search box:
-
-![](/assets/Filter search box.png)
-
-In the example above we have filtered for recommendations that fall within the issue of 'international obligations' and affect 'girls'. Should the user also wish to enter a keyword into the search box to further refine the results they can do so. Alternatively, if they wish to remove one of the filters they simply need to click on the cross in the tag box (as per the picture above).
-
-
----
-
-#### Group list items
-
-about grouping
-
----
-
-#### Select view mode
-
-Expand mode vs list modes
+Once selected the user can revert to the List View by clicking on 'List View' or on the column headers.

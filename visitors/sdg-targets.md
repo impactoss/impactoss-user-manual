@@ -2,38 +2,37 @@
 
 > _Available for: [Visitors](/visitors/visitor.md) and registered users ([Guests](/guests/guest.md), [Contributors](/contributors/contributor.md), [Managers](/managers/manager.md), and [Administrators](/admins/admin.md))_
 
+> Please note that IMPACT OSS can optionally also be configured without SDGs
+
 There is significant overlap between the SDGs and human rights (E.g. SDG 5: Gender Equality and CEDAW) and drawing these links helps to increase coordination in implementation and eliminate duplication of efforts and reporting.
 
 There are 169 internationally agreed SDG targets, all of which are contained within the application. A State using the application may choose to add additional actions and indicators that reflect how a country is setting about achieving the SDGs.
-
-Visitors can therefore explore everything the Government is doing to achieve the SDGs and how work being undertaken in the field of human rights is also helping to achieve the SDGs and vice versa.
-
-![](/assets/v-sdgs.png)
-
-> note on optional configuration
 
 ---
 
 #### View SDG Target list
 
-The 'SDG Targets' page works similarly to the 'Actions', 'Indicators' and 'Recommendations' pages in that it allows users to explore and filter recommendations based on areas of interest. Unlike 'Actions' and 'Indicators' there is only one view with Recommendations as there is no Implementation Plan to explore in this area.
+The 'SDG Target list' view contains everything the Government is doing to achieve the SDGs and how the work being undertaken in the field of human rights is also helping to achieve the SDGs and vice versa.
 
-Also see [Lists: filter, group & more](/visitors/lists.md)
+> SDG Targets should by default be grouped by SDG
 
-##### Grouping SDG targets
+![](/assets/v-sdgs.png)
+_Screenshot from demo site ([demo.impactoss.org](https://demo.impactoss.org)) - all content for demo purposes only_
 
-By default SDG targets are grouped by specific SDG, showing users the targets contained for each individual SDG. If a user would like to group the SDG trggets differently simply click the cross next to 'SDGs'' (see image above) and select a different grouping from the drop down menu. For more instructions read the [Actions page](/visitors/actions.md).
+The 'SDG Targets' page works similarly to the 'Actions', 'Indicators' and 'Recommendations' pages in that it allows users to explore and filter recommendations based on areas of interest.
 
-##### Filtering
-
-Searching and filtering of SDG works in the same way as filtering actions, indicators and recommendations. It can be done either through entering words/numbers in the filtering text box at the top of the screen or by selecting from the filter list on the left hand side.
-
-For more details on how to filter read the [Actions page](/visitors/actions.md).
+Please see [Lists: filter, group & more](/visitors/lists.md) for options to customise your list view:
+* grouping options
+* sorting options,
+* filtering options,
+* switch to 'Implementation Plan' view mode to reveal all implementation details
 
 ---
 
-#### View single SDG target
+#### View single SDG Target
 
-TODO: single target view
+You can explore a single SDG Target either from the SDG Target List or any associated Category (e.g. SDG), Action or Indicator view or list.
+
+On the Single SDG Target View (pictured below) you can inspect all information about the target, including all associated categories (here SDGs only), as well as related Actions and Indicators:
 
 ![](/assets/v-sdg-single.png)

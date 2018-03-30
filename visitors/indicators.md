@@ -4,42 +4,38 @@
 
 Indicators are the measure of success of whether actions have been completed. For each action there should be at least one indicator and for each indicator progress reports should be uploaded demonstrating success or progress.
 
-The Indicators tab works in a very similar manner to the [Actions](/visitors/actions.md) tab, except its focus is on the indicators and allows users to search through the all indicators contained within the database, using the filtering tools described in the previous chapter.
+---
+
+#### View Indicator list
+
+The Indicators list works in a very similar manner to the [Actions](/visitors/actions.md) list, except its focus is on the indicators and allows users to search through the all indicators contained within the database.
 
 ![](/assets/v-indicators.png)
+_Screenshot from demo site ([demo.impactoss.org](https://demo.impactoss.org)) - all content for demo purposes only_
 
----
+Please see [Lists: filter, group & more](/visitors/lists.md) for options to customise your list view:
+* sorting options,
+* filtering options,
+* switch to 'Implementation Plan' view mode to reveal all progress details
 
-#### View indicator list
+##### View Progress Reports
 
-Similar to the Actions tab, there are two different views for Indicators - the 'List' view and the 'Implementation' view. Users can select which view they prefer using the link below the bottom right-hand corner of the filtering text box (see image above or read the [Actions page](/visitors/actions.md) for more details)
-
-Also see [Lists: filter, group & more](/visitors/lists.md)
-
-##### Grouping Indicators
-
-Unlike actions, indicators do not have a default grouping already set when you land on the page.
-
-However, the user can still group the indicators in the same manner by using the drop down menu found below the filtering text box (see image above). For more instructions read the [Actions page](/visitors/actions.md).
-
-##### Filtering
-
-Filtering of indicators works in the same way as filtering actions. It can be done either through entering words/numbers in the filtering text box at the top of the screen or by selecting from the filter list on the left hand side.
-
-A difference to be aware of is that the filter list for indicators is smaller than that for actions. This is because indicators are linked directly to actions and are therefore one stage removed from categories such as Human Rights Body, Cycle, Issue, and Affected Persons. Other than having a smaller filter list, the process is the same. For more details read the [Actions page](/visitors/actions.md).
-
-##### Accessing Progress Reports
-
-If a progress report has been uploaded for an indicator it will be visible to any visitor (circled below).
+To view and select individual Progress Reports click on the progress report number displayed next to each indicator (or alternatively switch to view mode to "Implementation Plan", see [Lists](/visitors/lists.md) for details).
 
 ![](/assets/v-progress-report.png)
+_Screenshot from demo site ([demo.impactoss.org](https://demo.impactoss.org)) - all content for demo purposes only_
 
-Unless the progress report has been made private for reasons of data protection then the visitor can click on the progress report title and download the information in full.
+Alterantively you can first select the indicator and then, on the "Single Indicator View" (see below), select the Progress Report.
+
+
 
 ---
 
-#### View single indicator
+#### View single Indicator
 
-TODO: single indicator view
+You can explore a single indicator either from the Indicator List or any associated Action or SDG Target view and list.
+
+On the Single Indicator View (pictured below) you can inspect all information about the indicator, including progress reports, as well as all associated Actions and SDG targets:
 
 ![](/assets/v-indicator-single.png)
+_Screenshot from demo site ([demo.impactoss.org](https://demo.impactoss.org)) - all content for demo purposes only_

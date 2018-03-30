@@ -10,13 +10,13 @@
 * [Visitor overview (all users)](/visitors/visitor.md)
 * [Explore by Category](/visitors/categories.md)
 * [Explore Action Implementation Plan](/visitors/actions.md)
-* [DRAFT: Explore Indicators](/visitors/indicators.md)
-* [DRAFT: Explore Recommendations ](/visitors/recommendations.md)
-* [DRAFT: Explore SDG Targets (optional)](/visitors/sdg-targets.md)
-* [DRAFT: Explore Pages](/visitors/content.md)
-* [DRAFT: Search website](/visitors/search.md)
-* [DRAFT: Lists: filter, group & more](/visitors/lists.md)
-* [DRAFT: Register](/visitors/register.md)
+* [Explore Indicators](/visitors/indicators.md)
+* [Explore Recommendations ](/visitors/recommendations.md)
+* [Explore SDG Targets (optional)](/visitors/sdg-targets.md)
+* [Explore Pages](/visitors/content.md)
+* [Lists: filter, group & more](/visitors/lists.md)
+* [Search website](/visitors/search.md)
+* [Register](/visitors/register.md)
 
 ## 2. Guests
 
@@ -53,6 +53,7 @@
 ## 5. Admininistrators
 
 * [DRAFT: Admin overview](/admins/admin.md)
+* [DRAFT: Assign Category Manager](/admins/assign-category.md)
 * [DRAFT: Manage Pages](/admins/pages.md)
 
 ## Appendix
