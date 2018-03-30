@@ -1,5 +1,7 @@
 ### Reporting as a Guest
 
+> _Available for: [Guests](/guests/guest.md). Contributors please refer to ([Reporting as Contributor](/contributors/reporting.md) and Managers and Administrators please see [Reporting as Manager](/managers/reporting.md))_
+
 Adding progress reports is critical to the success of using this tool. Progress reports contain the data required for each indicator of the National Implementation Plan. This regular entry of data allows States, civil society and other stakeholders to check progress of the Plan and ensures that required reporting is just a matter of analysing the data and writing the narrative.
 
 Data can be entered through progress reports by civil servants, administrators of the database or civil society and other stakeholders.

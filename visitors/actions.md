@@ -1,5 +1,7 @@
 ## Explore the Action Implementation Plan
 
+> _Available for: [Visitors](/visitors/visitor.md) and registered users ([Guests](/guests/guest.md), [Contributors](/contributors/contributor.md), [Managers](/managers/manager.md), and [Administrators](/admins/admin.md))_
+
 The 'Actions' page contains all of the actions the Government (and other actors) have committed to in order to implement State human rights obligations and the SDGs.
 
 When you first arrive on this page, the default view is to group the actions by thematic cluster. This is the National Implementation Plan.

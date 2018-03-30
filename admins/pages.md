@@ -1,5 +1,7 @@
 ### Manage Pages
 
+> _Available for: [Administrators](/admins/admin.md))_
+
 Administrators are able to create content pages to provide visitors with information. This could be about the tool itself, the human rights system, the SDGs or any relevant topic. Clicking on the 'Pages' tab will allow Administrators to add new pages or edit existing pages
 
 ![](/assets/Pages.png)

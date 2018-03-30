@@ -1,22 +1,34 @@
 ### Explore by categories
 
-#### View categories by taxonomy
+> _Available for: [Visitors](/visitors/visitor.md) and registered users ([Guests](/guests/guest.md), [Contributors](/contributors/contributor.md), [Managers](/managers/manager.md), and [Administrators](/admins/admin.md))_
 
-By selecting any of the categories on the left menu bar of the Overview page you will be able to explore the different category groups listed and the associated recommendations and actions for each.
+---
+
+#### View categories by category group (also called taxonomy)
+
+By selecting any of the **category groups** on the left menu bar of the "Overview page" (see [Visitor overview](/visitors/visitor.md)) or any of the "Category group" pages you will be able to explore the different category groups listed and all associated recommendations, actions and optionally also SDG targets for each.
 
 ![](/assets/Categories.png)
+_Screenshot from demo site ([demo.impactoss.org]https://demo.impactoss.org)) - all content for demo purposes only_
 
-The recommendations and actions that make up the National Implementation Plan are categorised in a number of different ways (called taxonomies or category groups) to allow visitors to explore the information based on their specific areas of interest, or to arrange the information in a way which meets their needs. Each category has it's own unique 'tag' which is attached to recommendations, actions and indicators for users to easily identify how it is identified.
+> Please note that IMPACT OSS can be configured with many different category groups and thus differ significantly from the list shown above
 
-> Note: configuration
+The recommendations and actions that make up the National Implementation Plan are categorised in a number of different ways (called taxonomies or category groups) to allow visitors to explore the information based on their specific areas of interest.
+
+---
+
+#### View single category
+
+Each category group has its own unique colour so that itis easy to identify which category 'tags' have been attached to recommendations, actions and SGD targets.
 
 ![](/assets/cursor.png)
+_Screenshot from demo site ([demo.impactoss.org]https://demo.impactoss.org)) - all content for demo purposes only_
 
 In the example above, the icons below the recommendation show the different tags that have been assigned. Hovering the cursor over any of the tags will bring up the full title, in this case 'CRC' is shown to be 'Convention on the Rights of the Child'. Clicking on any of the tags will take the user to a page specifically for that category, and display all recommendations and actions associated with it.
 
 ---
 
-#### The taxonomies in detail
+#### Example taxonomies
 
 > Note: Taxonomies can include universal classifications of recommendations used by the UN such as and State-specific classifications of recommendations and actions (and users) such as
 
@@ -70,9 +82,3 @@ The organisations taxonomy lists the Government agencies (and others) carrying o
 ![](/assets/7_sdgs.png)
 
 In addition to being a tool which helps track and coordinate implementation a country's human rights obligations, the application also does the same in relation to the SDGs. Visitors can therefore click on this taxonomy to explore the SDG targets in more detail or to look into what actions the Government is taking to achieve the SDGs. The tool helps to draw the links between the work the Government is doing in relation to the SDGs and the work it is doing in relation to human rights, again eliminating duplication and increasing efficiency.
-
----
-
-#### View single category
-
-TODO describe single category view

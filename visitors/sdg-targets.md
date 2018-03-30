@@ -1,5 +1,7 @@
 ### Explore SDG Targets (optional)
 
+> _Available for: [Visitors](/visitors/visitor.md) and registered users ([Guests](/guests/guest.md), [Contributors](/contributors/contributor.md), [Managers](/managers/manager.md), and [Administrators](/admins/admin.md))_
+
 There is significant overlap between the SDGs and human rights (E.g. SDG 5: Gender Equality and CEDAW) and drawing these links helps to increase coordination in implementation and eliminate duplication of efforts and reporting.
 
 There are 169 internationally agreed SDG targets, all of which are contained within the application. A State using the application may choose to add additional actions and indicators that reflect how a country is setting about achieving the SDGs.

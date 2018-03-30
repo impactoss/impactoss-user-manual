@@ -1,5 +1,7 @@
 ### Oversee Reporting
 
+> _Available for: ([Managers](/managers/manager.md) and [Administrators](/admins/admin.md))_
+
 #### Setting Up Indicator Managers
 
 Setting up an Indicator Owner means assigning responsibility for a particular indicator to a registered user. That user will then be receive the automated report reminder emails and be responsible for uploading the report and data. This can only be done by Managers and Administrators.

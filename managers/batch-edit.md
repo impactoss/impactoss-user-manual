@@ -1,5 +1,7 @@
 ### Batch edit multiple items
 
+> _Available for: ([Managers](/managers/manager.md) and [Administrators](/admins/admin.md))_
+
 #### 'Edit' v 'Filter' Mode
 
 'Filter' mode is available to all users and visitors and allows for actions, indicators, recommendations or SDG targets to be filtered by [category, connected category, connection or status](/glossary.md).

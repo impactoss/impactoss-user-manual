@@ -1,5 +1,7 @@
 ### Create National Implementation Plan
 
+> _Available for: ([Managers](/managers/manager.md) and [Administrators](/admins/admin.md))_
+
 The National Implementation Plan consists of the obligations of the State in relation to human rights and the SDGs. It also contains the actions the Government is planning to do to implement those obligations and contains the data of progress achieved to date. A National Plan can be created for either human rights or the SDGs, or both.  
 
 The obligations, which form the basis of the National Implementation Plan, can be SDG targets, human rights recommendations received from the Universal Periodic Review, Treaty Body Committees, the Special Procedures or the substantive articles of the Treaties themselves. These are often overlapping in nature so the application helps the user to create a National Implementation Plan where all linkages are identified, eliminating duplication of reporting, helping to foster a coordinated implementation approach and to identify any gaps from the outset. If a national Implementation Plan is developed for both human rights and the SDGs any crossover can also be identified and duplication of efforts reduced yet further.

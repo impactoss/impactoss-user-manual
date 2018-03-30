@@ -1,5 +1,7 @@
 ## 4. Manager overview
 
+> _Available for: Managers and [Administrators](/admins/admin.md))_
+
 ##### Who?
 
 Managers are responsible for developing and updating the National Implementation Plan. Some managers can also become "Category managers" and are responsible for an area of the National Implementation Plan (e.g. UPR recommendations, CRC recommendations, SDG targets, etc.) and thus for sets of recommendations. Category Managers play an oversight role to ensure that data is entered when required - thus providing the second safeguard against non-entry of data.

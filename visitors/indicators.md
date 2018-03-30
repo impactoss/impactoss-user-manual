@@ -1,5 +1,7 @@
 ### Explore Indicators
 
+> _Available for: [Visitors](/visitors/visitor.md) and registered users ([Guests](/guests/guest.md), [Contributors](/contributors/contributor.md), [Managers](/managers/manager.md), and [Administrators](/admins/admin.md))_
+
 Indicators are the measure of success of whether actions have been completed. For each action there should be at least one indicator and for each indicator progress reports should be uploaded demonstrating success or progress.
 
 The Indicators tab works in a very similar manner to the [Actions](/visitors/actions.md) tab, except its focus is on the indicators and allows users to search through the all indicators contained within the database, using the filtering tools described in the previous chapter.

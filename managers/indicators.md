@@ -1,5 +1,7 @@
 ### Manage Indicators
 
+> _Available for: ([Managers](/managers/manager.md) and [Administrators](/admins/admin.md))_
+
 Administrators and Managers can 'add or edit' data via the Indicators page. They are both also able to add progress reports to indicators.
 
 #### Adding Indicators

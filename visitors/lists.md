@@ -1,5 +1,7 @@
 ### Lists: Filter, group & more
 
+> _Available for: [Visitors](/visitors/visitor.md) and registered users ([Guests](/guests/guest.md), [Contributors](/contributors/contributor.md), [Managers](/managers/manager.md), and [Administrators](/admins/admin.md))_
+
 The filter and search functions of the application are powerful tools that can be used for a number of purposes, including:
 
 * Exploring actions, indicators, recommendations or SDG targets by affected persons, or human rights treaty or other category any keyword of your choosing;

@@ -1,5 +1,7 @@
 ### Manage Recommendations
 
+> _Available for: ([Managers](/managers/manager.md) and [Administrators](/admins/admin.md))_
+
 Administrators and Managers can 'add or edit' data via the Recommendations page.
 
 #### Adding Recommendations

@@ -1,5 +1,7 @@
 ### Manage SDG Targets (optional configuration)
 
+> _Available for: ([Managers](/managers/manager.md) and [Administrators](/admins/admin.md))_
+
 Administrators and Managers can 'add or edit' data via the SDG Targets page.
 
 #### Adding SDG targets

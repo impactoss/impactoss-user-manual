@@ -1,5 +1,7 @@
 ## 5. Administrator overview
 
+> _Available for: Administrators_
+
 ##### Who?
 
 Application administrators play a critical role in maintenance of the application.

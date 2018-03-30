@@ -1,5 +1,7 @@
 ### Edit single item
 
+> _Available for: ([Managers](/managers/manager.md) and [Administrators](/admins/admin.md))_
+
 The database is made up of information entered into it by the State and is designed so that it is flexible and can be used in a way that meets the needs of any country. All of the information and categorisations are totally flexible and can be created and edited as needed. The following can be classified as entities within the database:
 
 * Categories (human rights body, reporting cycle, human rights issue, affected persons, thematic clusters, organisations, SDGs)

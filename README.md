@@ -4,48 +4,66 @@
 
 ## Introduction
 
-This user manual provides guidance on how to use IMPACT OSS, the Open Source Software \(OSS\) for Integrated Management and Planning of Actions \(IMPACT\), created to assist States with coordinating and monitoring implementation of human rights and the Sustainable Development Goals \(SDGs\). You can learn more about the platform and history on [**About IMPACT OSS**](about.md).
+This user manual provides guidance on how to use IMPACT OSS, the Open Source Software (OSS) for Integrated Management and Planning of Actions (IMPACT), created to assist States with coordinating and monitoring implementation of human rights and the Sustainable Development Goals (SDGs). To learn more about the motivation behind IMPACT OSS and its history have a look at [**About IMPACT OSS**](/about.md) or go to the project website [impactoss.org](https://impactoss.org)
 
 ---
 
-#### Howtos: common use cases by user type
+#### Explore by user type & common use cases
 
-This manual is organised by user type, ordered by increasing rights & responsibilities:
+This manual is organised by user type, ordered by increasing capabilities:
 
-##### 1. Visitor \(all users\)
+##### 1. Visitor
 
-To learn how all users can use IMPACT OSS, including unregistered members of the public, go to [**Visitor**](visitors/visitor.md) or select one of the common use cases below:
+To learn you can use IMPACT OSS without having a user account please start at
 
-* [**Explore by Category**](visitors/categories.md)
-* [**Explore Action Implementation Plan**](visitors/actions.md)
-* [**Search the database**](/visitors/search.md)
-* [**Register**](/visitors/register.md)
+* [**Visitor overview**](/visitors/visitor.md)
 
-##### 2. User type: Guest \(all registered users\)
+or select one of the common use cases below
 
-To learn what all registered users can do, go to [**Guest**](/guests/guest.md) or select one of the common use cases below:
+* [Explore Recommendations & Actions by Category](/visitors/categories.md)
+* [Explore the Action Implementation Plan](/visitors/actions.md)
+* [Search the entire database](/visitors/search.md)
+* [Register](/visitors/register.md)
 
-* [**Submit Progress Reports**](/guests/reporting.md) as Visitor
-* [**Update User Profile**](/guests/user-profile.md)
+##### 2. User type: Guest (all registered users)
+
+To learn about usage options once you have registered, go to
+
+* [**Guest overview**](/guests/guest.md)
+
+or select one of the common use cases below:
+
+* [Update your User Profile & change password](/guests/user-profile.md)
+* [Submit a Guest Progress Reports](/guests/reporting.md)
 
 ##### 3. User type: Contributor
 
-To learn about the contributor role go to [**Contributor**](contributors/contributor.md) or select the common use case below:
+To learn about the contributor role go to
 
-* [**Submit Progress Reports**](/contributors/reporting.md) as Contributor
+* [**Contributor overview**](/contributors/contributor.md)
+
+or select the common use case below:
+
+* [Submit a Contributor Progress Reports](/contributors/reporting.md)
 
 ##### 4. User type: Manager
 
-To learn about the rights & responsibilities of a Manager go to [**Manager**](managers/manager.md) or select one of the common use cases below:
+To learn about the capabilities & responsibilities of a Manager go to
 
-* [**Create Implementation Plan**](managers/create-implementation-plan.md)
-* [**Monitor Implementation Plan**](managers/monitor-implementation-plan.md)
-* [**Oversee Progress Reports**](managers/oversee-reporting.md)
-* [**Promote Users**](managers/users-admin.md)
+* [**Manager overview**](/managers/manager.md)
+
+or select one of the common use cases below:
+
+* [Create the Implementation Plan](/managers/create-implementation-plan.md)
+* [Monitor the Implementation Plan](/managers/monitor-implementation-plan.md)
+* [Oversee Progress Reports](/managers/oversee-reporting.md)
+* [Promote Users](/managers/users-admin.md)
 
 ##### 5. User type: Admininistrator
 
-To learn about the rights & responsibilities of the Admininistrator go to [**Administrator**](admins/admin.md).
+To learn about the capabilities & responsibilities of the Admininistrator go to
+
+* [**Administrator overview**](/admins/admin.md).
 
 ---
 
@@ -53,8 +71,8 @@ To learn about the rights & responsibilities of the Admininistrator go to [**Adm
 
 Please help us improve this user manual and the IMPACT OSS software:
 
-* [**Improve this user manual**](/appendix/contribute.md)
-* [**Report software bugs**](/appendix/report-bugs.md)
+* [Improve this user manual](/appendix/contribute.md)
+* [Report software bugs](/appendix/report-bugs.md)
 
 ##### User Manual Credits
 

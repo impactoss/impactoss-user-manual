@@ -1,5 +1,7 @@
 ### Manage Categories
 
+> _Available for: ([Managers](/managers/manager.md) and [Administrators](/admins/admin.md))_
+
 #### Editing/Adding Categories
 
 ![](/assets/Editing categories.png)

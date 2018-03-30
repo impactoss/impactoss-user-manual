@@ -5,59 +5,60 @@
 * [Introduction](README.md)
 * [About IMPACT OSS](about.md)
 
-## 1. Visitor (all users)
+## 1. Visitors
 
-* [Visitor overview (all users)](visitors/visitor.md)
-* [Explore by Category](visitors/categories.md)
-* [Explore Action Implementation Plan](visitors/actions.md)
-* [Explore Indicators](visitors/indicators.md)
-* [Explore Recommendations ](visitors/recommendations.md)
-* [Explore SDG Targets (optional)](visitors/sdg-targets.md)
-* [Explore Pages](visitors/content.md)
-* [Search website](visitors/search.md)
-* [Lists: filter, group & more](visitors/lists.md)
-* [Register](visitors/register.md)
+* [Visitor overview (all users)](/visitors/visitor.md)
+* [DRAFT: Explore by Category](/visitors/categories.md)
+* [DRAFT: Explore Action Implementation Plan](/visitors/actions.md)
+* [DRAFT: Explore Indicators](/visitors/indicators.md)
+* [DRAFT: Explore Recommendations ](/visitors/recommendations.md)
+* [DRAFT: Explore SDG Targets (optional)](/visitors/sdg-targets.md)
+* [DRAFT: Explore Pages](/visitors/content.md)
+* [DRAFT: Search website](/visitors/search.md)
+* [DRAFT: Lists: filter, group & more](/visitors/lists.md)
+* [DRAFT: Register](/visitors/register.md)
 
-## 2. Guest (all registered users)
+## 2. Guests
 
-* [Guest overview](guests/guest.md)
-* [Reporting as Guest](guests/reporting.md)
-* [Update User Profile](guests/user-profile.md)
-* [Login & recover password](guests/login.md)
-* [Get Promoted](guests/promotion.md)
+* [DRAFT: Guest overview](/guests/guest.md)
+* [DRAFT: Update User Profile & Password](/guests/user-profile.md)
+* [DRAFT: Reporting as Guest](/guests/reporting.md)
+* [DRAFT: Login & recover password](/guests/login.md)
+* [DRAFT: Become authorised](/guests/promotion.md)
 
-## 3. Contributor
+## 3. Contributors
 
-* [Contributor overview](contributors/contributor.md)
-* [Reporting as Contributor](contributors/reporting.md)
-* [Explore Draft Content](contributors/draft.md)
+* [DRAFT: Contributor overview](/contributors/contributor.md)
+* [DRAFT: Reporting as Contributor](/contributors/reporting.md)
+* [DRAFT: Explore Draft Content](/contributors/draft.md)
 
-## 4. Manager
+## 4. Managers
 
-* [Manager overview](/managers/manager.md)
-* [Create Implementation Plan](/managers/create-implementation-plan.md)
-* [Monitor Implementation Plan](/managers/monitor-implementation-plan.md)
-* [Oversee Reporting](/managers/oversee-reporting.md)
-* [Manage Categories](/managers/categories.md)
-* [Manage Actions](/managers/actions.md)
-* [Manage Indicators](/managers/indicators.md)
-* [Manage Recommendations](/managers/recommendations.md)
-* [Manage SDG Targets (optional)](/managers/sdg-targets.md)
-* [Manage & Promote Users](/managers/users-admin.md)
-* [Add single item](/managers/add-content.md)
-* [Edit single item](/managers/edit-content.md)
-* [Import multiple items](/managers/import.md)
-* [Batch edit multiple items](/managers/batch-edit.md)
+* [DRAFT: Manager overview](/managers/manager.md)
+* [DRAFT: Create Implementation Plan](/managers/create-implementation-plan.md)
+* [DRAFT: Monitor Implementation Plan](/managers/monitor-implementation-plan.md)
+* [DRAFT: Oversee Reporting](/managers/oversee-reporting.md)
+* [DRAFT: Manage Categories](/managers/categories.md)
+* [DRAFT: Manage Actions](/managers/actions.md)
+* [DRAFT: Manage Indicators](/managers/indicators.md)
+* [DRAFT: Manage Recommendations](/managers/recommendations.md)
+* [DRAFT: Manage SDG Targets (optional)](/managers/sdg-targets.md)
+* [DRAFT: Manage & Promote Users](/managers/users-admin.md)
+* [DRAFT: Reporting as Manager](/managers/reporting.md)
+* [DRAFT: Add single item](/managers/add-content.md)
+* [DRAFT: Edit single item](/managers/edit-content.md)
+* [DRAFT: Import multiple items](/managers/import.md)
+* [DRAFT: Batch edit multiple items](/managers/batch-edit.md)
 
-## 5. Admininistrator
+## 5. Admininistrators
 
-* [Admin overview](admins/admin.md)
-* [Manage Pages](admins/pages.md)
+* [DRAFT: Admin overview](/admins/admin.md)
+* [DRAFT: Manage Pages](/admins/pages.md)
 
 ## Appendix
 
-* [Improve this guide](appendix/contribute.md)
-* [Report software bugs](appendix/repprt-bugs.md)
-* [History & Credits](appendix/history.md)
-* [Glossary & Icons](appendix/glossary.md)
+* [DRAFT: Improve this guide](/appendix/contribute.md)
+* [DRAFT: Report software bugs](/appendix/repprt-bugs.md)
+* [DRAFT: History & Credits](/appendix/history.md)
+* [DRAFT: Glossary & Icons](/appendix/glossary.md)
 * [License](LICENSE.md)

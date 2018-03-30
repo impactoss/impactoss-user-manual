@@ -1,6 +1,6 @@
-### Reporting as Contributor
+### Reporting as Manager
 
-> _Available for: [Contributors](/contributors/contributor.md). Managers and Administrators please see [Reporting as Manager](/managers/reporting.md))_
+> _Available for: ([Managers](/managers/manager.md) and [Administrators](/admins/admin.md))_
 
 Adding progress reports is critical to the success of using this tool. Progress reports contain the data required for each indicator of the National Implementation Plan. This regular entry of data allows States, civil society and other stakeholders to check progress of the Plan and ensures that required reporting is just a matter of analysing the data and writing the narrative.
 

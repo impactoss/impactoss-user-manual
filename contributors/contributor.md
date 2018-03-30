@@ -1,5 +1,7 @@
 ## 3. Contributor overview
 
+> _Available for: Contributors, and all other authorised users ([Managers](/managers/manager.md), and [Administrators](/admins/admin.md))_
+
 ##### Who?
 
 The data owner for an indicator and this are key to the success of the data entry - they are the registered users who upload information against all of the indicators. Once assigned to an indicator the user becomes responsible for uploading data at the required time. Receive automated reminder emails when a progress report is due (weekly, 30 days ahead of due date) and overdue (daily, after due date has passed)

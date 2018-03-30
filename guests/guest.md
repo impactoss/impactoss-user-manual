@@ -1,6 +1,8 @@
 ## 2. Guest overview
 
-#### Who?
+> _Available for: Guests, as well as all authorised users ([Contributors](/contributors/contributor.md), [Managers](/managers/manager.md), and [Administrators](/admins/admin.md))_
+
+#### Who are Guests?
 
 Anyone that has registered and has not been assigned a different role.
 

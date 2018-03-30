@@ -1,5 +1,7 @@
 ### Manage and promote users
 
+> _Available for: ([Managers](/managers/manager.md) and [Administrators](/admins/admin.md))_
+
 On the Users page Administrators and Managers can manage all of the registered users and perform the following functions:
 
 * Edit existing users (details, user type, delete)
