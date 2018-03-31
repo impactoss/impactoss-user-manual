@@ -27,6 +27,8 @@ You can change the grouping by selecting a different taxonomy from the dropdown 
 
 List items can also be sorted by creation date (often default), title, reference (where applicable) and last update.
 
+![](/assets/v-action-list-sorting.png)
+
 > Depending on the specific configuration, sorting options and default sorting can vary for different list types
 
 #### Filtering
@@ -37,7 +39,7 @@ Lists can be filtered by keyword or any associated category, related element or 
 
 Any active filter will appear in the search field at the top of the list views:
 
-![](/assets/Search box.png)
+![](/assets/v-action-list-seach.png)
 _Screenshot from demo site ([demo.impactoss.org](https://demo.impactoss.org)) - all content for demo purposes only_
 
 ##### Filtering by keyword (Reference or Title)

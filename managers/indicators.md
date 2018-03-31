@@ -52,7 +52,7 @@ There are also two ways in which Indicators can be edited;
 
 Individual editing is as simple as finding the indicator you wish to edit, using the search and filtering functions and clicking on the indicator title in question, which brings up the following screen with an Edit button (circled):
 
-![](/assets/m-indicatorc-single.png)
+![](/assets/m-indicator-single.png)
 
 Clicking the edit button allows the Administrator to edit all of the fields associated with that indicator including:
 
