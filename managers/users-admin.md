@@ -22,7 +22,7 @@ On the User List (navigate here from top right hand corner of screen) you see a 
 
 ---
 
-##### Update & promote Single User
+#### Update & promote Single User
 
 From the Single User View (selected from User List), click 'EDIT' (see screenshot below)
 

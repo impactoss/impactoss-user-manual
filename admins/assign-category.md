@@ -2,15 +2,14 @@
 
 > _Available for: [Administrators](/admins/admin.md))_
 
-To assign a category manager click on **EDIT** to access the form.
+When editing a selected Categories (e.g. a Human Rights Mechanism category, see [Manage Categories](/managers/categories.md)), Administrators will have the option to assign Category Managers (also see [Oversee Reporting](/managers/oversee-reporting.md)).
 
-![](/assets/a-category.png)
-
-To assign a category manager follow the follwoing steps:
-
-![](/assets/a-category-assign-manager.png)
+To assign a Manager to a Category follow these steps:
 
 1. Click on **Category manager**
 2. Select a manager from list in drop down
 3. Close drop down
 4. Save
+
+![](/assets/a-category-assign-manager.png)
+_Screenshot from demo site ([demo.impactoss.org](https://demo.impactoss.org)) - all content for demo purposes only_

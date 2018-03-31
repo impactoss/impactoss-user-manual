@@ -30,9 +30,9 @@ On the 'New Recommendation View' (see screenshot above), enter the following inf
 1. **ID**: Optionally add a unique indicator ID. If left blank an ID will automatically be assigned.
 2. **Title**: Recommendation title
 3. **Government response**: Only applicable to UPR recommendations, which a Government can 'accept' or 'note'. The response for UPR recommendations should be recorded here
-4. **Government response comment**: When Government's 'note' comments they often explain why they are not accepting them. Details of such reasoning should be recorded here.
+4. **Government response comment**: When Government's 'note' comments they often explain why they are not accepting them. Details of such reasoning should be recorded here. Text styling can be applied using markdown (see http://commonmark.org/help).
 4. **Actions**: Clicking on the drop down menu allows you to link the Recommendation to any of the Actions contained within the database. At the bottom of the drop down menu is also an 'Add' button where you can choose to add a new action from here to link to the recommendation if you wish.
-6. **Status**: By defsault initially set to **Draft**, you can change this to **Public** once the Action is ready to be published on the public site. _Note: The publication status of Actions can also be changed using [Batch editing](/managers/batch-edit.md)_
+6. **Status**: By default initially set to **Draft**, you can change this to **Public** once the Action is ready to be published on the public site. _Note: The publication status of Actions can also be changed using [Batch editing](/managers/batch-edit.md)_
 7. **Human rights body** (depends on configuration): Clicking on the drop down menu allows you to link the Recommendation to any of the pre-existing category. At the bottom of the drop down menu is also an 'Add' button where you can choose to add a new category from here to link to the Recomendation you wish. See also [Explore by Category](/visitors/categories.md).
 8. **Reporting Cycle** (depends on configuration): like 7.
 9. **Human rights issue** (depends on configuration): like 7.

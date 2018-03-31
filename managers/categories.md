@@ -22,7 +22,7 @@ On the 'New Category View' (see screenshot above), enter the following informati
 2. **Title**: A short description of the category (e.g. name of the human rights body, overview of thematic cluster, organisation name, etc.)
 3. **Short title**: An abbreviated version of the title that will be used for the associated tag.
 ![](/assets/m-short-titles.png)
-4. **Description**: Longer description if required (optional). This is a useful field to provide visitors with more information including analysis for a particular category.
+4. **Description**: Longer description if required (optional). This is a useful field to provide visitors with more information including analysis for a particular category. Text styling can be applied using markdown (see http://commonmark.org/help).
 5. **Recommendations** (and/or Actions or SDG Targets): Clicking on the drop-down list allows the to tag any existing Recommendations (you can also create and tag new Recommendations). You can filter the recommendation options by other categories they have been tagged with required recommendations (using the filtering system if necessary) and uses the check boxes next to each recommendation.
 ![](/assets/m-category-add-connections.png)
 6. **Website**: If additional information on a category can be found via an external URL it can be noted here and accessed by visitors to the site

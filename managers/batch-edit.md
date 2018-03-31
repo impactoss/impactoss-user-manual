@@ -19,6 +19,8 @@ _Screenshot from demo site ([demo.impactoss.org](https://demo.impactoss.org)) - 
 
 To go back to filter mode, simply click "Filter" in the sidebar
 
+---
+
 #### Batch editing
 
 Once the Administrator or Manager is in 'Edit' mode they can update the selected items in bulk, changing their attributes (either Actions, Indicators, Recommendations or SDG Targets) and/or item associations (e.g. the category tags, actions, indicators, thematic cluster).
@@ -55,6 +57,6 @@ Once the relevant actions have been selected you can then use the sidebar menu t
 4. **Add new**: If a thematic cluster does not yet exist you can use this button to create and (when confirmed in 7.) link all of the selected actions to the newly created entity.
 5. **All options**: At the top of the list you can select all (filtered) options to be linked (when confirmed in 7.). Next to it it shows how many are selected. Using this box (by clicking it twice so that it is blank) you can quickly remove all linkages (when confirmed in 7.).
 6. **State: selected**: When a thematic cluster is selected then a tick will appear in the box
-7. **Comfirm**: The 'Update' button will only be active if any changes have been made. Clicking on the update button and only then will the changes be saved. This may take several seconds if editing a large number of actions at once. (clicking cancel will close the option panel without changing any associations)
+7. **Confirm**: The 'Update' button will only be active if any changes have been made. Clicking on the update button and only then will the changes be saved. This may take several seconds if editing a large number of actions at once. (clicking cancel will close the option panel without changing any associations)
 
-> Please note: once updated items may disappear from your item list if they no longer fit the search criteria
+> Please note: once updated, items may disappear from your item list if they no longer fit the search criteria

@@ -29,10 +29,10 @@ On the 'New Indicator View' (see screenshot above), enter the following informat
 
 1. **ID**: Optionally add a unique indicator ID. If left blank an ID will automatically be assigned.
 2. **Title**: Indicator title
-3. **Description**: Additional details of indicator
+3. **Description**: Additional details of indicator. Text styling can be applied using markdown (see http://commonmark.org/help).
 4. **Actions**: Clicking on the drop down menu allows you to link the Indicator to any of the Actions contained within the database. At the bottom of the drop down menu is also an 'Add' button where you can choose to add a new action from here to link to the indicator if you wish.
 5. **SDG Targets** (if confogured): like (3.).
-6. **Status**: By defsault initially set to **Draft**, you can change this to **Public** once the Action is ready to be published on the public site. _Note: The publication status of Actions can also be changed using [Batch editing](/managers/batch-edit.md)_
+6. **Status**: By default initially set to **Draft**, you can change this to **Public** once the Action is ready to be published on the public site. _Note: The publication status of Actions can also be changed using [Batch editing](/managers/batch-edit.md)_
 7. **Due date**: The due date for the next indicator report
 8. **Repeat?**: If the indicator requires regular reporting (e.g. gender based violence statistics every quarter) then a reporting schedule can be set, meaning the user responsible (see 9.) for providing the data reports will receive regular email reminders on the dates set. This will also require setting an end date (also see [Monitor Implementation Plan](/managers/monitor-implementation-plan.md))
 9. **Assigned user**: Clicking on the drop down menu allows the Administrator to choose from all of the registered users who is responsible for this indicator. Once allocated, this user will receive automated email reminders when progress reports are due (also see [Oversee Reporting](/managers/oversee-reporting.md))

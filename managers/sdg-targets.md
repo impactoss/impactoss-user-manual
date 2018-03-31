@@ -27,10 +27,10 @@ On the 'New SDG Target View' (see screenshot above), enter the following informa
 
 1. **ID**: Optionally add a unique indicator ID. If left blank an ID will automatically be assigned.
 2. **Title**: SDG Target title
-3. **Description**: A long description of the SDG target can be entered here
+3. **Description**: A long description of the SDG target can be entered here. Text styling can be applied using markdown (see http://commonmark.org/help).
 4. **Actions**: Clicking on the drop down menu allows you to link the SDG target to any of the Actions contained within the database. At the bottom of the drop down menu is also an 'Add' button where you can choose to add a new action from here to link to the SDG target if you wish.
 5. **Indicators**: like 4.
-6. **Status**: By defsault initially set to **Draft**, you can change this to **Public** once the Action is ready to be published on the public site. _Note: The publication status of Actions can also be changed using [Batch editing](/managers/batch-edit.md)_
+6. **Status**: By default initially set to **Draft**, you can change this to **Public** once the Action is ready to be published on the public site. _Note: The publication status of Actions can also be changed using [Batch editing](/managers/batch-edit.md)_
 7. **SDG Categories**: Clicking on the drop down menu allows you to link the SDG target to any SDG (should be pre-configured).
 8. **Save**: This is where you can save all of the details that have been entered (or clear the form using the cancel button)
 

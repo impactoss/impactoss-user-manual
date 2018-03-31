@@ -28,11 +28,11 @@ _Screenshot from demo site ([demo.impactoss.org](https://demo.impactoss.org)) - 
 On the 'New Action View' (see screenshot above), enter the following information:
 
 1. **Title**: Action title
-2. **Description**: Additional details of Action
+2. **Description**: Additional details of Action. Text styling can be applied using markdown (see http://commonmark.org/help).
 3. **Recommendations**: Clicking on the drop down menu allows you to link the Action to any of the Recommendations contained within the database. At the bottom of the drop down menu is also an 'Add' button where you can choose to add a new Recommendation from here to link to the Action if you wish.
 4. **SDG Targets** (if confogured): like 3.
 5. **Indicators**: like 3.
-6. **Status**: By defsault initially set to **Draft**, you can change this to **Public** once the Action is ready to be published on the public site. _Note: The publication status of Actions can also be changed using [Batch editing](/managers/batch-edit.md)_
+6. **Status**: By default initially set to **Draft**, you can change this to **Public** once the Action is ready to be published on the public site. _Note: The publication status of Actions can also be changed using [Batch editing](/managers/batch-edit.md)_
 7. **Target date**: The target date for completion of the activity
 8. **Target date comment**: Any relevant comments regarding the target date (optional)
 9. **Thematic cluster** (depends on configuration): Clicking on the drop down menu allows you to link the Action to any of the pre-existing Thematic Clusters. At the bottom of the drop down menu is also an 'Add' button where you can choose to add a new Thematic Cluster from here to link to the Action you wish. See also [Explore by Category](/visitors/categories.md).

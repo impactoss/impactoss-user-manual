@@ -52,15 +52,13 @@
 
 ## 5. Admininistrators
 
-* [DRAFT: Admin overview](/admins/admin.md)
-* [DRAFT: Assign Category Manager](/admins/assign-category.md)
-* [DRAFT: Manage Pages](/admins/pages.md)
-* [DRAFT: Delete items](/managers/delete-item.md)
+* [Admin overview](/admins/admin.md)
+* [Assign Category Manager](/admins/assign-category.md)
+* [Manage Pages](/admins/pages.md)
+* [Delete single item](/admins/delete-item.md)
 
 ## Appendix
 
-* [DRAFT: Improve this guide](/appendix/contribute.md)
-* [DRAFT: Report software bugs](/appendix/repprt-bugs.md)
 * [DRAFT: History & Credits](/appendix/history.md)
 * [DRAFT: Glossary & Icons](/appendix/glossary.md)
 * [License](LICENSE.md)
