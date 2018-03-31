@@ -2,26 +2,20 @@
 
 > _Available for: [Managers](/managers/manager.md) and [Administrators](/admins/admin.md)_
 
-By clicking on the 'Import' button (top image) the Administrator will be provided with a CSV template download (see image below) for batch importing multiple Actions. Once in the required format the Administrator can click on the 'Select File' button and upload their file and all of the Actions will automatically be imported.
+On the [Recommendations](/visitors/recommendations.md), [Actions](/visitors/actions.md), [SDG Targets](/visitors/sdg-targets.md), and [Indicator](/visitors/indicators.md) list views you will, once authorised, find an 'Import' button (circled in screenshot below ) to start adding multiple items at once - a time-efficient way to add new items:
 
 ![](/assets/m-action-import.png)
-> When importing recommendations it is only possible to import Title, Reference, Accepted Status and Accepted Response. Linking to thematic clusters, assigning human rights body and cycle, etc. still has to be executed either using the batch edit function (below) or individually (as above)
+_Screenshot from demo site ([demo.impactoss.org](https://demo.impactoss.org)) - all content for demo purposes only_
 
+> When importing it is only possible to import actual item attributes (for recommendations this would be Title, Reference, Accepted Status and Accepted Response) but not any associations (e.g. thematic clusters, human rights body and cycle, etc.) that will have to be set up manually.
 
-A time-efficient way to add new actions, indicators, recommendations or SDG targets is to use the 'import' function to import multiple entities in one go. The process for importing is the same for the different types of entity. First, the Administrator or Manager clicks on the import button as shown above on the relevant entity page - the following box will then appear:
+#### Batch Import Screen
 
 ![](/assets/m-batch-import.png)
+_Screenshot from demo site ([demo.impactoss.org](https://demo.impactoss.org)) - all content for demo purposes only_
 
-1. Clicking on this link allows the Administrator or Manager to download a CSV template for importing multiple entities. If the template structure is not used then the batch import will not work. The Administrator or Manager should download the template, copy and paste their data into this file and then save it using an appropriate file name.
+For all items the batch import screen (pictured above) allows you to
+1. Download a CSV template that specifies all the available fields that you can import (specfic to each iotem type). If the template structure is not used then the batch import will not work. To start you should download the template, open it in Excel, copy and paste their data into this file and then save it using an appropriate file name, and most importantly using the **correct encoding option: CSV UTF-8 (comma-delimited)**. It is also important to keep the first row as this identifies the fields - please remove however the 2nd row that only provides additional information for each field type
+2. Once saved use the 'select file' button and upload the file from your computer. The application will first analyse your file and inform you about the number of items found. Then once you click 'Import ...' (not pictured) the application will try to create each item one by one, raising any errors it may encounter in the process.
 
-2. Once step 1 has been completed the Administrator or Manager clicks on the 'select file' button and chooses the file from their computer. The batch import will then commence and a progress bar will appear until the upload is complete. The entities will now appear in the database.
-
-
-Key Fact: When batch importing, it is only possible to import the following:
-
-* For actions: title, description, target date, target date comment
-* For indicators: title, reference, description
-* For recommendations: title, reference, government response
-* SDG target: title, reference, description
-
-It is not possible to assign entities to categories, tag with connected categories, link to connections or assign draft/public status. This can be done when adding individual entities but not importing multiple entities. Instead, the Administrator should use the batch edit function (see above) to assign, tag and link immediately after importing._
+> Note: the batch import feature will set the publication status to "Draft" - you will still have to make them public once you have reviewed and linked them

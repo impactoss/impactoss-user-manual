@@ -4,47 +4,42 @@
 
 From the action list page (see [Explore Action Implementation Plan](/visitors/actions.md)) you can
 * Select existing Action for updating, and
-* Add new Actions.
+* Add New Actions.
+
+---
 
 #### Adding New Actions
 
-There are two ways for an Administrator to add actions:
+There are two ways for authorised users to add actions:
 
 1. Add single actions (see below)
-2. Import a file of multiple actions (see [Import content](/managers/import.md))
+2. Import a file of multiple actions (see [Import multiple items](/managers/import.md))
 
 ![](/assets/m-add-action.png)
+_Screenshot from demo site ([demo.impactoss.org](https://demo.impactoss.org)) - all content for demo purposes only_
 
 Both methods of adding actions can be accessed via the buttons in the top right hand corner of the actions page (pictured above).
 
-##### Adding a single action:
-
-Click on the 'Add Action' icon and the following form will appear:
+##### Adding a single Action:
 
 ![](/assets/m-action-add-new.png)
+_Screenshot from demo site ([demo.impactoss.org](https://demo.impactoss.org)) - all content for demo purposes only_
 
-1. Title: Short title of action
+On the 'New Action View' (see screenshot above), enter the following information:
 
-2. Description: Additional details of action
+1. **Title**: Action title
+2. **Description**: Additional details of Action
+3. **Recommendations**: Clicking on the drop down menu allows you to link the Action to any of the Recommendations contained within the database. At the bottom of the drop down menu is also an 'Add' button where you can choose to add a new Recommendation from here to link to the Action if you wish.
+4. **SDG Targets** (if confogured): like 3.
+5. **Indicators**: like 3.
+6. **Status**: By defsault initially set to **Draft**, you can change this to **Public** once the Action is ready to be published on the public site. _Note: The publication status of Actions can also be changed using [Batch editing](/managers/batch-edit.md)_
+7. **Target date**: The target date for completion of the activity
+8. **Target date comment**: Any relevant comments regarding the target date (optional)
+9. **Thematic cluster** (depends on configuration): Clicking on the drop down menu allows you to link the Action to any of the pre-existing Thematic Clusters. At the bottom of the drop down menu is also an 'Add' button where you can choose to add a new Thematic Cluster from here to link to the Action you wish. See also [Explore by Category](/visitors/categories.md).
+10. **Organisation** (depends on configuration): like 9.
+11. **Save**: This is where you can save all of the details that have been entered (or clear the form using the cancel button)
 
-3. Recommendations: Clicking on the drop down menu allows the Administrator to link the Action to any of the recommendations contained within the database. At the bottom of the drop down menu is also an 'Add' button where the Administrator can choose to add a new recommendation from here to link to the Action if they wish.
-
-4. SDG Targets: Clicking on the drop down menu allows the Administrator to link the Action to any of the SDG targets. At the bottom of the drop down menu is also an 'Add' button where the Administrator can choose to add a new SDG Target from here to link to the Action if they wish.
-
-5. Indicators: Clicking on the drop down menu allows the Administrator to link the Action to any of the Indicators. At the bottom of the drop down menu is also an 'Add' button where the Administrator can choose to add a new Indicator from here to link to the Action if they wish.
-
-6. Status: Automatically set to draft, the Administrator can change this to public once the Action is ready to be published on the public site. The status of actions can also be changed in bulk using the filtering system on the Actions page (see below)
-
-7. Target date: The target date for completion of the activity
-
-8. Target date comment: Any relevant comments regarding the target date (optional)
-
-9. Thematic cluster: Clicking on the drop down menu allows the Administrator to link the Action to any of the pre-existing Thematic Clusters. By linking an action to a thematic cluster it will automatically be linked to all of the recommendations contained within that cluster. At the bottom of the drop down menu is also an 'Add' button where the Administrator can choose to add a new Thematic Cluster from here to link to the Action if they wish
-
-10. Organisation: Clicking on the drop down menu allows the Administrator to assign primary responsibility for an Action to an Organisations. At the bottom of the drop down menu there is an' Add' button where the Administrator can add a new organisation if the relevant one has not already been entered
-
-11. Cancel/Save: This is where the Administrator can save all of the details that have been entered, or clear the form using the cancel button
-
+---
 
 #### Editing Actions
 
@@ -55,17 +50,7 @@ There are also two ways in which Actions can be edited;
 
 ##### Individual editing
 
-Individual editing is as simple as finding the action you wish to edit, using the search and filtering functions and clicking on the action title in question, which brings up the following screen with an Edit button (circled):
+From the Single Action View, click 'EDIT' (see screenshot below) and update the information outlined above (Adding New Action)
 
 ![](/assets/m-action-single.png)
-
-Clicking the edit button allows the Administrator to edit all of the fields associated with that action including:
-
-* Adding/editing the responsible organisation
-* Adding/editing thematic clusters the action is linked to
-* Adding/editing the recommendations the action is linked to
-* Adding/editing the indicators the action is linked to
-* Adding/editing the SDG targets the actions is linked to
-* Editing the draft/public status of the action
-* Editing the target date and target date comments
-* Deleting the action
+_Screenshot from demo site ([demo.impactoss.org](https://demo.impactoss.org)) - all content for demo purposes only_

@@ -39,23 +39,23 @@
 * [Monitor Implementation Plan](/managers/monitor-implementation-plan.md)
 * [Oversee Reporting](/managers/oversee-reporting.md)
 * [Manage Categories](/managers/categories.md)
-* [DRAFT: Manage Actions](/managers/actions.md)
-* [DRAFT: Manage Indicators](/managers/indicators.md)
-* [DRAFT: Manage Recommendations](/managers/recommendations.md)
-* [DRAFT: Manage SDG Targets (optional)](/managers/sdg-targets.md)
-* [DRAFT: Manage & Promote Users](/managers/users-admin.md)
-* [DRAFT: Reporting as Manager](/managers/reporting.md)
-* [REMOVE?: Add single item](/managers/add-content.md)
-* [DRAFT: Edit single item](/managers/edit-content.md)
-* [DRAFT: Import multiple items](/managers/import.md)
-* [DRAFT: Batch edit multiple items](/managers/batch-edit.md)
-* [DRAFT: Delete single item](/managers/delete-item.md)
+* [Manage Actions](/managers/actions.md)
+* [Manage Indicators](/managers/indicators.md)
+* [Manage Recommendations](/managers/recommendations.md)
+* [Manage SDG Targets (optional)](/managers/sdg-targets.md)
+* [Manage & Promote Users](/managers/users-admin.md)
+* [Reporting as Manager](/managers/reporting.md)
+* [Add single item](/managers/add-content.md)
+* [Edit single item](/managers/edit-content.md)
+* [Import multiple items](/managers/import.md)
+* [Batch edit multiple items](/managers/batch-edit.md)
 
 ## 5. Admininistrators
 
 * [DRAFT: Admin overview](/admins/admin.md)
 * [DRAFT: Assign Category Manager](/admins/assign-category.md)
 * [DRAFT: Manage Pages](/admins/pages.md)
+* [DRAFT: Delete items](/managers/delete-item.md)
 
 ## Appendix
 
