@@ -20,13 +20,10 @@ _Example: Editing an affected person category_
 
 First the Administrator needs to navigate to where their entity can be found. To edit any category (as listed above) the Administrator needs (1 below) to click on the 'Categories' link in the top menu bar and then (2) click on the relevant taxonomy. Clicking on any of the categories (3), such as 'Children', brings up the second image below, from where the Administrator can go in to edit the entity and all associations it has (e.g. linked recommendations, actions, etc.):
 
-![](/assets/Categories 2.png)
+![](/assets/m-category-overview.png)
 
-![](/assets/Edit children.png)
+![](/assets/m-category-edit.png)
 
 The same approach is required to any action, indicator, recommendation or SDG target - simply find the entity in question, click on it and hit the 'edit' button to get going.
 
 For more detailed instructions on how to edit please see the relevant sections for [categories](/managers/categories.md), [actions](/managers/actions.md), [indicators](/managers/indicators.md), [recommendations ](/managers/recommendations.md)and [SDG targets](/managers/sdg-targets.md).
-
-
-
