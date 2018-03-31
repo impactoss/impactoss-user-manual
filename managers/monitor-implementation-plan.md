@@ -1,48 +1,41 @@
 ### Monitor Implementation Plan
 
-> _Available for: ([Managers](/managers/manager.md) and [Administrators](/admins/admin.md))_
+> _Available for: [Managers](/managers/manager.md) and [Administrators](/admins/admin.md)_
 
-The monitoring of the implementation plan is crucial for both the State and civil society. It tells both when progress is falling behind what it should be and where that is happening. The tool makes it easy and simple to quickly check progress of the whole plan, or any part of the plan which may be of interest to the user.
+The monitoring of the implementation plan is crucial for both the State and civil society. It tells both when progress is falling behind what it should be and where that is happening.
 
-To view the human rights Implementation Plan and start monitoring click on  'Actions' in the top menu bar and then select 'Implementation view'. (To view the SDG Implementation Plan click on 'SDG Targets' and make the same selection.)
+#### View Implementation Plan
+
+To view the **Human Rights Implementation Plan** and start monitoring
+* go to 'Actions' (see also [Explore Action Implementation Plan](/visitors/actions.md)) and
+* change view to 'Implementation view' (see also [Lists: filter, group & more](/visitors/lists.md)).
+
+To view the **SDG Implementation Plan** (if configured) likewise
+* go to 'SDG Targets' (see also [Explore SDG Targets](/visitors/sdg-targets.md)) and
+* change view to 'Implementation view' (see also [Lists: filter, group & more](/visitors/lists.md)).
 
 ![](/assets/m-impl-view.png)
+_Screenshot from demo site ([demo.impactoss.org](https://demo.impactoss.org)) - all content for demo purposes only_
 
-Clicking on this link will provide you with the Implementation Plan:
+---
+
+#### Oversee Reporting
+
+To learn more about how to set up COntributors (Indicator Managers) responsible for data entry and how to oversee reporting go to **[Oversee Reporting](/managers/oversee-reporting.md))**
+
+---
+
+#### Implementation Plan in Detail
+
+> Note: the following dscribes how an Implementation Plan may look like but please be aware that default grouping and sorting, taxnomies and related elements may vary greatly depending on the application's individual configuration
+
+1. The Implementation Plan is automatically grouped by **Thematic Cluster**. In the example pictured below the first cluster is 'CAT Ratification' that you can click to inspect the Category in detail with all related Recommendations (see also [Explore by Category](/visitors/categories.md)).
+2. With each Cluster you will see all **Actions** that are being undertaken to target the Cluster of Recommendations. The tags below the action (e.g. CAT Ratification, MJ) indicate the Categories the Action is tagged with (here also SMART for the optional SMART taxonomy). Clicking on the action will bring up full details (see also [Explore Action Implementation Plan](/visitors/actions.md))
+3. Alongside the Actions are one or more **Indicators** set up to measure Implementation Progress of that Action or alternatively also Action Outcomes. Clicking on the indicator will bring up the full details (see also [Explore Indicators](/visitors/indicators.md)).
+4. The **Progress Reports** column shows any Updates for their Indicator, and also when the reporting schedule, highlighting if a progress report is **Due** (w.g. within the next 30 days) and if any are **Overdue** (date in the past). This allows the viewer to scroll down and quickly see where information is overdue and the State can then take corrective action. Clicking on the Report Title will bring up full details including download opportunity of uploaded documents (see also [Oversee Reporting](/managers/oversee-reporting.md)).
+5. **Filtering** allows to focus on parts of the Implementation Plan, depending on your area of interest (see also [Lists: filter, group & more](/visitors/lists.md)).
+
+> Please note: Reporting schedule as well as due and overdue statuses are only available to authorised users (Roles 'Contributors' and above)
 
 ![](/assets/m-impl-breakdown.png)
-
-1. The Implementation Plan is automatically organised by thematic cluster. In the example above we are looking at the 'Human rights training for law enforcement officials' thematic cluster. Clicking on this title would bring up all of the recommendations contained within the cluster.
-
-2. Underneath each cluster you will first see the actions that are being undertaken to achieve the goals and recommendations of that cluster. The tags underneath the action (e.g. HR Training, AGO) indicate the categories the action is tagged with - in the first example Human Rights training as the issue and the Office of the Attorney general as the implementing agency. Clicking on the action will bring up full details.
-
-3. Alongside the actions are the indicators associated with that action. There may be one or more indicator for each action. Clicking on the indicator will bring up the full details.
-
-4. The progress reports column  shows any data (contained within a progress report) that has been uploaded against any indicator, when the next progress report is due and if any are overdue. This allows the viewer to scroll down and quickly see where information is overdue and the State can then take corrective action or civil society can raise questions as to why that is. The information that appears here will also be mostly visible to the public so civil society and other stakeholders can access the information just by clicking on the link (in the above example where it says 'Guest report'. Unless there is sensitive information States are encouraged to make all progress reports publicly available for improved transparency and accountability.
-
-5. The State, civil society or other stakeholders can use the filters and search box to focus on parts of the Implementation Plan, depending on their area of interest. For instance, if an NGO just wanted to look at parts of the plan relating to persons with disability they could click on the 'affected persons' link in the left hand menu bar and select that demographic. The implementation plan would then just show the parts affecting persons with disability.
-
-Monitoring the implementation plan is therefore simply a case of:
-
-i. scrolling down the list of thematic clusters to see where progress reports are overdue; or
-
-ii. clicking on progress reports to check data; or
-
-iii. using the filtering and search functions to look into any section of the implementation plan and identify overdue progress reports or analyse information already submitted as per points (i) and (ii).
-
-
-See also
-* [Oversee Reporting](/managers/oversee-reporting.md))
-
-
-
-
-
-
-
-![](/assets/c-action-list.png)
-_**All information demonstrated is for illustrative purposes only **_
-
-The image above demonstrates what actions, indicators and look like in the Implementation Plan. In the example highlighted, two indicators have been set for the Action (training for judges, prosecutors and MJCA). The final column demonstrates when the information relating to those indicators is due. On that date the user who has been assigned to these indicators - in this case likely the training facilitator - will receive an email with a link requesting that they upload the information for each.
-
-Should they fail to do so then they will continue to receive email reminders until the data has been uploaded. This is the first safeguard against non-entry built into the application. Data can be uploaded in any file type format.
+_Screenshot from demo site ([demo.impactoss.org](https://demo.impactoss.org)) - all content for demo purposes only_

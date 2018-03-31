@@ -1,10 +1,12 @@
 ### Manage Actions
 
-> _Available for: ([Managers](/managers/manager.md) and [Administrators](/admins/admin.md))_
+> _Available for: [Managers](/managers/manager.md) and [Administrators](/admins/admin.md)_
 
-Administrators and Managers can 'add or edit' data via the Actions page.
+From the action list page (see [Explore Action Implementation Plan](/visitors/actions.md)) you can
+* Select existing Action for updating, and
+* Add new Actions.
 
-#### Adding Actions
+#### Adding New Actions
 
 There are two ways for an Administrator to add actions:
 

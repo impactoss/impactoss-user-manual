@@ -15,5 +15,5 @@ If a reporting schedule has been set up for an assigned indicator, Contributors 
 #### What can I do as a Contributor?
 
 * Everything a Guest can do: [Guest overview](/guests/guest.md)
-* Create public progress reports for assigned Indicators: [Reporting as Contributor](/contributors/reporting.md)
+* Create public progress reports for assigned Indicators (also see reporting schedules and statuses): [Reporting as Contributor](/contributors/reporting.md)
 * View draft content: [Explore Draft Content](/contributors/draft.md)

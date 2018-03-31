@@ -35,10 +35,10 @@
 ## 4. Managers
 
 * [Manager overview](/managers/manager.md)
-* [DRAFT: Create Implementation Plan](/managers/create-implementation-plan.md)
-* [DRAFT: Monitor Implementation Plan](/managers/monitor-implementation-plan.md)
-* [DRAFT: Oversee Reporting](/managers/oversee-reporting.md)
-* [DRAFT: Manage Categories](/managers/categories.md)
+* [Create Implementation Plan](/managers/create-implementation-plan.md)
+* [Monitor Implementation Plan](/managers/monitor-implementation-plan.md)
+* [Oversee Reporting](/managers/oversee-reporting.md)
+* [Manage Categories](/managers/categories.md)
 * [DRAFT: Manage Actions](/managers/actions.md)
 * [DRAFT: Manage Indicators](/managers/indicators.md)
 * [DRAFT: Manage Recommendations](/managers/recommendations.md)

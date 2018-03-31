@@ -1,6 +1,6 @@
 ### Add single item
 
-> _Available for: ([Managers](/managers/manager.md) and [Administrators](/admins/admin.md))_
+> _Available for: [Managers](/managers/manager.md) and [Administrators](/admins/admin.md)_
 
 Also see [Import content](/managers/import.md)
 

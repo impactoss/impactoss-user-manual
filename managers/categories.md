@@ -1,32 +1,39 @@
 ### Manage Categories
 
-> _Available for: ([Managers](/managers/manager.md) and [Administrators](/admins/admin.md))_
-
-#### Editing/Adding Categories
+> _Available for: [Managers](/managers/manager.md) and [Administrators](/admins/admin.md)_
 
 ![](/assets/m-categories.png)
+_Screenshot from demo site ([demo.impactoss.org](https://demo.impactoss.org)) - all content for demo purposes only_
 
-In addition to being able to use the 'Categories' page to view information in the same manner as visitors, Administrators and Managers can also 'Add' and 'Edit' categories. To do so, the Administrator first selects the category group (also called taxonomy) they would like to add categories to or edit within using the menu on the left hand side of the screen (1).
 
-If the Administrator wishes to edit an existing category they click on the entry they wish to edit (2), which will bring up the category and an edit option. Clicking on the edit button will allow the Administrator to amend any of the details of that category.
+From the category group (taxonomy) page (see [Explore by Category](/visitors/categories.md)) selected from the taxonomy sidebar navigation (see (1) in screenshot below) you can
+* Select existing Categories for updating (see (2)), and
+* Add new Categories to a Taxonomy (see (3)).
 
-![](/assets/m-category-single.png)
+---
 
-To add a new category (i.e. a new human rights body, cycle, issue, cluster, etc.)  click on the 'Add category' icon (top image, \#3). The following content box will then appear:
+#### Adding New Categories
 
 ![](/assets/m-category-add-new.png)
+_Screenshot from demo site ([demo.impactoss.org](https://demo.impactoss.org)) - all content for demo purposes only_
 
-1. Reference: A reference ID can be manually added or will be automatically assigned
+On the 'New Category View' (see screenshot above), enter the following information:
 
-2. Title: A short description of the category (e.g. name of the human rights body, overview of thematic cluster, organisation name, etc.)
+1. **Reference**: A reference ID can be manually added or will be automatically assigned
+2. **Title**: A short description of the category (e.g. name of the human rights body, overview of thematic cluster, organisation name, etc.)
+3. **Short title**: An abbreviated version of the title that will be used for the associated tag.
+![](/assets/m-short-titles.png)
+4. **Description**: Longer description if required (optional). This is a useful field to provide visitors with more information including analysis for a particular category.
+5. **Recommendations** (and/or Actions or SDG Targets): Clicking on the drop-down list allows the to tag any existing Recommendations (you can also create and tag new Recommendations). You can filter the recommendation options by other categories they have been tagged with required recommendations (using the filtering system if necessary) and uses the check boxes next to each recommendation.
+![](/assets/m-category-add-connections.png)
+6. **Website**: If additional information on a category can be found via an external URL it can be noted here and accessed by visitors to the site
+7. **Category Manager** (only visible for specific taxonomies, e.g. Human Rights Bodies and SDGs): A category manager can be added using this drop down menu. This needs to be an already registered user. For more information on Managers see [Managers](/managers/manager.md) and [Oversee Reporting](/managers/oversee-reporting.md).
 
-3. Short title: An abbreviated version of the title that will be used for the associated tag. E.g. ![](/assets/m-short-titles.png)
+---
 
-4. Description: Longer description if required (optional). This is a useful field to provide visitors with more information on a particular category.
+#### Editing existing Categeries
 
-5. Recommendations: Clicking on the drop-down list allows the Administrator to tag any recommendations with the newly created category. The Administrator does so by finding the required recommendations (using the filtering system if necessary) and uses the check boxes next to each recommendation. ![](/assets/m-category-add-connections.png)
-This function is available when adding new Human Rights Bodies, Cycles, Human Rights Issue, Affected Persons and Thematic Cluster. In exactly the same way, Actions can be tagged to new Thematic Clusters and Organisations and SDG targets can be tagged to new SDGs.
+From the Single Category View, click 'EDIT' (see screenshot below) and update the information outlined above (Adding New Category)
 
-6. Website: If additional information on a category can be found via an external URL it can be noted  here and accessed by visitors to the site (e.g. The website for the Committee on Economic, Social and Cultural Rights)
-
-7. Category Manager: *Only visible for Human Rights Bodies and SDGs* A category manager can be added using this drop down menu. . This needs to be an already registered user. For more information on Managers click [Oversee Reporting](/managers/oversee-reporting.md).
+![](/assets/m-category-single.png)
+_Screenshot from demo site ([demo.impactoss.org](https://demo.impactoss.org)) - all content for demo purposes only_

@@ -1,6 +1,6 @@
 ### Create National Implementation Plan
 
-> _Available for: ([Managers](/managers/manager.md) and [Administrators](/admins/admin.md))_
+> _Available for: [Managers](/managers/manager.md) and [Administrators](/admins/admin.md)_
 
 The National Implementation Plan consists of the obligations of the State in relation to human rights and the SDGs. It also contains the actions the Government is planning to do to implement those obligations and contains the data of progress achieved to date. A National Plan can be created for either human rights or the SDGs, or both.  
 
@@ -8,11 +8,15 @@ The obligations, which form the basis of the National Implementation Plan, can b
 
 Once the National Implementation Plan has been developed, users of the application will add regular progress reports and anyone will be able to track how well implementation is progressing.
 
-#### Creating Your Human Rights Implementation Plan in 3 Steps
+Below we will explain how to create the National Action Implementation Plan and finally also highlight how you can set up an SDG Implementation Plan.
 
-##### 1. Enter human rights recommendations or Convention articles
+---
 
-This can either be done by importing recommendations or observations in bulk or entering them one by one. Simply click on 'Recommendations' in the top menu bar and get going. For more information on adding recommendations and observations see
+#### Creating Your Human Rights Action Implementation Plan in 4 Steps
+
+##### 1. Enter Human Rights Recommendations
+
+From the [Recommendations List](/visitors/recommendations.md) you can either import multiple recommendations or observations in bulk or add them one by one. For more information on adding recommendations and observations see
 
 * [Manage Recommendations](/managers/recommendations.md)
 * [Import multiple items](/managers/import.md)
@@ -26,48 +30,70 @@ _Screenshot from demo site ([demo.impactoss.org](https://demo.impactoss.org)) - 
 
 By creating recommendation clusters and themes the wide ranging obligations become more manageable and easier to track.
 
-The most efficient way to cluster Recommendations is to use a combination of using
+The most efficient way to cluster Recommendations is to use a combination of
 
-* **list filtering** (1) to find similar obligations (see [Lists: filter, group & more](/visitors/lists.md)) and
-* **batch editing** of selected (2) obligations ([Batch edit multiple items](/managers/batch-edit.md))
+* **list filtering** (see (1) in screenshot below) to find similar obligations (see [Lists: filter, group & more](/visitors/lists.md)) and
+* **batch editing** of selected (see (2) below) obligations ([Batch edit multiple items](/managers/batch-edit.md))
 
 ![](/assets/m-recommendation-list.png)
 _Screenshot from demo site ([demo.impactoss.org](https://demo.impactoss.org)) - all content for demo purposes only_
 
-Alternatively, Recommendations can be allocated to Clusters individually (or CLusters to Recommendations if you prefer) as described here: [Edit single item](/managers/edit-content.md)
+Alternatively, **Recommendations can be allocated to Clusters individually** (or Clusters to Recommendations if you prefer) as described here: [Edit single item](/managers/edit-content.md)
+
+---
 
 ##### 3. Add Actions and Indicators
 
-Now the framework for the National Implementation Plan has been created all that is left to do is add the actions (and associated indicators) that will achieve it. Adding actions and indicators can also be done individually or by importing multiple entries at once. First click on the 'Action' or 'Indicator' page in the top menu bar and then select whether to import or add.
+Now that the obligations for the National Implementation Plan have been entered and clustered, you will need to add Actions (and associated indicators) to effectively address the obligations. Like Reommendations, Actions and Indicators can also be added individually or by importing multiple entries at once from the [Action List](/visitors/actions.md) and [Indicator List](/visitors/indicators.md) respectively. For more information on adding them see
+
+* [Manage Actions](/managers/actions.md)
+* [Manage Indicators](/managers/indicators.md)
+* [Import multiple items](/managers/import.md)
 
 ![](/assets/m-add-action.png)
+_Screenshot from demo site ([demo.impactoss.org](https://demo.impactoss.org)) - all content for demo purposes only_
 
-If adding multiple entries then the actions/indicators can then be assigned to clusters or individual recommendations/articles using the filter and edit process. If adding one by one then at the time of creation this can be done. Additionally, if you are creating a single action you can also create the indicator(s) associated with it as part of the same process, without having to click on the 'indicators' tab in the top menu bar. For more information on how to carry out these functions [click here](/managers/actions.md).
+> Note: you can create action indicators while creating a single action as part of the same process
 
-Whilst multiple indicators can be imported it is important to edit each one individually as this is where responsibility for an indicator can be allocated to a user. For instance if Rosemary Bowe is responsible for conducting human rights training for new police recruits every six months then she needs to be given responsibility for uploading the training data twice a year. This can be done when creating a new indicator or editing an old indicator. Rosemary must be an existing registered user or will need to be sent a registration link for this to happen.
+Whilst multiple indicators can be imported it is important to edit each one individually as this is where responsibility for an indicator can be allocated to a user and its reporting schedule defined (again see [Manage Indicators](/managers/indicators.md)).
 
-Actions and indicators can and should also be linked to the SDG targets where appropriate. For instance if the work Rosemary is doing, as described above, also helps to meet SDG target 16.3 it can be linked when the action or indicator is being created. That means that any data Rosemary uploads will also be tracked against SDG 16.3 even though it is only uploaded once.
+---
 
-> Top Tip: States should start off by looking at what is already planned in the coming years which will already address the thematic clusters and once this is done that will identify where the gaps are and actions can be devised to help meet these gaps. At any point it is easy to check whether gaps exit by going to the recommendations page and filtering to see which recommendations do not currently have any actions.
+##### 4. Assign Actions to Recommendations
+
+Once added and defined, Actions can be assigned to assigned to relevant Recommendation Clusters or individual Recommendations using a combination of
+
+* **list filtering** (1) to find similar obligations (see [Lists: filter, group & more](/visitors/lists.md)) and
+* **batch editing** of selected (2) obligations ([Batch edit multiple items](/managers/batch-edit.md))
+
+Alternatively, **Action can be assigned to Clusters and Recommendations individually** (or vice versa) as described here: [Edit single item](/managers/edit-content.md)
+
+---
 
 ##### Finally: Monitor and update
 
-The Implementation Plan is never finished! States will continue to receive additional recommendations from the Treaty Body Committees, the UPR and the Special Procedures. Once any new recommendations are received then these need to be entered into the database, assigned to existing or new clusters and actions assigned to them to make sure they are addressed.
+The Implementation Plan is never finished! States will continue to receive additional recommendations from the Treaty Body Committees, the UPR and the Special Procedures. Once any new recommendations are received then these need to be entered into the database, assigned to existing or new clusters and actions assigned to them to make sure they are addressed. For more detials see
 
-(see [Oversee Reporting](/managers/oversee-reporting.md))
-
----
-
-##### The SDG Implementation Plan
-
-The SDG Implementation Plan works in exactly the same way as above except for the need for clustering the targets as this has already occurred given they are grouped within specific SDGs. If a State is using the software for both human rights and SDG reporting then as soon as they have finished developing one then work has already started on the other, as actions will have been linked across the two plans. It then just requires the State to identify the gaps and add in extra actions and indicators.
-
-The SDG Implementation Plan can be developed on its own using the steps above (omitting the thematic clustering), as can the Human Rights Implementation Plan. however, States receive additional benefits from using the two in conjunction with each other as it eliminates duplication of reporting and activities across human rights obligations and the SDGs.
+* [Monitor Implementation Plan](/managers/monitor-implementation-plan.md)
+* [Oversee Reporting](/managers/oversee-reporting.md)
 
 ---
 
-##### An Example Implementation Plan
+#### The SDG Implementation Plan
 
-(screenshot covering an illustrative section)
-![](/assets/m-action-list.png)
-_(screenshot covering an illustrative section)_
+The SDG Implementation Plan works in exactly the same way as the Action Implmentation Plan except that Targets are already clustered by SDGs (step 2). Another exception is that for each SDG Targets the UN has defined specific SDG Target Indicators that we can also link with any Actions that address specific SDG Targets:
+
+```
+SDG 1 ---- SDG Target 1.1 ----------------- SDG Indicator 1.1.1
+                           \            /
+                            - Action 2 ---- Progress Indicator 2.1
+```
+
+If a State is using the platform for both human rights and SDG reporting then as soon as they have finished developing one then work has already started on the other, as actions can been linked across the two plans.
+
+```
+Mechanism ---- Recommendation 1 ---- Action 1 ---- Indicator 1.1
+                                  /            \
+SDG 1 -------- SDG Target 1.1 -------------------- SDG Indicator 1.1.1
+
+```

@@ -1,6 +1,6 @@
 ### Import multiple items
 
-> _Available for: ([Managers](/managers/manager.md) and [Administrators](/admins/admin.md))_
+> _Available for: [Managers](/managers/manager.md) and [Administrators](/admins/admin.md)_
 
 By clicking on the 'Import' button (top image) the Administrator will be provided with a CSV template download (see image below) for batch importing multiple Actions. Once in the required format the Administrator can click on the 'Select File' button and upload their file and all of the Actions will automatically be imported.
 

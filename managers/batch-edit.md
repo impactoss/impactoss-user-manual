@@ -1,6 +1,6 @@
 ### Batch edit multiple items
 
-> _Available for: ([Managers](/managers/manager.md) and [Administrators](/admins/admin.md))_
+> _Available for: [Managers](/managers/manager.md) and [Administrators](/admins/admin.md)_
 
 #### 'Edit' v 'Filter' Mode
 
