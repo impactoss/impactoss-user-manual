@@ -60,6 +60,6 @@
 ## Appendix
 
 * [History & Credits](/appendix/history.md)
-* [DRAFT: Glossary & Icons](/appendix/glossary.md)
+* [Glossary & Icons](/appendix/glossary.md)
 * [License](LICENSE.md)
 
