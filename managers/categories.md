@@ -5,7 +5,6 @@
 ![](/assets/m-categories.png)
 _Screenshot from demo site ([demo.impactoss.org](https://demo.impactoss.org)) - all content for demo purposes only_
 
-
 From the category group (taxonomy) page (see [Explore by Category](/visitors/categories.md)) selected from the taxonomy sidebar navigation (see (1) in screenshot below) you can
 * Select existing Categories for updating (see (2)), and
 * Add new Categories to a Taxonomy (see (3)).
