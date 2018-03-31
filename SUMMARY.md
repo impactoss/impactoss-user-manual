@@ -2,39 +2,63 @@
 
 ## Introduction
 
-* [What is Sadata?](README.md)
-* [History](history.md)
-* [Glossary & Icons](glossary.md)
+* [Introduction](README.md)
+* [About IMPACT OSS](about.md)
 
-## How To
+## 1. Visitors
 
-* [Create Your National Implementation Plan](howto/creating-the-implementation-plan.md)
-* [Report \(add data\)](howto/reporting-and-follow-up.md)
-* [Monitor the Implementation Plan](howto/monitor-the-implementation-plan.md)
-* [Edit and Add Entities](howto/edit-and-create-entries.md)
-* [Filter and Search](howto/filter-and-search.md)
-* [Register](howto/register.md)
+* [Visitor overview (all users)](/visitors/visitor.md)
+* [Explore by Category](/visitors/categories.md)
+* [Explore Action Implementation Plan](/visitors/actions.md)
+* [Explore Indicators](/visitors/indicators.md)
+* [Explore Recommendations ](/visitors/recommendations.md)
+* [Explore SDG Targets (optional)](/visitors/sdg-targets.md)
+* [Explore Pages](/visitors/content.md)
+* [Lists: filter, group & more](/visitors/lists.md)
+* [Search website](/visitors/search.md)
+* [Register](/visitors/register.md)
 
-## In Depth: Visitors
+## 2. Guests
 
-* [Using Sadata as a Visitor](visitors/using-as-a-visitor.md)
-* [Categories](visitors/categories.md)
-* [Actions & The Implementation Plan](visitors/actions.md)
-* [Indicators](visitors/indicators.md)
-* [Recommendations ](visitors/recommendations.md)
-* [SDG Targets](visitors/sdg-targets.md)
-* [Register](visitors/register.md)
+* [Guest overview](/guests/guest.md)
+* [Reporting as Guest](/guests/reporting.md)
+* [Update User Profile & Password](/guests/user-profile.md)
+* [Login & recover password](/guests/login.md)
+* [Become authorised](/guests/promotion.md)
 
-## In Depth: Registered Users
+## 3. Contributors
 
-* [User roles & responsibilities](members/user-roles.md)
-* [Adding & editing content](members/content.md)
-* [Categories](members/categories.md)
-* [Actions](members/actions.md)
-* [Indicators](members/indicators.md)
-* [Recommendations](members/recommendations.md)
-* [SDG Targets](members/sdg-targets.md)
-* [Users Admin](members/users-admin.md)
-* [Pages](members/pages.md)
-* [User Profile](members/user-profile.md)
+* [Contributor overview](/contributors/contributor.md)
+* [Reporting as Contributor](/contributors/reporting.md)
+* [Explore Draft Content](/contributors/draft.md)
 
+## 4. Managers
+
+* [Manager overview](/managers/manager.md)
+* [Create Implementation Plan](/managers/create-implementation-plan.md)
+* [Monitor Implementation Plan](/managers/monitor-implementation-plan.md)
+* [Oversee Reporting](/managers/oversee-reporting.md)
+* [Manage Categories](/managers/categories.md)
+* [Manage Actions](/managers/actions.md)
+* [Manage Indicators](/managers/indicators.md)
+* [Manage Recommendations](/managers/recommendations.md)
+* [Manage SDG Targets (optional)](/managers/sdg-targets.md)
+* [Manage & Promote Users](/managers/users-admin.md)
+* [Reporting as Manager](/managers/reporting.md)
+* [Add single item](/managers/add-content.md)
+* [Edit single item](/managers/edit-content.md)
+* [Import multiple items](/managers/import.md)
+* [Batch edit multiple items](/managers/batch-edit.md)
+
+## 5. Admininistrators
+
+* [Admin overview](/admins/admin.md)
+* [Assign Category Manager](/admins/assign-category.md)
+* [Manage Pages](/admins/pages.md)
+* [Delete single item](/admins/delete-item.md)
+
+## Appendix
+
+* [DRAFT: History & Credits](/appendix/history.md)
+* [DRAFT: Glossary & Icons](/appendix/glossary.md)
+* [License](LICENSE.md)
