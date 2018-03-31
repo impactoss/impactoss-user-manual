@@ -43,7 +43,7 @@
 * [Manage Indicators](/managers/indicators.md)
 * [Manage Recommendations](/managers/recommendations.md)
 * [Manage SDG Targets \(optional\)](/managers/sdg-targets.md)
-* [Manage & Promote Users](/managers/users-admin.md)
+* [Manage & promote Users](/managers/users-admin.md)
 * [Reporting as Manager](/managers/reporting.md)
 * [Add single item](/managers/add-content.md)
 * [Edit single item](/managers/edit-content.md)
