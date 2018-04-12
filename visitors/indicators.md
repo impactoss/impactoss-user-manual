@@ -8,6 +8,8 @@ Indicators are the measure of success of whether actions have been completed. Fo
 
 #### View Indicator list
 
+> Please note that IMPACT OSS can be configured with many different ways and the 'Indicators' section may optionally be restricted to authenticated users and refer to the action list instead
+
 The Indicators list works in a very similar manner to the [Actions](/visitors/actions.md) list, except its focus is on the indicators and allows users to search through the all indicators contained within the database.
 
 ![](/assets/v-indicators.png)

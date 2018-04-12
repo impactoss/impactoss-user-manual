@@ -53,7 +53,7 @@ _Screenshot from demo site ([demo.impactoss.org](https://demo.impactoss.org)) - 
 
 > The keyword filter function can also be used to find specific entities, e.g. by entering a UPR recommendation reference number.
 
-##### Filtering by Category, connected Category, Connection or Attribute
+##### Filtering by Category, Connected Category, Connection or Attribute
 
 Other filter options for specific associations can be found in the list side bar on the left hand side.
 
@@ -62,6 +62,8 @@ Filter options includes
 * **Filter by Connected Category** (where applicable): you can also filter items by a Category a connected element is tagged with, this allows for example filtering Actions by Human Rights Mechanisms that a Recommendation they address is tagged with
 * **Filter by Connection** (where applicable): you can filter items by any other element they are related with, this allows for example filtering Actions by a specific Recommendation
 * **Filter by Attribute** (where applicable): you can filter items by specific attributes and characteristics, for example if Recommendations have been accepted or not accepted and (if authorised) also by assigned user.
+
+> Note: you can toggle (expand and collapse) filter option groups. Default toggle state may depend on the specific configuration
 
 **Example: how to filter a list of actions by Education category (of Thematic CLuster taxonomy)**
 

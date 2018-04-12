@@ -9,11 +9,13 @@ By selecting any of the **category groups** on the left menu bar of the "Overvie
 ![](/assets/v-categories.png)
 _Screenshot from demo site ([demo.impactoss.org](https://demo.impactoss.org)) - all content for demo purposes only_
 
-> Please note that IMPACT OSS can be configured with many different category groups and thus differ significantly from the list shown above
+> Please note that IMPACT OSS can be configured with many different ways and thus differ significantly from the example shown above, for example
+> - different category groups (taxonomies) and taxonomy groupings
+> - the 'Categories' menu item my be merged with 'Overview'
 
 The recommendations and actions that make up the National Implementation Plan are categorised in a number of different ways (called taxonomies or category groups) to allow visitors to explore the information based on their specific areas of interest.
 
-Pleasee find more information on some common taxonomies below "View single category".
+Please find more information on some common taxonomies below "View single category".
 
 ---
 

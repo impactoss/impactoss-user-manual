@@ -39,6 +39,11 @@ In the top right-hand corner of all pages (marked **(4)** in the screenshot abov
 
 These areas of interest are also available in the **main navigation (1)** above. In particular these core concepts of IMPACT OSS are:
 
+> Please note that IMPACT OSS can be configured with many different ways and the main navigation items may thus differ significantly from the example shown above, for example
+> - menu items may be called differently
+> - the 'Categories' menu item my be merged with 'Overview'
+> - the 'Indicators' section may be restricted to authenticated users
+
 ---
 
 #### Category groups (or Taxonomies)
