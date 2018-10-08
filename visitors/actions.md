@@ -2,7 +2,7 @@
 
 > _Available for: [Visitors](/visitors/visitor.md) and registered users ([Guests](/guests/guest.md), [Contributors](/contributors/contributor.md), [Managers](/managers/manager.md), and [Administrators](/admins/admin.md))_
 
-Actions descfibe the activities the Government and partners are doing or planning to implement human rights and achieve the SDGs form the overall National Implementation Plan.
+Actions describe the activities the Government and partners are doing or planning to implement human rights and achieve the SDGs form the overall National Implementation Plan.
 
 ---
 
