@@ -9,6 +9,8 @@ From the category group (taxonomy) page (see [Explore by Category](/visitors/cat
 * Select existing Categories for updating (see (2)), and
 * Add new Categories to a Taxonomy (see (3)).
 
+> Please note: you can only add new categories to existing taxonomies (category groupings), but you cannot add new taxonomies. Additional taxonomies or changing how taxonomies work can only be set up by the technical site administrator
+
 ---
 
 #### Adding New Categories
@@ -30,9 +32,13 @@ On the 'New Category View' (see screenshot above), enter the following informati
 
 ---
 
-#### Editing existing Categeries
+#### Editing existing Categories
 
 From the Single Category View, click 'EDIT' (see screenshot below) and update the information outlined above (Adding New Category)
 
 ![](/assets/m-category-single.png)
 _Screenshot from demo site ([demo.impactoss.org](https://demo.impactoss.org)) - all content for demo purposes only_
+
+---
+
+For a list of common category groupings (taxonomies) please see **[Core concepts](concepts.md)**
