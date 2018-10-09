@@ -2,23 +2,23 @@
 
 # User Manual
 
-## 0. Introduction
+## Introduction
 
 This user manual provides guidance on how to use IMPACT OSS, the Open Source Software \(OSS\) for Integrated Management and Planning of Actions \(IMPACT\), created to assist States with coordinating and monitoring implementation of human rights and the Sustainable Development Goals \(SDGs\). To learn more about the motivation behind IMPACT OSS and its history have a look at [**About IMPACT OSS**](/about.md) or go to the project website [impactoss.org](https://impactoss.org).
 
-##### IMPACT OSS core concepts
-
-In order to successfully use and administer IMPACT OSS, it is important to grasp its core concepts and how they relate:
-
-**[>>> Understand the core concepts <<<](concepts.md)**
-
 ---
 
-##### User type & common use cases
+##### First understand the core concepts
 
-Once you have understood the core concepts, you can best explore this manual by user type and common use cases:
+In order to successfully use and administer IMPACT OSS, it is recommended to first get a good understanding of its principal concepts and how they relate:
 
-**[>>> Explore by user type and use case <<<](usecases.md)**
+**[>>> Core concepts <<<](concepts.md)**
+
+##### Then explore by user type & use case
+
+Once you have understood the [core concepts](concepts.md), you can best explore this manual by user type and common use cases:
+
+**[>>> User types & common use cases <<<](usecases.md)**
 
 ---
 

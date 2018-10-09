@@ -2,7 +2,7 @@
 
 > _Available for: [Managers](/managers/manager.md) and [Administrators](/admins/admin.md)_
 
-On the [Recommendations](/visitors/recommendations.md), [Actions](/visitors/actions.md), [SDG Targets](/visitors/sdg-targets.md), and [Indicator](/visitors/indicators.md) list views you will, once authorised, find an 'Import' button (circled in screenshot below ) to start adding multiple items at once - a time-efficient way to add new items:
+On the [Recommendations](/visitors/recommendations.md), [Actions](/visitors/actions.md), [SDG Targets](/visitors/sdg-targets.md), and [Indicator](/visitors/indicators.md) list views you will, once authorised, find an 'Import' button (circled in screenshot below) to start adding multiple items at once - a time-efficient way to add new items:
 
 ![](/assets/m-action-import.png)
 _Screenshot from demo site ([demo.impactoss.org](https://demo.impactoss.org)) - all content for demo purposes only_

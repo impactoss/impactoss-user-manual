@@ -1,4 +1,4 @@
-## Explore the Action Implementation Plan
+### Explore the Action Implementation Plan
 
 > _Available for: [Visitors](/visitors/visitor.md) and registered users ([Guests](/guests/guest.md), [Contributors](/contributors/contributor.md), [Managers](/managers/manager.md), and [Administrators](/admins/admin.md))_
 
