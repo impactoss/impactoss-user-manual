@@ -14,6 +14,8 @@ Below we will explain how to create the National Action Implementation Plan and 
 
 #### Creating Your Human Rights Action Implementation Plan in 4 Steps
 
+---
+
 ##### 1. Enter Human Rights Recommendations
 
 From the [Recommendations List](/visitors/recommendations.md) you can either import multiple recommendations or observations in bulk or add them one by one. For more information on adding recommendations and observations see

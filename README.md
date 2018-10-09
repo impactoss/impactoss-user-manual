@@ -22,7 +22,7 @@ Once you have understood the [principal concepts](/concepts.md), you can best ex
 
 ---
 
-##### User Manual Credits
+###### User Manual Credits
 
 The IMPACT OSS project and all documentation is maintained by the [Impact Open Source Software Trust](http://impactoss.org/). This User Manual is based on the [User Manual written for Sadata](https://nmrf.gitbooks.io/sadata/content/) by human rights consultant [Mr. Ashley Bowe](https://www.linkedin.com/in/ashley-bowe-a4716019/) and [Unfold Data](http://unfolddata.com/) and was kindly supported by the [Universal Rights Group Geneva](http://www.universal-rights.org/) and the [Permanent Mission of the Republic of Singapore, Geneva](https://www.mfa.gov.sg/content/mfa/overseasmission/geneva.html).
 
@@ -30,6 +30,8 @@ The IMPACT OSS project and all documentation is maintained by the [Impact Open S
 
 For more information on the development history and credits for the IMPACT OSS software please take a look at [**History & credits**](/appendix/history.md).
 
-##### Licence
+---
+
+###### Licence
 
 This manual is part of the [IMPACT OSS open source software](https://github.com/impactoss/impactoss-server/) and accordingly licensed under the same MIT license, see [License](LICENSE.md).

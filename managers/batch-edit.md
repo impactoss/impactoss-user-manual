@@ -4,7 +4,7 @@
 
 #### 'Edit' v 'Filter' Mode
 
-Once logged in and authenticated as an Administrator or Manager you will be able to batch edit multiple items at once. Each list list view, including [Recommendations](/visitors/recommendations.md), [Actions](/visitors/actions.md), [SDG Targets](/visitors/sdg-targets.md), and [Indicator](/visitors/indicators.md), will now feature also an edit option in the sidebar (as pictured below)
+Once logged in and authenticated as an Administrator or Manager you will be able to batch edit multiple items at once. Each list view, including [Recommendations](/visitors/recommendations.md), [Actions](/visitors/actions.md), [SDG Targets](/visitors/sdg-targets.md), and [Indicator](/visitors/indicators.md), will now feature also an edit option in the sidebar (as pictured below)
 
 ![](/assets/m-action-list-2.png)
 _Screenshot from demo site ([demo.impactoss.org](https://demo.impactoss.org)) - all content for demo purposes only_

@@ -6,7 +6,7 @@
 
 Contributors are users that are usually the data owners of information relevant for one or more Indicators and are thus a key to the success of the data entry. Once assigned to an Indicator they are responsible for uploading relevant information at the required time.
 
-**Email reminders**
+##### Email reminders
 
 If a reporting schedule has been set up for an assigned indicator, Contributors receive automated reminder emails shortly before and after the progress report is due.
 

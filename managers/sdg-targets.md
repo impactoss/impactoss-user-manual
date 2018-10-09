@@ -6,6 +6,8 @@ From the SDG Target list page (see [Explore SDG Targets](/visitors/sdg-targets.m
 * Select existing SDG Target for updating, and
 * Add New SDG Targets.
 
+---
+
 #### Adding SDG targets
 
 There are two ways for authorised users to add actions:

@@ -2,6 +2,8 @@
 
 > _Available for: [Visitors](/visitors/visitor.md) and registered users ([Guests](/guests/guest.md), [Contributors](/contributors/contributor.md), [Managers](/managers/manager.md), and [Administrators](/admins/admin.md))_
 
+---
+
 #### View categories by category group (also called taxonomy)
 
 By selecting any of the **category groups** on the left menu bar of the "Overview page" (see [Visitor overview](/visitors/visitor.md)) or any of the "Category group" pages you will be able to explore the different category groups listed and all associated recommendations, actions and optionally also SDG targets for each.

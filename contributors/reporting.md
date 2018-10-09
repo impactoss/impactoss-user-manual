@@ -6,7 +6,9 @@ Adding progress reports is critical to the success of using this tool. Progress 
 
 Data can be entered through progress reports by civil servants, administrators of the database or civil society and other stakeholders.
 
-##### Prerequisites
+---
+
+#### Prerequisites
 
 To be able to contribute progress reports as a [Contributor](/contributors/contributor.md) you need to be:
 
@@ -14,7 +16,9 @@ To be able to contribute progress reports as a [Contributor](/contributors/contr
 * Promoted to Contributor (by user with at least role [Manager](/managers/manager.md), see [Get Promoted](guests/promotion.md))
 * Assigned to Indicator (by user with at least role [Manager](/managers/manager.md),see [Oversee Reporting](managers/oversee-reporting.md))
 
-##### How to submit a Progress Report?
+---
+
+#### How to submit a Progress Report?
 
 To submit a Progress Report to an Indicator you have been assigned to follow these steps:
 

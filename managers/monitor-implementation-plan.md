@@ -4,6 +4,8 @@
 
 The monitoring of the implementation plan is crucial for both the State and civil society. It tells both when progress is falling behind what it should be and where that is happening.
 
+---
+
 #### View Implementation Plan
 
 To view the **Human Rights Implementation Plan** and start monitoring

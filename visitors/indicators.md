@@ -29,8 +29,6 @@ _Screenshot from demo site ([demo.impactoss.org](https://demo.impactoss.org)) - 
 
 Alternatively you can first select the indicator and then, on the "Single Indicator View" (see below), select the Progress Report.
 
-
-
 ---
 
 #### View single Indicator
