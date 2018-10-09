@@ -35,6 +35,7 @@ To learn about the contributor role go to
 or select the common use case below:
 
 * [Submit a Contributor Progress Reports](/contributors/reporting.md)
+* [Explore draft content](/contributors/draft.md)
 
 #### 4. User type: Manager
 
@@ -46,6 +47,7 @@ or select one of the common use cases below:
 
 * [Create the Implementation Plan](/managers/create-implementation-plan.md)
   * [Import multiple recommendations (and other items)](/managers/import.md)
+  * [Publish draft items](/managers/publish.md)
 * [Monitor the Implementation Plan](/managers/monitor-implementation-plan.md)
 * [Oversee Progress Reports](/managers/oversee-reporting.md)
 * [Promote Users](/managers/users-admin.md)

@@ -35,7 +35,7 @@ List items can also be sorted by creation date (often default), title, reference
 
 Lists can be filtered by keyword or any associated category, related element or attribute. This can help you narrow down the number of list items according to personal preferences or areas of interest.
 
-> Please note: for a full text search that includes descriptons use the [Search feature](/visitors/search.md)
+> Please note: for a full text search that includes descriptions use the [Search feature](/visitors/search.md)
 
 Any active filter will appear in the search field at the top of the list views:
 
@@ -65,7 +65,7 @@ Filter options includes
 
 > Note: you can toggle (expand and collapse) filter option groups. Default toggle state may depend on the specific configuration
 
-**Example: how to filter a list of actions by Education category (of Thematic CLuster taxonomy)**
+**Example: how to filter a list of actions by Education category (of Thematic Cluster taxonomy)**
 
 ![](/assets/v-list-filter.png)
 _Screenshot from demo site ([demo.impactoss.org](https://demo.impactoss.org)) - all content for demo purposes only_

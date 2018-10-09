@@ -2,7 +2,7 @@
 
 > _Available for: [Managers](/managers/manager.md) and [Administrators](/admins/admin.md)_
 
-On the [Recommendations](/visitors/recommendations.md), [Actions](/visitors/actions.md), [SDG Targets](/visitors/sdg-targets.md), and [Indicator](/visitors/indicators.md) list views you will, once authorised, find an 'Import' button (circled in screenshot below) to start adding multiple items at once - a time-efficient way to add new items:
+On the [Recommendations](/visitors/recommendations.md), [Actions](/visitors/actions.md), [SDG Targets](/visitors/sdg-targets.md), and [Indicators](/visitors/indicators.md) list views you will, once authorised, find an 'Import' button (circled in screenshot below) to start adding multiple items at once - a time-efficient way to add new items:
 
 ![](/assets/m-action-import.png)
 _Screenshot from demo site ([demo.impactoss.org](https://demo.impactoss.org)) - all content for demo purposes only_
@@ -26,7 +26,7 @@ For all items the batch import screen (pictured above) allows you to
 
   To use the batch import feature you will need to be signed with a user account of type [Manager](/managers/manager.md) or [Administrator](/admins/admin.md)
 
-  See [Login](guests/login.md).
+  See [Login](/guests/login.md).
 
 2. **Open the batch import screen**
 
@@ -109,18 +109,15 @@ For all items the batch import screen (pictured above) allows you to
 
 11. **Review newly imported items**
 
-  When returned back to the list view you can identify the recently imported items by filtering the list by 'Publication status' (select 'Draft') as the import feature only creates draft items
-
-  ![](/assets/import-recs-listafterimport.png)
-
-  and optionally also sorting the list by creation date (see also [Lists: filter, group & more](visitors/lists.md)).
+  When returned back to the list view you can identify the recently imported items by filtering the list by 'Publication status' (select 'Draft') as the import feature only creates draft items (see [Explore Draft Content](/contributors/draft.md)) and optionally also sorting the list by creation date (see also [Lists: filter, group & more](/visitors/lists.md)).
 
   Then open and inspect each item (or a large enough subset of the items) and verify that the data was imported as expected.
 
 12. **Make linkages with categories and other items**
 
-  If you are happy with the imported records, you can also make linkages with other items and categories, best using the [batch edit feature](managers/batch-edit.md)
+  If you are happy with the imported records, you can also make linkages with other items and categories, best using the [batch edit feature](/managers/batch-edit.md)
 
 13. **Publish newly imported items**
 
-  As the batch import feature will always set the publication status to 'Draft', you will still have to make them public once you have reviewed and linked them, again using the [batch edit feature](managers/batch-edit.md).
+  As the batch import feature will always set the publication status to 'Draft', you will still have to publish them once you have reviewed and linked them. For how to publish a single item or multiple items see
+  [Publish items](/managers/publish.md).
