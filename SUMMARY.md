@@ -55,7 +55,7 @@
 * [Batch edit multiple items](/managers/batch-edit.md)
 * [Publish items](/managers/publish.md)
 
-## 5. Admininistrators
+## 5. Administrators
 
 * [Admin overview](/admins/admin.md)
 * [Assign Category Manager](/admins/assign-category.md)
