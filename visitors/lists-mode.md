@@ -2,6 +2,8 @@
 
 The National Action Implementation Plan (Action List), as well as Indicator and SDG Target list views, can be viewed in either 'List View' or 'Implementation View'.
 
+---
+
 #### List View
 
 The default 'List View' gives the user a condensed overview with the a summary of associated Indicators and Progress Reports only.
@@ -15,6 +17,7 @@ You can alternatively also **drill down one level at a time** by clicking on the
 
 > Note: minimising expanded columns is only possible using the column headers but not by clicking the nested summary boxes.
 
+---
 
 #### Implementation View
 

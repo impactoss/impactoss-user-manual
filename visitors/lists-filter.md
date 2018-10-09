@@ -9,6 +9,8 @@ Any active filter will appear in the search field at the top of the list views:
 ![](/assets/v-action-list-seach.png)
 _Screenshot from demo site ([demo.impactoss.org](https://demo.impactoss.org)) - all content for demo purposes only_
 
+---
+
 #### Filtering by keyword (Reference or Title)
 
 By typing into the search field you can filter list items by keyword, targeting each list item's title, and unique reference (sometime database id). The list will auto update and the number of matching items will accordingly reduce immediately.
@@ -22,6 +24,8 @@ _Screenshot from demo site ([demo.impactoss.org](https://demo.impactoss.org)) - 
 
 > The keyword filter function can also be used to find specific entities, e.g. by entering a UPR recommendation reference number.
 
+---
+
 #### Filtering by Category, Connected Category, Connection or Attribute
 
 Other filter options for specific associations can be found in the list side bar on the left hand side.
@@ -34,7 +38,7 @@ Filter options includes
 
 > Note: you can toggle (expand and collapse) filter option groups. Default toggle state may depend on the specific configuration
 
-**Example: how to filter a list of actions by Education category (of Thematic Cluster taxonomy)**
+##### Example: how to filter a list of actions by Education category (of Thematic Cluster taxonomy)
 
 ![](/assets/v-list-filter.png)
 _Screenshot from demo site ([demo.impactoss.org](https://demo.impactoss.org)) - all content for demo purposes only_
