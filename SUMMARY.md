@@ -51,6 +51,7 @@
 * [Edit single item](/managers/edit-content.md)
 * [Import multiple items](/managers/import.md)
 * [Batch edit multiple items](/managers/batch-edit.md)
+* [Publish items](/managers/publish.md)
 
 ## 5. Admininistrators
 
