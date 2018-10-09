@@ -171,7 +171,7 @@ _Categorise: Recommendations_
 
 ---
 
-##### Organisations, incl Government Agencies
+##### Organisations, including Government Agencies
 
 ![](/assets/icon-organisations.png)
 
@@ -193,7 +193,7 @@ _Categorise: Actions_
 ![](/assets/icon-smart-resultoriented.png)
 ![](/assets/icon-smart-timebound.png)
 
-_Specific \| Measurable \| Asssignable \| Result-oriented \| Timebound_
+_Specific \| Measurable \| Assignable \| Result-oriented \| Timebound_
 
 
 ---

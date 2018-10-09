@@ -2,7 +2,7 @@
 
 > _Available for: [Administrators](/admins/admin.md))_
 
-Administrators can delete all items from the edit views of the indiviudal entities, see
+Administrators can delete all items from the edit views of the individual entities, see
 
 * [Manage Categories](/managers/categories.md)
 * [Manage Actions](/managers/actions.md)

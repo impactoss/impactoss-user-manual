@@ -26,7 +26,7 @@ You can explore any single category by selecting it from the category group over
 ![](/assets/v-categories-single.png)
 _Screenshot from demo site ([demo.impactoss.org](https://demo.impactoss.org)) - all content for demo purposes only_
 
-For each list item you can also see all other categories and relationships (e.g. the actions a recommendations is addressed by) the category has been associated with - to help quickly identify the category group a category tag belongs to, the tags are coulored according to the groups's unique colour:
+For each list item you can also see all other categories and relationships (e.g. the actions a recommendations is addressed by) the category has been associated with - to help quickly identify the category group a category tag belongs to, the tags are coloured according to the group's unique colour:
 
 ![](/assets/cursor.png)
 _Screenshot from demo site ([demo.impactoss.org](https://demo.impactoss.org)) - all content for demo purposes only_

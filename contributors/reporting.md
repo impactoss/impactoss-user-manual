@@ -31,7 +31,7 @@ _Screenshot from demo site ([demo.impactoss.org](https://demo.impactoss.org)) - 
 ![](/assets/c-indicator-add-report.png)
 _Screenshot from demo site ([demo.impactoss.org](https://demo.impactoss.org)) - all content for demo purposes only_
 
-On the 'New Report View' (see screenshot above), enter the folloing information:
+On the 'New Report View' (see screenshot above), enter the following information:
 
 1. **Title**: The title of the progress report (e.g. 'Domestic violence stats Q3 2017' or 'NHRI CEDAW Training Workshop for Police Recruits')
 2. **Description**: Full details of the progress report

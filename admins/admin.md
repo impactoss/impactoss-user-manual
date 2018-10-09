@@ -14,8 +14,8 @@ Application Administrators are select power users with a maximum of abilities. T
 * [Manage Pages](admins/pages.md)
 * [Delete Items](admins/delete-item.md)
 
-##### What are the repszonsibilities of Administrators?
+##### What are the responsibilities of Administrators?
 
 * Create and update content pages
-* Manage Managers, including promotion and catgeory assignment
+* Manage Managers, including promotion and category assignment
 * Delete unused items

@@ -49,6 +49,6 @@ To read more about user roles go to [Introduction](README.md) and the relevant o
 
 #### Invite users
 
-Currently users cannot be invited through the application.INstead you will have to contact the user personally and:
+Currently users cannot be invited through the application. Instead you will have to contact the user personally and:
 1. Invite the user by sending a link to the registration page (see [Register](/visitors/register.md))
 2. Once the user has registered, promote the user (see above)

@@ -21,7 +21,7 @@ _Screenshot from demo site ([demo.impactoss.org](https://demo.impactoss.org)) - 
 
 #### Oversee Reporting
 
-To learn more about how to set up COntributors (Indicator Managers) responsible for data entry and how to oversee reporting go to **[Oversee Reporting](/managers/oversee-reporting.md))**
+To learn more about how to set up Contributors (Indicator Managers) responsible for data entry and how to oversee reporting go to **[Oversee Reporting](/managers/oversee-reporting.md))**
 
 ---
 

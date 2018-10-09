@@ -49,7 +49,7 @@ The Manager can as **Category Managers** be explicitly made responsible for an a
 
 ##### Prerequisites
 
-* A Manager requiress to be assigned to suitable category (by Admininistrator, see [Assign Category Manager](/admins/assign-category.md))
+* A Manager requires to be assigned to a suitable category (by Administrator, see [Assign Category Manager](/admins/assign-category.md))
 
 ##### Responsibilities
 
@@ -76,4 +76,4 @@ Manager ---- Category ---- Recommendation 1 ---- Action 1 ---- Indicator 1.1
 
 > Please note: if Recommendations are part of tagged with Categories or if Actions are associated with Recommendations of multiple Categories, it is possible that multiple Managers receive email reminders for the same Indicator
 
-> Also note that the frequency of email reminders may vary dependoing on configuration - default is **weekly** (compare [Contributor overview](/contributors/contributor.md))
+> Also note that the frequency of email reminders may vary depending on configuration - default is **weekly** (compare [Contributor overview](/contributors/contributor.md))
