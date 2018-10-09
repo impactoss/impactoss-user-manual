@@ -19,7 +19,7 @@ Managers are responsible for developing and updating the National Implementation
   * [Manage Indicators](/managers/indicators.md)
   * [Manage Recommendations](/managers/recommendations.md)
   * [Manage SDG Targets (optional)](/managers/sdg-targets.md)
-  * [Import content](/managers/import.md)
+  * [Import multiple items at once](/managers/import.md)
   * [Batch editing](managers/batch-edit.md)  
   * [Delete content](/managers/delete-content.md)
 

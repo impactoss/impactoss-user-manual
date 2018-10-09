@@ -3,6 +3,8 @@
 ## Introduction
 
 * [Introduction](README.md)
+* [Core concepts](concepts.md)
+* [User types & common use cases](usecases.md)
 * [About IMPACT OSS](about.md)
 
 ## 1. Visitors
@@ -62,4 +64,3 @@
 * [History & credits](/appendix/history.md)
 * [Glossary & icons](/appendix/glossary.md)
 * [License](LICENSE.md)
-

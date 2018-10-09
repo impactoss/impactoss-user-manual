@@ -1,4 +1,4 @@
-##  About IMPACT OSS
+###  About IMPACT OSS
 
 IMPACT OSS is the Open Source Software (OSS) for Integrated Management and Planning of Actions (IMPACT), created to assist States with coordinating and monitoring implementation of human rights and the Sustainable Development Goals (SDGs).
 
@@ -20,5 +20,3 @@ IMPACT OSS is a tool for
 
 * **States** to plan and monitor implementation of its human rights and SDG obligations.
 * **Civil society and other stakeholders** and the **general public** to access the publicly available database, track progress, hold Government to account and even contribute their own data where appropriate
-
-

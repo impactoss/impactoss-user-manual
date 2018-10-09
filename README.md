@@ -8,62 +8,17 @@ This user manual provides guidance on how to use IMPACT OSS, the Open Source Sof
 
 ---
 
-#### Explore by user type & common use cases
+##### First understand the core concepts
 
-This manual is organised by user type, ordered by increasing capabilities:
+In order to successfully use and administer IMPACT OSS, it is recommended to first get a good understanding of its principal concepts and how they relate:
 
-##### 1. Visitor
+**[>>> Core concepts <<<](concepts.md)**
 
-To learn you can use IMPACT OSS without having a user account please start at
+##### Then explore by user type & use case
 
-* [**Visitor overview**](/visitors/visitor.md)
+Once you have understood the [core concepts](concepts.md), you can best explore this manual by user type and common use cases:
 
-or select one of the common use cases below
-
-* [Explore Recommendations & Actions by Category](/visitors/categories.md)
-* [Explore the Action Implementation Plan](/visitors/actions.md)
-* [Search the entire database](/visitors/search.md)
-* [Register](/visitors/register.md)
-
-##### 2. User type: Guest \(all registered users\)
-
-To learn about usage options once you have registered, go to
-
-* [**Guest overview**](/guests/guest.md)
-
-or select one of the common use cases below:
-
-* [Update your User Profile & change password](/guests/user-profile.md)
-* [Submit a Guest Progress Reports](/guests/reporting.md)
-
-##### 3. User type: Contributor
-
-To learn about the contributor role go to
-
-* [**Contributor overview**](/contributors/contributor.md)
-
-or select the common use case below:
-
-* [Submit a Contributor Progress Reports](/contributors/reporting.md)
-
-##### 4. User type: Manager
-
-To learn about the capabilities & responsibilities of a Manager go to
-
-* [**Manager overview**](/managers/manager.md)
-
-or select one of the common use cases below:
-
-* [Create the Implementation Plan](/managers/create-implementation-plan.md)
-* [Monitor the Implementation Plan](/managers/monitor-implementation-plan.md)
-* [Oversee Progress Reports](/managers/oversee-reporting.md)
-* [Promote Users](/managers/users-admin.md)
-
-##### 5. User type: Admininistrator
-
-To learn about the capabilities & responsibilities of the Admininistrator go to
-
-* [**Administrator overview**](/admins/admin.md)
+**[>>> User types & common use cases <<<](usecases.md)**
 
 ---
 
@@ -78,4 +33,3 @@ For more information on the development history and credits for the IMPACT OSS s
 ##### Licence
 
 This manual is part of the [IMPACT OSS open source software](https://github.com/impactoss/impactoss-server/) and accordingly licensed under the same MIT license, see [License](LICENSE.md).
-

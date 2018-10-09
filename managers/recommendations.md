@@ -12,7 +12,7 @@ From the recommendation list page (see [Explore Recommendations ](/visitors/reco
 
 There are two ways for an Administrator to add recommendations:
 
-1. Add single recommendations (see below)
+1. Add a single recommendations (see below)
 2. Import a file of multiple recommendations (see [Import multiple items](/managers/import.md))
 
 ![](/assets/m-recommedation-list.png)
@@ -27,18 +27,19 @@ _Screenshot from demo site ([demo.impactoss.org](https://demo.impactoss.org)) - 
 
 On the 'New Recommendation View' (see screenshot above), enter the following information:
 
-1. **ID**: Optionally add a unique indicator ID. If left blank an ID will automatically be assigned.
+1. **Reference**: Add a unique recommendation reference to allow identifying the recommendation.
 2. **Title**: Recommendation title
 3. **Government response**: Only applicable to UPR recommendations, which a Government can 'accept' or 'note'. The response for UPR recommendations should be recorded here
 4. **Government response comment**: When Government's 'note' comments they often explain why they are not accepting them. Details of such reasoning should be recorded here. Text styling can be applied using markdown (see http://commonmark.org/help).
-4. **Actions**: Clicking on the drop down menu allows you to link the Recommendation to any of the Actions contained within the database. At the bottom of the drop down menu is also an 'Add' button where you can choose to add a new action from here to link to the recommendation if you wish.
-6. **Status**: By default initially set to **Draft**, you can change this to **Public** once the Action is ready to be published on the public site. _Note: The publication status of Actions can also be changed using [Batch editing](/managers/batch-edit.md)_
+5. **Actions**: Clicking on the drop down menu allows you to link the Recommendation to any of the Actions contained within the database. At the bottom of the drop down menu is also an 'Add' button where you can choose to add a new action from here to link to the recommendation if you wish.
+6. **Publication status**: By default initially set to **Draft**, you can change this to **Public** once the Action is ready to be published on the public site. _Note: The publication status of Actions can also be changed using [Batch editing](/managers/batch-edit.md)_
 7. **Human rights body** (depends on configuration): Clicking on the drop down menu allows you to link the Recommendation to any of the pre-existing category. At the bottom of the drop down menu is also an 'Add' button where you can choose to add a new category from here to link to the Recomendation you wish. See also [Explore by Category](/visitors/categories.md).
 8. **Reporting Cycle** (depends on configuration): like 7.
 9. **Human rights issue** (depends on configuration): like 7.
 10. **Affected persons** (depends on configuration): like 7.
-10. **Thematic cluster** (depends on configuration): like 7.
-12. **Save**: This is where you can save all of the details that have been entered (or clear the form using the cancel button)
+11. **Recommending state** (depends on configuration): like 7.
+12. **Thematic cluster** (depends on configuration): like 7.
+13. **Save**: This is where you can save all of the details that have been entered (or clear the form using the cancel button)
 
 ---
 
