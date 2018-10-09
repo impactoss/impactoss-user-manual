@@ -32,7 +32,7 @@ By creating recommendation clusters and themes the wide ranging obligations beco
 
 The most efficient way to cluster Recommendations is to use a combination of
 
-* **list filtering** (see (1) in screenshot below) to find similar obligations (see [Lists: filter, group & more](/visitors/lists.md)) and
+* **list filtering** (see (1) in screenshot below) to find similar obligations (see [Lists: filter items](/visitors/lists-filter.md)) and
 * **batch editing** of selected (see (2) below) obligations ([Batch edit multiple items](/managers/batch-edit.md))
 
 ![](/assets/m-recommendation-list.png)
@@ -63,7 +63,7 @@ Whilst multiple indicators can be imported it is important to edit each one indi
 
 Once added and defined, Actions can be assigned to assigned to relevant Recommendation Clusters or individual Recommendations using a combination of
 
-* **list filtering** (1) to find similar obligations (see [Lists: filter, group & more](/visitors/lists.md)) and
+* **list filtering** (1) to find similar obligations (see [Lists: filter items](/visitors/lists-filter.md)) and
 * **batch editing** of selected (2) obligations ([Batch edit multiple items](/managers/batch-edit.md))
 
 Alternatively, **Action can be assigned to Clusters and Recommendations individually** (or vice versa) as described here: [Edit single item](/managers/edit-content.md)

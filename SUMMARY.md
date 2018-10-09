@@ -16,7 +16,9 @@
 * [Explore Recommendations ](/visitors/recommendations.md)
 * [Explore SDG Targets (optional)](/visitors/sdg-targets.md)
 * [Explore Pages](/visitors/content.md)
-* [Lists: filter, group & more](/visitors/lists.md)
+* [List view options](/visitors/lists.md)
+  * [Lists: filter items](/visitors/lists-filter.md)
+  * [Lists: view modes](/visitors/lists-mode.md)
 * [Search website](/visitors/search.md)
 * [Register](/visitors/register.md)
 

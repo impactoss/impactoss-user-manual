@@ -16,7 +16,7 @@ On the Users page Administrators and Managers can manage all of the registered u
 _Screenshot from demo site ([demo.impactoss.org](https://demo.impactoss.org)) - all content for demo purposes only_
 
 On the User List (navigate here from top right hand corner of screen) you see a list of all registered users in the database that you can
-* filter just like any other slites (see [Lists: filter, group & more](/visitors/lists.md))
+* filter just like any other list (see [Lists: filter items](/visitors/lists-filter.md))
 * select to explore and update details (see below)
 * batch update, specifically assigning an organisation if configured (see [Batch editing](/managers/batch-edit.md))
 
