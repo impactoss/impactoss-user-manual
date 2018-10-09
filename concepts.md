@@ -1,6 +1,6 @@
-### Core concepts
+### Principal concepts
 
-The following diagram that is also rendered on the application's Overview page (see [Visitor overview](visitors/visitor.html)) shows the core concepts of IMPACT OSS and how they relate.
+The following diagram that is also rendered on the application's Overview page (see [Visitor overview](visitors/visitor.html)) shows the principal concepts of IMPACT OSS and how they relate.
 
 ![](/assets/concepts.png)  
 _Screenshot from demo site ([demo.impactoss.org](https://demo.impactoss.org)) - all content for demo purposes only_
@@ -15,7 +15,25 @@ Each country is party to a number of human rights treaties. For each treaty it h
 
 Additionally each country undertakes a **Universal periodic Review (UPR)** every 4.5 years and has a standing invitation to all **United Nations Special Procedures**. Out of both of these processes each country receives also recommendations for how to implement its human rights obligations.
 
-For more information go to **[Explore Recommendations ](/visitors/recommendations.md)**
+##### Recommendation fields
+
+Required fields:
+
+- **Title**: The full text or public title of a recommendation or observation. If an additional field for the 'Full recommendation text' is available (depends on configuration, see below), a less technical and shorter title also aimed at public audiences should be entered here.
+- **Reference**: A _unique_ reference that allows to easily identify a particular recommendation. For references it is best to use any references or numbers if provided by the recommending mechanism and thus allow universal identification and if not a sensible numbering.
+
+  > Note: rather than using just numbers, it is better to also encode the mechanism and cycle (or year) to guarantee long-term uniqueness and consistency. Bad examples would be using `5` and `6` as there may be many 5th recommendations across different mechanisms and cycles, a good example would be `CRC-2017-5` and `CRC-2017-6` as it will always be unique))
+
+Optional fields (may be omitted in some installations)
+
+- **Full recommendation text**: The original recommendation text in full length, allows entering a shorter and less technical public title (see above).
+- **Government response**: The response given for UPR recommendations, one of 'Accepted' or 'Noted'. Will default to 'Accepted' for other recommendations as implicitly assumed.
+- **Government response comment**: Any response comment a government may provide along with the response (UPR only).
+
+
+For more information see
+- **[Explore Recommendations ](/visitors/recommendations.md)**
+- **[Manage Recommendations](/managers/recommendations.md)**
 
 ---
 
@@ -29,7 +47,24 @@ For more information go to **[Explore Recommendations ](/visitors/recommendation
 
 The **Actions** the Government and partners are doing or planning to implement human rights and achieve the SDGs form the overall National **Implementation Plan**. Actions address the Recommendations (see above) and -if configured- optionally also the SDG Targets (see below).
 
-For more information go to **[Explore Action Implementation Plan](/visitors/actions.md)**
+Required fields:
+
+- **Title**: The action title as defined by the Government
+- **No.**: A number that is automatically assigned by the application and serves as a unique identifier
+
+Optional fields (may be omitted in some installations)
+
+- **Description**: A more detailed description of the action.
+- **Target date**: The date by when the government aims to have the action completed.
+- **Target date comment**: Any comment to further explain the target date.
+- **Outcome**: A text field for describing the outcomes, either interim outcomes of ongoing or final outcomes of completed actions.
+- **Indicator summary**: A text field for summarising any progress or outcome indicators that may be set up or used to track action progress.
+
+
+For more information see
+- **[Explore Action Implementation Plan](/visitors/actions.md)**
+- **[Manage Actions](/managers/actions.md)**
+
 
 ---
 
@@ -43,6 +78,24 @@ Each Action and -when configured- optionally also SDG targets should have at lea
 
 For more information go to **[Explore Indicators](/visitors/indicators.md)**
 
+Required fields:
+
+- **Title**: The indicator name.
+
+Optional fields (may be omitted in some installations)
+
+- **Reference**: Optionally for assigning a user-defined unique identifier - if left blank the application will automatically assign a reference.
+- **Description**: The full detailed description of the indicator.
+- **Progress report schedule: Due date**: The due date of a required progress report for indicator (one-off, not repeat).
+- **Progress report schedule: Start date**: The start date for a series of required progress reports for indicator (repeat).  
+- **Progress report schedule: End date**: The end date for a series of required progress reports for indicator (repeat).
+- **Progress report schedule: Update frequency**: The update frequency for a series of progress reports for indicator (repeat).
+- **Assigned user**: A user responsible for providing progress reports.
+
+For more information see
+- **[Explore Indicators](/visitors/indicators.md)**
+- **[Manage Indicators](/managers/indicators.md)**
+
 ---
 
 #### SDG Targets (optional configuration)
@@ -51,9 +104,20 @@ For more information go to **[Explore Indicators](/visitors/indicators.md)**
 
 The **SDG Targets** are the 169 internationally agreed targets to achieve the 17 SDGs (Sustainable Development Goals). For each target one or more SDG indicators have also been defined.
 
+Required fields:
+
+- **Title**: The title (or short title) of an SDG target.
+- **Reference**: The SDG target reference e.g. `1.1`
+
+Optional fields (may be omitted in some installations)
+
+- **Description**: An optional detailed description of the SDG target.
+
 > Please note that IMPACT OSS can optionally also be configured without SDGs
 
-For more information go to **[Explore SDG Targets (optional)](/visitors/sdg-targets.md)**
+For more information see
+- **[Explore SDG Targets](/visitors/sdg-targets.md)**
+- **[Manage SDG Targets](/managers/sdg-targets.md)**
 
 ---
 
@@ -63,11 +127,30 @@ For more information go to **[Explore SDG Targets (optional)](/visitors/sdg-targ
 
 Categories are the ways in which Actions, Recommendations and the SDG Targets are indexed and classified which is useful for searching and filtering, as well as reporting and analysis. IMPACT OSS is pre-configured with multiple groups of categories (technically called **taxonomies**) during installation that each contain multiple **categories** that can be set up by platform managers and administrators (see [Manage Categories](managers/categories.md))
 
+Category fields (required):
+
+- **Title**: The category name.
+
+Category fields (optional fields, may be omitted in some installations)
+
+- **Short title**: A short name for the category as used for category tags. If left blank application will display an abbreviation of the Title.   
+- **Reference**: An optional reference of the category where applicable. Can also be used for forcing sort order (categories are by default ordered by title or reference if provided).
+- **Description**: A long description of the category. Can also include any commentary provided.
+- **Website**: Any website address that may provide further information about the category.
+
+
+For more information see
+- **[Explore by Category](/visitors/categories.md)**
+- **[Manage Categories](/managers/categories.md)**
+
 ##### Example Taxonomies
 
 Taxonomies can include global category groups as universally used by the UN and national category groups that are only relevant to a specific state.
 
 > Please note that IMPACT OSS can be configured with many different category groups and individual installations can thus differ significantly
+
+![](/assets/categories.png)  
+_Schema of a possible taxonomy configuration, showing category groupings on left and principal entities on the right_
 
 ###### Human Rights Mechanisms (or Bodies)
 
@@ -141,6 +224,7 @@ Clustering recommendations in this way can not only help to make implementation 
 
 > _Commonly tag_
 > - _Actions_
+> - _Users_
 
 The **Organisations** taxonomy lists the Government agencies (and others) carrying out actions contained within the National Implementation Plan. Visitors can use this taxonomy to easily see what work any particular Ministry is doing in the areas of human rights and the SDGs at the click of a button. If your organisation is doing a variety of work related to the actions contained with the National Implementation Plan you can contact the administrator using the 'Contact' link on the website to discuss your involvement.
 

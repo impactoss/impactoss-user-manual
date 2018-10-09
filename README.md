@@ -8,15 +8,15 @@ This user manual provides guidance on how to use IMPACT OSS, the Open Source Sof
 
 ---
 
-##### First understand the core concepts
+##### First understand the principal concepts
 
 In order to successfully use and administer IMPACT OSS, it is recommended to first get a good understanding of its principal concepts and how they relate:
 
-**[>>> Core concepts <<<](/concepts.md)**
+**[>>> Principal concepts <<<](/concepts.md)**
 
 ##### Then explore by user type & use case
 
-Once you have understood the [core concepts](/concepts.md), you can best explore this manual by user type and common use cases:
+Once you have understood the [principal concepts](/concepts.md), you can best explore this manual by user type and common use cases:
 
 **[>>> User types & common use cases <<<](/usecases.md)**
 
