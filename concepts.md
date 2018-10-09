@@ -127,6 +127,8 @@ For more information see
 
 Categories are the ways in which Actions, Recommendations and the SDG Targets are indexed and classified which is useful for searching and filtering, as well as reporting and analysis. IMPACT OSS is pre-configured with multiple groups of categories (technically called **taxonomies**) during installation that each contain multiple **categories** that can be set up by platform managers and administrators (see [Manage Categories](managers/categories.md))
 
+> Please note: you can only add new categories to existing taxonomies (category groupings), but you cannot add new taxonomies. Additional taxonomies or changing how taxonomies are configured can only be set up by the technical site administrator
+
 Category fields (required):
 
 - **Title**: The category name.

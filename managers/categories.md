@@ -9,7 +9,7 @@ From the category group (taxonomy) page (see [Explore by Category](/visitors/cat
 * Select existing Categories for updating (see (2)), and
 * Add new Categories to a Taxonomy (see (3)).
 
-> Please note: you can only add new categories to existing taxonomies (category groupings), but you cannot add new taxonomies. Additional taxonomies or changing how taxonomies work can only be set up by the technical site administrator
+> Please note: you can only add new categories to existing taxonomies (category groupings), but you cannot add new taxonomies. Additional taxonomies or changing how taxonomies are configured can only be set up by the technical site administrator
 
 ---
 
