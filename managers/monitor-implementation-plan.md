@@ -10,11 +10,11 @@ The monitoring of the implementation plan is crucial for both the State and civi
 
 To view the **Human Rights Implementation Plan** and start monitoring
 * go to 'Actions' (see also [Explore Action Implementation Plan](/visitors/actions.md)) and
-* change view to 'Implementation view' (see also [Lists: view modes](/visitors/lists-mode.md)).
+* change view to 'Implementation view' (see also [Lists: change view mode](/visitors/lists-mode.md)).
 
 To view the **SDG Implementation Plan** (if configured) likewise
 * go to 'SDG Targets' (see also [Explore SDG Targets](/visitors/sdg-targets.md)) and
-* change view to 'Implementation view' (see also [Lists: view modes](/visitors/lists-mode.md)).
+* change view to 'Implementation view' (see also [Lists: change view mode](/visitors/lists-mode.md)).
 
 ![](/assets/m-impl-view.png)
 _Screenshot from demo site ([demo.impactoss.org](https://demo.impactoss.org)) - all content for demo purposes only_

@@ -18,7 +18,7 @@
 * [Explore Pages](/visitors/content.md)
 * [List view options](/visitors/lists.md)
   * [Lists: filter items](/visitors/lists-filter.md)
-  * [Lists: view modes](/visitors/lists-mode.md)
+  * [Lists: change view mode](/visitors/lists-mode.md)
 * [Search website](/visitors/search.md)
 * [Register](/visitors/register.md)
 

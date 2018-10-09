@@ -22,7 +22,7 @@ Please see [List view options](/visitors/lists.md) for options to customise your
 
 ##### View Progress Reports
 
-To view and select individual Progress Reports click on the progress report number displayed next to each indicator (or alternatively switch to view mode to "Implementation Plan", see [Lists: view modes](/visitors/lists-mode.md) for details).
+To view and select individual Progress Reports click on the progress report number displayed next to each indicator (or alternatively switch to view mode to "Implementation Plan", see [Lists: change view mode](/visitors/lists-mode.md) for details).
 
 ![](/assets/v-progress-report.png)
 _Screenshot from demo site ([demo.impactoss.org](https://demo.impactoss.org)) - all content for demo purposes only_
