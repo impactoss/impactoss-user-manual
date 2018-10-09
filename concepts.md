@@ -254,3 +254,8 @@ The **Progress status** taxonomy allows marking Government action progress, eith
 In addition to being a tool which helps track and coordinate implementation a country's human rights obligations, the application also does the same in relation to the **SDGs**. Visitors can therefore click on this taxonomy to explore the SDG Targets in more detail or to look into what actions the Government is taking to achieve the SDGs. The tool helps to draw the links between the work the Government is doing in relation to the SDGs and the work it is doing in relation to human rights, again eliminating duplication and increasing efficiency.
 
 > Note: Depending on the configuration SDGs could also be used to classify Recommendations and/or Actions
+
+
+---
+
+Explore this manual by **[User type & common use case](/usecases.md)**
