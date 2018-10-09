@@ -23,14 +23,15 @@ To submit a Progress Report to an Indicator you have been assigned to follow the
 ![](/assets/c-indicator.png)
 _Screenshot from demo site ([demo.impactoss.org](https://demo.impactoss.org)) - all content for demo purposes only_
 
-1. Click on the Indicator link in the email reminder (not pictured) or select Indicator from the [Indicator overview](/visitors/indicators.md) where you can filter Indicators by assigned User, e.g. yourself (see also [Lists: filter, group & more](/visitors/lists.md) for hot to filter)
+1. Click on the Indicator link in the email reminder (not pictured) or select Indicator from the [Indicator overview](/visitors/indicators.md) where you can filter Indicators by assigned User, e.g. yourself (see also Please also see the section [Lists: filter items](/visitors/lists-filter.md) for more list operations.
+ for how to filter)
 2. Login (if not already signed in, see [Login & recover password](/guests/login.md))
 3. On the 'Indicator View' click on 'Add Report' (1 or 2 in screenshot above)
 
 ![](/assets/c-indicator-add-report.png)
 _Screenshot from demo site ([demo.impactoss.org](https://demo.impactoss.org)) - all content for demo purposes only_
 
-On the 'New Report View' (see screenshot above), enter the folloing information:
+On the 'New Report View' (see screenshot above), enter the following information:
 
 1. **Title**: The title of the progress report (e.g. 'Domestic violence stats Q3 2017' or 'NHRI CEDAW Training Workshop for Police Recruits')
 2. **Description**: Full details of the progress report
@@ -41,4 +42,3 @@ depending on whether there is sensitive information contained within that should
 6. **Due date**: Select the scheduled date or select 'Extraordinary' for unscheduled reports'.
 7. **Save**: Create Progress Report
 8. **Review**: Review information on Report View (not pictured)
-

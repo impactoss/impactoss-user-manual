@@ -8,9 +8,6 @@ Any organisation or individual can register as a user and contribute data. In ad
 
 See [Register](/visitors/register.md) for details on how to register,
 
-Once logged in, you must [navigate](/visitors/visitor.md) to the relevant indicator \(e.g. frm the [Indicators view](/visitors/indicators.md)\]\) and click on the 'Add report' button and follow ths instructions provided on page [Reporting as Contributor](/contributors/reporting.md).
+Once logged in, you must [navigate](/visitors/visitor.md) to the relevant indicator \(e.g. from the [Indicators view](/visitors/indicators.md)\]\) and click on the 'Add report' button and follow the instructions provided on page [Reporting as Contributor](/contributors/reporting.md).
 
-> Note: when contributing progress reports as a [Guest user](/guests/guest.md), your progress reports will have to be reviewed and published first by an authorised user before becoming publically available
-
-
-
+> Note: when contributing progress reports as a [Guest user](/guests/guest.md), your progress reports will have to be reviewed and published first by an authorised user before becoming publicly available

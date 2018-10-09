@@ -25,7 +25,7 @@ To go back to filter mode, simply click "Filter" in the sidebar
 
 Once the Administrator or Manager is in 'Edit' mode they can update the selected items in bulk, changing their attributes (either Actions, Indicators, Recommendations or SDG Targets) and/or item associations (e.g. the category tags, actions, indicators, thematic cluster).
 
-Batch editing of actions (or other entities such as recommendations, indicators or SDG targets) is a powerful feature (especially when combined with [list filtering](/visitors/lists.md)) that allows efficient editing, including for these common use cases:
+Batch editing of actions (or other entities such as recommendations, indicators or SDG targets) is a powerful feature (especially when combined with [list filtering](/visitors/lists-filter.md)) that allows efficient editing, including for these common use cases:
 
 * Update the publication status of multiple actions from draft to public
 * Linking multiple actions (or recommendations, etc.) with any category (i.e. a thematic cluster or organisation)
@@ -39,7 +39,7 @@ Batch editing is a simple process - first you need to identify and select the ac
 ![](/assets/m-action-list-edit-all.png)
 _Screenshot from demo site ([demo.impactoss.org](https://demo.impactoss.org)) - all content for demo purposes only_
 
-You can select the actions you wish to edit by first using [list filtering](/visitors/lists.md)) to bring up the relevant actions, then
+You can select the actions you wish to edit by first using [list filtering](/visitors/lists-filter.md)) to bring up the relevant actions, then
 1. Select individual actions using the checkbox next to each action
 2. Select all actions on the page displayed
 3. Select all actions including actions on other pages (if more items are in (filtered) list)

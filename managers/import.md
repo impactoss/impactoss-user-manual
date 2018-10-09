@@ -56,7 +56,7 @@ For all items the batch import screen (pictured above) allows you to
 
   See **[Principal concepts](concepts.md)** for required or optional fields.
 
-  > Please note: the available fields may differ depending on your application set up. 
+  > Please note: the available fields may differ depending on your application set up.
 
 5. **Prepare CSV template**
 
@@ -111,7 +111,7 @@ For all items the batch import screen (pictured above) allows you to
 
 11. **Review newly imported items**
 
-  When returned back to the list view you can identify the recently imported items by filtering the list by 'Publication status' (select 'Draft') as the import feature only creates draft items (see [Explore Draft Content](/contributors/draft.md)) and optionally also sorting the list by creation date (see also [Lists: filter, group & more](/visitors/lists.md)).
+  When returned back to the list view you can identify the recently imported items by filtering the list by 'Publication status' (select 'Draft') as the import feature only creates draft items (see [Explore Draft Content](/contributors/draft.md)) and optionally also sorting the list by creation date (see also [List view options](/visitors/lists.md)).
 
   Then open and inspect each item (or a large enough subset of the items) and verify that the data was imported as expected.
 

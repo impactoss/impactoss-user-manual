@@ -17,7 +17,7 @@ _Screenshot from demo site ([demo.impactoss.org](https://demo.impactoss.org)) - 
 
 The 'Recommendations' page works similarly to both the 'Actions' and 'Indicators' pages in that it allows users to explore and filter recommendations based on areas of interest. Unlike 'Actions' and 'Indicators' there is only one view with Recommendations as there is no Implementation Plan to explore in this area.
 
-Please see [Lists: filter, group & more](/visitors/lists.md) for options to customise your list view:
+Please see [List view options](/visitors/lists.md) for options to customise your list view:
 * grouping options
 * sorting options,
 * filtering options.

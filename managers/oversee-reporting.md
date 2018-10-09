@@ -20,7 +20,7 @@ If the data owner is not yet registered you will first have to
 1. Invite the user by sending a link to the registration page (see [Register](/visitors/register.md))
 2. Once the user has registered, promote the user to 'Contributor' role (see [Manage & Promote Users](/managers/users-admin.md))
 
-> Note: you may have to refresh your browser to see the newly registerd user
+> Note: you may have to refresh your browser to see the newly registered user
 
 ##### Assign Contributor
 
@@ -42,6 +42,6 @@ Once a Progress Report is 'Overdue' (the scheduled date is in the past) you shou
 
 #### Reviewing Reports as a Manager
 
-You can review all outstsanding and recently submitted Progress Reports on the Implementation Plan View (see [Monitor Implementation Plan](/managers/monitor-implementation-plan.md)) where you can filter the action list by "Connected Category", selecting the Category that you are responsible for (see [Lists: filter, group & more](/visitors/lists.md)).
+You can review all outstanding and recently submitted Progress Reports on the Implementation Plan View (see [Monitor Implementation Plan](/managers/monitor-implementation-plan.md)) where you can filter the action list by "Connected Category", selecting the Category that you are responsible for (see [Lists: filter items](/visitors/lists-filter.md)).
 
-This may also include unpublished reports submitted by GUest users (see [Reporting as Guest](/guests/reporting.md)).
+This may also include unpublished reports submitted by Guest users (see [Reporting as Guest](/guests/reporting.md)).

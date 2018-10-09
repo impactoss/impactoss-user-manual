@@ -30,7 +30,7 @@ On the 'New Action View' (see screenshot above), enter the following information
 1. **Title**: Action title
 2. **Description**: Additional details of Action. Text styling can be applied using markdown (see http://commonmark.org/help).
 3. **Recommendations**: Clicking on the drop down menu allows you to link the Action to any of the Recommendations contained within the database. At the bottom of the drop down menu is also an 'Add' button where you can choose to add a new Recommendation from here to link to the Action if you wish.
-4. **SDG Targets** (if confogured): like 3.
+4. **SDG Targets** (if configured): like 3.
 5. **Indicators**: like 3.
 6. **Status**: By default initially set to **Draft**, you can change this to **Public** once the Action is ready to be published on the public site. _Note: The publication status of Actions can also be changed using [Batch editing](/managers/batch-edit.md)_
 7. **Target date**: The target date for completion of the activity

@@ -39,7 +39,7 @@ _Screenshot from demo site ([demo.impactoss.org](https://demo.impactoss.org)) - 
 
 There are also two ways in which Pages can be edited;
 
-* edit individually (ee below)
+* edit individually (see below)
 * batch edit (see [Batch editing](/managers/batch-edit.md))
 
 ##### Individual editing

@@ -4,7 +4,7 @@
 
 #### Who are Contributors?
 
-Contributors are users that are usually the data owners of information relevant for one or more Indicators and are thus a key to the success of the data entry. Once assigned to an Indicator they are responsible for uploading relavent information at the required time.
+Contributors are users that are usually the data owners of information relevant for one or more Indicators and are thus a key to the success of the data entry. Once assigned to an Indicator they are responsible for uploading relevant information at the required time.
 
 **Email reminders**
 

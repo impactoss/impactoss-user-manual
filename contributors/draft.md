@@ -24,7 +24,7 @@ You can also filter any item list ([Recommendations](/visitors/recommendations.m
 > Please note: filter options are only available when any of the currently displayed list items match. For example if you already filtered the list for 'Public' items, the filter option 'Draft' is no longer offered as list items cannot be 'public' and 'draft' at the same time - to see the draft items you will first have to remove the 'Public' filter and then add the 'Draft' filter.
 
 
-Please also see the section **[Lists: filter, group & more](/visitors/lists.md)** for more list operations.
+Please also see the section **[Lists: filter items](/visitors/lists-filter.md)** for more list operations.
 
 ---
 

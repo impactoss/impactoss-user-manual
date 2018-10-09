@@ -15,13 +15,13 @@ The 'Action list' page contains all of the actions the Government (and possibly 
 ![](/assets/v-actions.png)
 _Screenshot from demo site ([demo.impactoss.org](https://demo.impactoss.org)) - all content for demo purposes only_
 
-1. The Action Group (see [Lists](/visitors/lists.md) for changing grouping)
+1. The Action Group (see [List view options](/visitors/lists.md) for changing grouping)
 2. The list of Actions within Group. Click on any Action for Action Single View (see below)
 3. Associated categories (tags) and other relationships (circles) - hover for full category title (tags) or for list of related elements (circles)
-4. Denotes the number of indicators associated with that action. Click to view and select individual Indicators  (or alternatively switch to view mode to "Implementation Plan", see [Lists](/visitors/lists.md) for details).
-5. The number of progress reports uploaded for indicator. Click to view and select individual Progress Reports (or alternatively switch to view mode to "Implementation Plan", see [Lists](/visitors/lists.md) for details).
+4. Denotes the number of indicators associated with that action. Click to view and select individual Indicators  (or alternatively switch to view mode to "Implementation Plan", see [Lists: filter items](/visitors/lists-filter.md) for details).
+5. The number of progress reports uploaded for indicator. Click to view and select individual Progress Reports (or alternatively switch to view mode to "Implementation Plan", see [Lists: filter items](/visitors/lists-filter.md) for details).
 
-Please see [Lists: filter, group & more](/visitors/lists.md) for options to customise your list view:
+Please see [List view options](/visitors/lists.md) for options to customise your list view:
 * grouping options
 * sorting options,
 * filtering options,

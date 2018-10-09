@@ -32,7 +32,7 @@ By creating recommendation clusters and themes the wide ranging obligations beco
 
 The most efficient way to cluster Recommendations is to use a combination of
 
-* **list filtering** (see (1) in screenshot below) to find similar obligations (see [Lists: filter, group & more](/visitors/lists.md)) and
+* **list filtering** (see (1) in screenshot below) to find similar obligations (see [Lists: filter items](/visitors/lists-filter.md)) and
 * **batch editing** of selected (see (2) below) obligations ([Batch edit multiple items](/managers/batch-edit.md))
 
 ![](/assets/m-recommendation-list.png)
@@ -44,7 +44,7 @@ Alternatively, **Recommendations can be allocated to Clusters individually** (or
 
 ##### 3. Add Actions and Indicators
 
-Now that the obligations for the National Implementation Plan have been entered and clustered, you will need to add Actions (and associated indicators) to effectively address the obligations. Like Reommendations, Actions and Indicators can also be added individually or by importing multiple entries at once from the [Action List](/visitors/actions.md) and [Indicator List](/visitors/indicators.md) respectively. For more information on adding them see
+Now that the obligations for the National Implementation Plan have been entered and clustered, you will need to add Actions (and associated indicators) to effectively address the obligations. Like Recommendations, Actions and Indicators can also be added individually or by importing multiple entries at once from the [Action List](/visitors/actions.md) and [Indicator List](/visitors/indicators.md) respectively. For more information on adding them see
 
 * [Manage Actions](/managers/actions.md)
 * [Manage Indicators](/managers/indicators.md)
@@ -63,7 +63,7 @@ Whilst multiple indicators can be imported it is important to edit each one indi
 
 Once added and defined, Actions can be assigned to assigned to relevant Recommendation Clusters or individual Recommendations using a combination of
 
-* **list filtering** (1) to find similar obligations (see [Lists: filter, group & more](/visitors/lists.md)) and
+* **list filtering** (1) to find similar obligations (see [Lists: filter items](/visitors/lists-filter.md)) and
 * **batch editing** of selected (2) obligations ([Batch edit multiple items](/managers/batch-edit.md))
 
 Alternatively, **Action can be assigned to Clusters and Recommendations individually** (or vice versa) as described here: [Edit single item](/managers/edit-content.md)
@@ -72,7 +72,7 @@ Alternatively, **Action can be assigned to Clusters and Recommendations individu
 
 ##### Finally: Monitor and update
 
-The Implementation Plan is never finished! States will continue to receive additional recommendations from the Treaty Body Committees, the UPR and the Special Procedures. Once any new recommendations are received then these need to be entered into the database, assigned to existing or new clusters and actions assigned to them to make sure they are addressed. For more detials see
+The Implementation Plan is never finished! States will continue to receive additional recommendations from the Treaty Body Committees, the UPR and the Special Procedures. Once any new recommendations are received then these need to be entered into the database, assigned to existing or new clusters and actions assigned to them to make sure they are addressed. For more details see
 
 * [Monitor Implementation Plan](/managers/monitor-implementation-plan.md)
 * [Oversee Reporting](/managers/oversee-reporting.md)
@@ -81,7 +81,7 @@ The Implementation Plan is never finished! States will continue to receive addit
 
 #### The SDG Implementation Plan
 
-The SDG Implementation Plan works in exactly the same way as the Action Implmentation Plan except that Targets are already clustered by SDGs (step 2). Another exception is that for each SDG Targets the UN has defined specific SDG Target Indicators that we can also link with any Actions that address specific SDG Targets:
+The SDG Implementation Plan works in exactly the same way as the Action Implementation Plan except that Targets are already clustered by SDGs (step 2). Another exception is that for each SDG Targets the UN has defined specific SDG Target Indicators that we can also link with any Actions that address specific SDG Targets:
 
 ```
 SDG 1 ---- SDG Target 1.1 ----------------- SDG Indicator 1.1.1

@@ -16,7 +16,7 @@ On the Users page Administrators and Managers can manage all of the registered u
 _Screenshot from demo site ([demo.impactoss.org](https://demo.impactoss.org)) - all content for demo purposes only_
 
 On the User List (navigate here from top right hand corner of screen) you see a list of all registered users in the database that you can
-* filter just like any other slites (see [Lists: filter, group & more](/visitors/lists.md))
+* filter just like any other list (see [Lists: filter items](/visitors/lists-filter.md))
 * select to explore and update details (see below)
 * batch update, specifically assigning an organisation if configured (see [Batch editing](/managers/batch-edit.md))
 
@@ -49,6 +49,6 @@ To read more about user roles go to [Introduction](README.md) and the relevant o
 
 #### Invite users
 
-Currently users cannot be invited through the application.INstead you will have to contact the user personally and:
+Currently users cannot be invited through the application. Instead you will have to contact the user personally and:
 1. Invite the user by sending a link to the registration page (see [Register](/visitors/register.md))
 2. Once the user has registered, promote the user (see above)

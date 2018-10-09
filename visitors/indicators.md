@@ -15,19 +15,19 @@ The Indicators list works in a very similar manner to the [Actions](/visitors/ac
 ![](/assets/v-indicators.png)
 _Screenshot from demo site ([demo.impactoss.org](https://demo.impactoss.org)) - all content for demo purposes only_
 
-Please see [Lists: filter, group & more](/visitors/lists.md) for options to customise your list view:
+Please see [List view options](/visitors/lists.md) for options to customise your list view:
 * sorting options,
 * filtering options,
 * switch to 'Implementation Plan' view mode to reveal all progress details
 
 ##### View Progress Reports
 
-To view and select individual Progress Reports click on the progress report number displayed next to each indicator (or alternatively switch to view mode to "Implementation Plan", see [Lists](/visitors/lists.md) for details).
+To view and select individual Progress Reports click on the progress report number displayed next to each indicator (or alternatively switch to view mode to "Implementation Plan", see [Lists: view modes](/visitors/lists-mode.md) for details).
 
 ![](/assets/v-progress-report.png)
 _Screenshot from demo site ([demo.impactoss.org](https://demo.impactoss.org)) - all content for demo purposes only_
 
-Alterantively you can first select the indicator and then, on the "Single Indicator View" (see below), select the Progress Report.
+Alternatively you can first select the indicator and then, on the "Single Indicator View" (see below), select the Progress Report.
 
 
 
