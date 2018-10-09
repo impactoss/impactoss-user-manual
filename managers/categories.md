@@ -41,4 +41,4 @@ _Screenshot from demo site ([demo.impactoss.org](https://demo.impactoss.org)) - 
 
 ---
 
-For a list of common category groupings (taxonomies) please see **[Core concepts](concepts.md)**
+For a list of common category groupings (taxonomies) please see **[Principal concepts](concepts.md)**

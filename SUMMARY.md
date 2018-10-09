@@ -3,18 +3,18 @@
 ## Introduction
 
 * [Introduction](README.md)
-* [Core concepts](concepts.md)
+* [Principal concepts](concepts.md)
 * [User types & common use cases](usecases.md)
 * [About IMPACT OSS](about.md)
 
 ## 1. Visitors
 
-* [Visitor overview \(all users\)](/visitors/visitor.md)
+* [Visitor overview (all users)](/visitors/visitor.md)
 * [Explore by Category](/visitors/categories.md)
 * [Explore Action Implementation Plan](/visitors/actions.md)
 * [Explore Indicators](/visitors/indicators.md)
 * [Explore Recommendations ](/visitors/recommendations.md)
-* [Explore SDG Targets \(optional\)](/visitors/sdg-targets.md)
+* [Explore SDG Targets (optional)](/visitors/sdg-targets.md)
 * [Explore Pages](/visitors/content.md)
 * [Lists: filter, group & more](/visitors/lists.md)
 * [Search website](/visitors/search.md)
@@ -44,7 +44,7 @@
 * [Manage Actions](/managers/actions.md)
 * [Manage Indicators](/managers/indicators.md)
 * [Manage Recommendations](/managers/recommendations.md)
-* [Manage SDG Targets \(optional\)](/managers/sdg-targets.md)
+* [Manage SDG Targets (optional)](/managers/sdg-targets.md)
 * [Manage & promote Users](/managers/users-admin.md)
 * [Reporting as Manager](/managers/reporting.md)
 * [Add single item](/managers/add-content.md)

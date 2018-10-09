@@ -26,7 +26,7 @@ Please see [Lists: filter, group & more](/visitors/lists.md) for options to cust
 
 #### View a single Recommendation
 
-You can explore a single recommendation either from the Recommendation Listor any associated Category or Action view or list.
+You can explore a single recommendation either from the Recommendation List or any associated Category or Action view or list.
 
 On the Single Recommendation View (pictured below) you can inspect all information about the recommendation, including government response (if applicable), as well as all associated categories related and Actions:
 
