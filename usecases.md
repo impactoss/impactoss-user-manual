@@ -4,9 +4,9 @@ This manual is organised by user type, ordered by increasing capabilities:
 
 #### 1. Visitor
 
-To learn how you can use IMPACT OSS without having a user account please start at
+Visitors are members of the public that are not registered or logged in. To learn how you can use IMPACT OSS without having a user account please start at
 
-* [**Visitor overview**](/visitors/visitor.md)
+* **[Visitor overview](/visitors/visitor.md)**
 
 or select one of the common use cases below
 
@@ -15,11 +15,11 @@ or select one of the common use cases below
 * [Search the entire database](/visitors/search.md)
 * [Register](/visitors/register.md)
 
-#### 2. User type: Guest \(all registered users\)
+#### 2. User type: Guest (all registered users)
 
-To learn about how to use IMPACT OSS once you have registered, go to
+A guest is anyone that has registered and has not been assigned a different role. To learn about how to use IMPACT OSS once you have registered, go to
 
-* [**Guest overview**](/guests/guest.md)
+* **[Guest overview](/guests/guest.md)**
 
 or select one of the common use cases below:
 
@@ -28,9 +28,9 @@ or select one of the common use cases below:
 
 #### 3. User type: Contributor
 
-To learn about the contributor role go to:
+Contributors are users responsible to upload relevant information to Indicators they are assigned to. To learn about the contributor role go to:
 
-* [**Contributor overview**](/contributors/contributor.md)
+* **[Contributor overview](/contributors/contributor.md)**
 
 or select the common use case below:
 
@@ -39,14 +39,14 @@ or select the common use case below:
 
 #### 4. User type: Manager
 
-To learn about the capabilities & responsibilities of a Manager go to"
+Managers are responsible for developing and updating the Implementation Plan. To learn about the capabilities & responsibilities of a Manager go to"
 
-* [**Manager overview**](/managers/manager.md)
+* **[Manager overview](/managers/manager.md)**
 
 or select one of the common use cases below:
 
 * [Create the Implementation Plan](/managers/create-implementation-plan.md)
-  * [Import multiple recommendations \(and other items\)](/managers/import.md)
+  * [Import multiple recommendations (and other items)](/managers/import.md)
   * [Publish draft items](/managers/publish.md)
 * [Monitor the Implementation Plan](/managers/monitor-implementation-plan.md)
 * [Oversee Progress Reports](/managers/oversee-reporting.md)
@@ -56,7 +56,4 @@ or select one of the common use cases below:
 
 To learn about the capabilities & responsibilities of the Administrator go to:
 
-* [**Administrator overview**](/admins/admin.md)
-
-
-
+* **[Administrator overview](/admins/admin.md)**
