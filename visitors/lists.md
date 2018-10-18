@@ -1,6 +1,6 @@
 ### List view options
 
-> _Available for: [Visitors](/visitors/visitor.md) and registered users ([Guests](/guests/guest.md), [Contributors](/contributors/contributor.md), [Managers](/managers/manager.md), and [Administrators](/admins/admin.md))_
+> _Available for: _[_Visitors_](/visitors/visitor.md)_ and registered users \(_[_Guests_](/guests/guest.md)_, _[_Contributors_](/contributors/contributor.md)_, _[_Managers_](/managers/manager.md)_, and _[_Administrators_](/admins/admin.md)_\)_
 
 > _Applies to: [Recommendations](/visitors/recommendations.md), [Actions](/visitors/actions.md), [Indicators](/visitors/indicators.md), [SDG targets](/visitors/sdg-targets.md), and [Users](/managers/users-admin.md) ([Managers](/managers/manager.md) and [Administrators](/admins/admin.md) only) and [Pages](/admins/pages.md) ([Administrators](/admins/admin.md) only)_
 
@@ -19,20 +19,20 @@ Further you can:
 
 #### Grouping
 
-List items can be grouped by any category group (or taxonomy) that is applicable. It additionally allows to subgroup items.
+List items can be grouped by any category group that is applicable. It additionally allows the user to subgroup items.
 
 > Depending on the specific configuration, items can be grouped by default, e.g. by Recommendation Cluster and/or by Organisation as pictured below
 
-![](/assets/v-actions-grouping.png)
-_Screenshot from demo site ([demo.impactoss.org](https://demo.impactoss.org)) - all content for demo purposes only_
+![](/assets/v-actions-grouping.png)  
+_Screenshot from demo site \(_[_demo.impactoss.org_](https://demo.impactoss.org)_\) - all content for demo purposes only_
 
-You can change the grouping by selecting a different taxonomy from the dropdown and ungroup by clicking on the cross next to the grouping.
+You can change the grouping from the dropdown or ungroup by clicking on the cross next to the grouping.
 
 ---
 
 #### Sorting
 
-List items can also be sorted by creation date (often default), title, reference (where applicable) and last update.
+List items can also be sorted by creation date \(often default\), title, reference \(where applicable\) and last update.
 
 ![](/assets/v-action-list-sorting.png)
 
@@ -40,7 +40,7 @@ List items can also be sorted by creation date (often default), title, reference
 
 ---
 
-### Pagination
+### Number of items per page
 
 You can change the number of items per page or navigate to additional pages by using the options below the list.
 
