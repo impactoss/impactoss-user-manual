@@ -2,10 +2,12 @@
 
 > _Available for: [Visitors](/visitors/visitor.md) and registered users ([Guests](/guests/guest.md), [Contributors](/contributors/contributor.md), [Managers](/managers/manager.md), and [Administrators](/admins/admin.md))_
 
-On any list view, including for [Actions](/visitors/actions.md), [Indicators](/visitors/indicators.md), [Recommendations ](/visitors/recommendations.md), and optionally also [SDG Targets ](/visitors/sdg-targets.md), you can use several features to customise your view:
+> _Applies to: [Recommendations](/visitors/recommendations.md), [Actions](/visitors/actions.md), [Indicators](/visitors/indicators.md), [SDG targets](/visitors/sdg-targets.md), and [Users](/managers/users-admin.md) ([Managers](/managers/manager.md) and [Administrators](/admins/admin.md) only) and [Pages](/admins/pages.md) ([Administrators](/admins/admin.md) only)_
+
+On any list view you can use several features to customise your view:
 
 * **[filter list items](/visitors/lists-filter.md)** by keyword, attribute and/or associated categories and related elements
-* **[change view mode](/visitors/lists-mode.md)** to see (Implementation View) or hide (List View) nested elements such as Indicators and Progress Reports
+* **[change view mode](/visitors/lists-mode.md)** to see (Implementation View) or hide (List View) nested elements such as Indicators and Progress Reports (only available for [Actions](/visitors/actions.md), [Indicators](/visitors/indicators.md), and [SDG targets](/visitors/sdg-targets.md))
 
 Further you can:
 

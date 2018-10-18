@@ -2,6 +2,8 @@
 
 > _Available for: [Managers](/managers/manager.md) and [Administrators](/admins/admin.md)_
 
+> _Applies to: [Categories](/managers/categories.md), [Recommendations](/managers/recommendations.md), [Actions](/managers/actions.md), [Indicators](/managers/indicators.md), [SDG targets](/managers/sdg-targets.md), and [Pages](/admins/pages.md) ([Administrators](/admins/admin.md) only)_
+
 Adding new items is straight forward. The Administrator or Manager simply needs to navigate to the page relevant to the entity they wish to create. I.e. either categories, actions, indicators, recommendations or SDG targets. On each of these pages is an 'add' button placed in the top right hand corner of the screen
 
 ![](/assets/m-action-add.png)

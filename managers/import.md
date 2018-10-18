@@ -2,6 +2,8 @@
 
 > _Available for: [Managers](/managers/manager.md) and [Administrators](/admins/admin.md)_
 
+> _Applies to: [Recommendations](/managers/recommendations.md), [Actions](/managers/actions.md), [Indicators](/managers/indicators.md), and [SDG targets](/managers/sdg-targets.md)_
+
 On the [Recommendations](/visitors/recommendations.md), [Actions](/visitors/actions.md), [SDG Targets](/visitors/sdg-targets.md), and [Indicators](/visitors/indicators.md) list views you will, once authorised, find an 'Import' button (circled in screenshot below) to start adding multiple items at once - a time-efficient way to add new items:
 
 ![](/assets/m-action-import.png)
