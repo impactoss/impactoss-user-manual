@@ -2,10 +2,10 @@
 
 IMPACT OSS is primarily intended to help a State or National Human Rights Institution develop a **National Implementation Plan**, which addresses the SDGs and human rights recommendations made to a particular country. When a user first arrives at IMPACT OSS they will be taken to the [Overview](visitors/visitor.md) page (pictured in screenshot below), which visually depicts how the principal concepts make up the Implementation Plan and fit together. Further information on each of these concepts is found below the overview diagram.
 
-> _It is also possible for any country wishing to use IMPACT OSS to do so only for its human rights obligations **or** the SDGs and not both. This configuration is easily made but throughout this manual guidance will be provided for the application when it is configured to cover both areas._
-
 ![](/assets/concepts.png)  
 _Screenshot from demo site ([demo.impactoss.org](https://demo.impactoss.org)) - all content for demo purposes only_
+
+> Note: It is also possible for any country wishing to use IMPACT OSS to do so only for its human rights obligations **or** the SDGs and not both. This configuration is easily made but throughout this manual guidance will be provided for the application when it is configured to cover both areas.
 
 ---
 
