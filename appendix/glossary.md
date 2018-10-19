@@ -14,7 +14,7 @@ Government body responsible for coordinating all human rights implementation and
 
 #### User roles
 
-Please see [User roles & responsibilities](/members/user-roles.md) for more details.
+Please see [User types & use cases](/usecases.md) for more details.
 
 ##### Role: Visitor
 
@@ -56,7 +56,7 @@ _Recommendation \| Accepted \| Not accepted_
 
 States receive Recommendations from the Universal Periodic Review, the UN Committees of the Treaties it has ratified and the Special Procedures. These Recommendations are entered into the application and are clustered to form the basis of the National Implementation
 
-Learn more: [for visitors](/visitors/recommendations.md) \| [for registered users](/members/recommendations.md)
+Learn more: [for visitors](/visitors/recommendations.md) \| [for registered users](/managers/recommendations.md)
 
 ---
 
@@ -66,7 +66,7 @@ Learn more: [for visitors](/visitors/recommendations.md) \| [for registered user
 
 Actions are what the State says it is going to do to address **Thematic Clusters** (see below) of **Recommendations** and implement those obligations
 
-Learn more: [for visitors](/visitors/actions.md) \| [for registered users](/members/actions.md)
+Learn more: [for visitors](/visitors/actions.md) \| [for registered users](/managers/actions.md)
 
 ---
 
@@ -76,7 +76,7 @@ Learn more: [for visitors](/visitors/actions.md) \| [for registered users](/memb
 
 For each **Action** there will be at least one indicator, which describes how the success of that **Action** will be measured. Indicators have also been defined for **SDG Targets**
 
-Learn more: [for visitors](/visitors/indicators.md) \| [for registered users](/members/indicators.md)
+Learn more: [for visitors](/visitors/indicators.md) \| [for registered users](/managers/indicators.md)
 
 ---
 
@@ -86,7 +86,7 @@ Learn more: [for visitors](/visitors/indicators.md) \| [for registered users](/m
 
 One or more SDG Targets have been defined for each **Sustainable Development Goal** (SDG, see below).
 
-Learn more: [for visitors](/visitors/sdg-targets.md) \| [for registered users](/members/sdg-targets.md)
+Learn more: [for visitors](/visitors/sdg-targets.md) \| [for registered users](/managers/sdg-targets.md)
 
 ---
 
@@ -95,7 +95,7 @@ Learn more: [for visitors](/visitors/sdg-targets.md) \| [for registered users](/
 
 Taxonomies are groups of categories that allow to classify and cluster the principal Implementation Plan entities (see above)
 
-Learn more: [for visitors](/visitors/categories.md) \| [for registered users](/members/categories.md)
+Learn more: [for visitors](/visitors/categories.md) \| [for registered users](/managers/categories.md)
 
 #### Global taxonomies
 
@@ -207,7 +207,7 @@ _Specific \| Measurable \| Assignable \| Result-oriented \| Timebound_
 
 When an **Indicator** is created within the application a date is set for when the information/data is due. This could be a one off or an ongoing process (e.g. quarterly crime statistics). When information is due the Indicator Owner will receive an automate email to upload the required data. This is called a progress report.
 
-Learn more: [for registered users](/members/indicators.md)
+Learn more: [for registered users](/managers/indicators.md)
 
 ---
 
