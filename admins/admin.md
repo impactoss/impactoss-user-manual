@@ -1,4 +1,4 @@
-## 5. Administrator overview
+## 6. Administrator overview
 
 > _Available for: Administrators_
 

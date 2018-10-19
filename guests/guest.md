@@ -1,4 +1,4 @@
-## 2. Guest overview
+## 3. Guest overview
 
 > _Available for: Guests, as well as all authorised users ([Contributors](/contributors/contributor.md), [Managers](/managers/manager.md), and [Administrators](/admins/admin.md))_
 

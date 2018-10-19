@@ -1,4 +1,4 @@
-## 1. Visitor overview (all users)
+## 2. Visitor overview (all users)
 
 > _Available for: Visitors and registered users ([Guests](/guests/guest.md), [Contributors](/contributors/contributor.md), [Managers](/managers/manager.md), and [Administrators](/admins/admin.md))_
 

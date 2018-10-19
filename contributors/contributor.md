@@ -1,4 +1,4 @@
-## 3. Contributor overview
+## 4. Contributor overview
 
 > _Available for: Contributors, and all other authorised users ([Managers](/managers/manager.md), and [Administrators](/admins/admin.md))_
 
