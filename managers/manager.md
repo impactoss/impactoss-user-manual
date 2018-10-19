@@ -1,4 +1,4 @@
-## 4. Manager overview
+## 5. Manager overview
 
 > _Available for: Managers and [Administrators](/admins/admin.md))_
 
