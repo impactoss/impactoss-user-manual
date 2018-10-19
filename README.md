@@ -2,7 +2,7 @@
 
 # User Manual
 
-## Introduction
+## 1. Introduction
 
 This user manual provides guidance on how to use IMPACT OSS, the Open Source Software (OSS) for Integrated Management and Planning of Actions (IMPACT), created to assist States with coordinating and monitoring implementation of human rights and the Sustainable Development Goals (SDGs). To learn more about the motivation behind IMPACT OSS and its history have a look at [**About IMPACT OSS**](/about.md) or go to the project website [impactoss.org](https://impactoss.org).
 
