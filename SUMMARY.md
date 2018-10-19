@@ -1,13 +1,13 @@
 # Summary
 
-## Introduction
+## 1. Introduction
 
 * [Introduction](README.md)
 * [Principal concepts](concepts.md)
 * [User types & common use cases](usecases.md)
 * [About IMPACT OSS](about.md)
 
-## 1. Visitors
+## 2. Visitors
 
 * [Visitor overview (all users)](/visitors/visitor.md)
 * [Explore by Category](/visitors/categories.md)
@@ -22,7 +22,7 @@
 * [Search website](/visitors/search.md)
 * [Register](/visitors/register.md)
 
-## 2. Guests
+## 3. Guests
 
 * [Guest overview](/guests/guest.md)
 * [Reporting as Guest](/guests/reporting.md)
@@ -30,13 +30,13 @@
 * [Login & recover password](/guests/login.md)
 * [Become authorised](/guests/promotion.md)
 
-## 3. Contributors
+## 4. Contributors
 
 * [Contributor overview](/contributors/contributor.md)
 * [Reporting as Contributor](/contributors/reporting.md)
 * [Explore Draft Content](/contributors/draft.md)
 
-## 4. Managers
+## 5. Managers
 
 * [Manager overview](/managers/manager.md)
 * [Create Implementation Plan](/managers/create-implementation-plan.md)
@@ -55,7 +55,7 @@
 * [Batch edit multiple items](/managers/batch-edit.md)
 * [Publish items](/managers/publish.md)
 
-## 5. Administrators
+## 6. Administrators
 
 * [Admin overview](/admins/admin.md)
 * [Assign Category Manager](/admins/assign-category.md)
