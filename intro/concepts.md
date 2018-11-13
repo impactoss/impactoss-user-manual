@@ -103,7 +103,7 @@ For more information see
 
 #### SDG Targets (optional configuration)
 
-![](/assets/icon-sdg.png)
+![](/assets/icon-sdgs.png)
 
 The **SDG Targets** are the 169 internationally agreed targets to achieve the 17 SDGs (Sustainable Development Goals). For each target one or more SDG indicators have also been defined.
 

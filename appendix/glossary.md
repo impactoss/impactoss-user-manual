@@ -82,7 +82,7 @@ Learn more: [for visitors](/visitors/indicators.md) \| [for registered users](/m
 
 ##### SDG Targets
 
-![](/assets/icon-sdg.png)
+![](/assets/icon-sdgs.png)
 
 One or more SDG Targets have been defined for each **Sustainable Development Goal** (SDG, see below).
 
