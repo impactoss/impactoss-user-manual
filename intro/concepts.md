@@ -272,4 +272,4 @@ In addition to being a tool which helps track and coordinate implementation a co
 
 ---
 
-Explore this manual by **[User type & common use case](/usecases.md)**
+Explore this manual by **[User type & common use case](/intro/usecases.md)**

@@ -58,7 +58,7 @@ For all items the batch import screen (pictured above) allows you to
    * `boolean`: a field that can either be true or false, accepted values are `true` or `false`, also `TRUE` or `FALSE`;
    * `date`: a date using the specified format (e.g. `YYYY-MM-DD`).
 
-   See **[Principal concepts](concepts.md)** for required or optional fields.
+   See **[Principal concepts](/intro/concepts.md)** for required or optional fields.
 
    > Please note: the available fields may differ depending on your application set up.
 

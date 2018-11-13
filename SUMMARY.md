@@ -4,7 +4,7 @@
 
 * [Introduction](README.md)
 * [Principal concepts](intro/concepts.md)
-* [User types & common use cases](intro/secases.md)
+* [User types & common use cases](intro/usecases.md)
 * [About IMPACT OSS](intro/about.md)
 
 ## 2. Visitors

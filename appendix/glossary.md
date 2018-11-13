@@ -14,7 +14,7 @@ Government body responsible for coordinating all human rights implementation and
 
 #### User roles
 
-Please see [User types & use cases](/usecases.md) for more details.
+Please see [User types & use cases](/intro/usecases.md) for more details.
 
 ##### Role: Visitor
 

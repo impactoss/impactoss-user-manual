@@ -34,7 +34,7 @@ The **overview map (3)** is a visual representation of the principal information
 
 > Note: below each main element the taxonomy icons indicate how elements are classified
 
-**>>> Read [Principal concepts](concepts.md) to learn more about the principal concepts <<<**
+**>>> Read [Principal concepts](/intro/concepts.md) to learn more about the principal concepts <<<**
 
 In the top right-hand corner of all pages (marked **(4)** in the screenshot above) are additional links to access the following:
 
