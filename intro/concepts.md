@@ -155,7 +155,7 @@ Taxonomies can include global category groups as universally used by the UN and 
 
 > Please note that IMPACT OSS can be configured with many different category groups and individual installations can thus differ significantly
 
-![](/assets/categories.png)  
+![](/assets/taxonomies.png)  
 _Schema of a possible taxonomy configuration, showing category groupings on left and principal entities on the right_
 
 ###### Human Rights Mechanisms (or Bodies)
