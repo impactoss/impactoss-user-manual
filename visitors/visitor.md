@@ -40,13 +40,14 @@ The **overview map (3)** is a visual representation of the principal information
 
 **>>> Read [Principal concepts](/intro/concepts.md) to learn more about the principal concepts <<<**
 
+These areas of interest are also available in the **main navigation (1)** above.
+
 In the top right-hand corner of all pages (marked **(4)** in the screenshot above) are additional links to access the following:
 
 * **[Register](/visitors/register.md)** to become a registered user
 * **[Login](/guests/login.md)** to login as a registered user
 * Different **[Pages](/visitors/content.md)** with editorial content and additional information such as **About** or **Contact Us**
 
-These areas of interest are also available in the **main navigation (1)** above.
 
 > Please note that IMPACT OSS can be configured in many different ways and the main navigation items may thus differ significantly from the example shown above, for example
 > - menu items may be called differently
