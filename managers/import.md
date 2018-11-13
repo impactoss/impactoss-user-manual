@@ -42,8 +42,8 @@ For all items the batch import screen (pictured above) allows you to
 
    An example recommendations template opened in MS Excel is shown in the screenshot below:
 
-   ![](/assets/import-rec-template.png)  
-   _Screenshot of template downloaded from demo site ([demo.impactoss.org](https://demo.impactoss.org)) and opened in MS Excel - all content for demo purposes only_
+   ![](/assets/import-rec-template-a.png)  
+   _Screenshot of template downloaded from demo site ([demo-rights.impactoss.org](https://demo-rights.impactoss.org)) and opened in MS Excel - all content for demo purposes only_
 
    The first row's columns contain all the field descriptions and database field names in the square brackets `[database:title]` - please do not remove or edit the square brackets as these are required for the database to map the data.
 
@@ -66,8 +66,8 @@ For all items the batch import screen (pictured above) allows you to
 
    Enter or copy and paste your data into the spreadsheet, using **one row for each recommendation** (or whatever items you are importing).
 
-   ![](/assets/import-rec-editing.png)  
-   _Screenshot of template downloaded from demo site ([demo.impactoss.org](https://demo.impactoss.org)) and opened in MS Excel - all content for demo purposes only_
+   ![](/assets/import-rec-editing-a.png)  
+   _Screenshot of template downloaded from demo site ([demo-rights.impactoss.org](https://demo-rights.impactoss.org)) and opened in MS Excel - all content for demo purposes only_
 
    > Please note: when using the import feature for the first time it is recommended to test it with a small file only containing a limited number of items
 
