@@ -78,6 +78,6 @@ Manager ---- Category ---- Recommendation 1 ---- Action 1 ---- Indicator 1.1
                                                             -- Indicator 4.2
 ```
 
-> Please note: if Recommendations are part of tagged with Categories or if Actions are associated with Recommendations of multiple Categories, it is possible that multiple Managers receive email reminders for the same Indicator
+> Please note: if Recommendations are tagged with multiple Categories or if Actions are associated with Recommendations of multiple Categories, it is possible that multiple Managers receive email reminders for the same Indicator
 
 > Also note that the frequency of email reminders may vary depending on configuration - default is **weekly** (compare [Contributor overview](/contributors/contributor.md))
