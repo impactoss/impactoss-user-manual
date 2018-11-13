@@ -4,6 +4,8 @@
 
 > _Applies to: [Recommendations](/managers/recommendations), [Actions](/managers/actions), [Indicators](/managers/indicators), [SDG targets](/managers/sdg-targets), and [Pages](/admins/pages) ([Administrators](/admins/admin.md) only)_
 
+---
+
 #### 'Edit' v 'Filter' Mode
 
 Once logged in and authenticated as an Administrator or Manager you will be able to batch edit multiple items at once. Each list view, including [Recommendations](/visitors/recommendations.md), [Actions](/visitors/actions.md), [SDG Targets](/visitors/sdg-targets.md), and [Indicator](/visitors/indicators.md), will now feature also an edit option in the sidebar (as pictured below)

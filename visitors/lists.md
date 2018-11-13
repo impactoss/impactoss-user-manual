@@ -40,7 +40,7 @@ List items can also be sorted by creation date (often default), title, reference
 
 ---
 
-### Number of items per page
+#### Number of items per page
 
 You can change the number of items per page or navigate to additional pages by using the options below the list.
 

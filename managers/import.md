@@ -9,6 +9,8 @@ _Screenshot from demo site ([demo.impactoss.org](https://demo.impactoss.org)) - 
 
 > When importing it is only possible to import actual item attributes (for recommendations this would be Title, Reference, Accepted Status and Accepted Response) but not any associations (e.g. thematic clusters, human rights body and cycle, etc.) - these will have to be set up manually.
 
+---
+
 #### Batch Import Screen
 
 ![](/assets/m-batch-import.png)  
@@ -17,6 +19,8 @@ _Screenshot from demo site ([demo.impactoss.org](https://demo.impactoss.org)) - 
 For all items the batch import screen (pictured above) allows you to  
 1. Download a CSV template that specifies all the available fields that you can import (specific to each item type). If the template structure is not used then the batch import will not work.  
 2. Select and upload a CSV file with content to import
+
+---
 
 #### How to import multiple items
 

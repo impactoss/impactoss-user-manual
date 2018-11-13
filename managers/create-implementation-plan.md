@@ -14,8 +14,6 @@ Below we will explain how to create the National Action Implementation Plan and 
 
 #### Creating Your Human Rights Action Implementation Plan in 4 Steps
 
----
-
 ##### 1. Enter Human Rights Recommendations
 
 From the [Recommendations List](/visitors/recommendations.md) you can either import multiple recommendations or observations in bulk or add them one by one. For more information on adding recommendations and observations see
@@ -25,8 +23,6 @@ From the [Recommendations List](/visitors/recommendations.md) you can either imp
 
 ![](/assets/m-add-recommendation.png)
 _Screenshot from demo site ([demo.impactoss.org](https://demo.impactoss.org)) - all content for demo purposes only_
-
----
 
 ##### 2. Cluster your recommendations and articles
 
@@ -41,8 +37,6 @@ The most efficient way to cluster Recommendations is to use a combination of
 _Screenshot from demo site ([demo.impactoss.org](https://demo.impactoss.org)) - all content for demo purposes only_
 
 Alternatively, **Recommendations can be allocated to Clusters individually** (or Clusters to Recommendations if you prefer) as described here: [Edit single item](/managers/edit-content.md)
-
----
 
 ##### 3. Add Actions and Indicators
 
@@ -59,8 +53,6 @@ _Screenshot from demo site ([demo.impactoss.org](https://demo.impactoss.org)) - 
 
 Whilst multiple indicators can be imported it is important to edit each one individually as this is where responsibility for an indicator can be allocated to a user and its reporting schedule defined (again see [Manage Indicators](/managers/indicators.md)).
 
----
-
 ##### 4. Assign Actions to Recommendations
 
 Once added and defined, Actions can be assigned to assigned to relevant Recommendation Clusters or individual Recommendations using a combination of
@@ -69,8 +61,6 @@ Once added and defined, Actions can be assigned to assigned to relevant Recommen
 * **batch editing** of selected (2) obligations ([Batch edit multiple items](/managers/batch-edit.md))
 
 Alternatively, **Action can be assigned to Clusters and Recommendations individually** (or vice versa) as described here: [Edit single item](/managers/edit-content.md)
-
----
 
 ##### Finally: Monitor and update
 

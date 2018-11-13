@@ -1,12 +1,15 @@
+
+---
 ## 2. Visitor overview (all users)
+---
 
 > _Available for: Visitors and registered users ([Guests](/guests/guest.md), [Contributors](/contributors/contributor.md), [Managers](/managers/manager.md), and [Administrators](/admins/admin.md))_
 
-#### Who are Visitors?
+##### Who are Visitors?
 
 Any member of the public that is not registered or logged in.
 
-#### What can I do as a Visitor?
+##### What can I do as a Visitor?
 
 Whether you are an NGO or interested member of the public, this application allows visitors to:
 
@@ -20,7 +23,7 @@ Whether you are an NGO or interested member of the public, this application allo
 
 ---
 
-### Overview & navigation
+#### Overview & navigation
 
 Once you click 'Explore' on the homepage you will be taken to the **Overview** page, from where you can access all published information.
 

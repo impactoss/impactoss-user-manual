@@ -1,4 +1,7 @@
+
+---
 ## 5. Manager overview
+---
 
 > _Available for: Managers and [Administrators](/admins/admin.md))_
 
@@ -24,13 +27,13 @@ Managers are responsible for developing and updating the National Implementation
 
 ---
 
-### Specific functions and responsibilities of a Manager
+#### Specific functions and responsibilities of a Manager
 
-#### Function: Implementation Plan Manager
+##### Function: Implementation Plan Manager
 
 As an **Implementation Plan Manager**, a user can be responsible for developing and updating the National Implementation Plan. This functional role is not explicitly assigned but is expected to be assigned by the overseeing organisation (e.g. NMRF).
 
-##### Responsibilities
+###### Responsibilities
 
 The responsibilities of an **Implementation Plan Manager** are:
 * Create and update Recommendations, Actions and Indicators, as well as Categories
@@ -38,26 +41,24 @@ The responsibilities of an **Implementation Plan Manager** are:
 
 Also see [Create Implementation Plan](managers/create-implementation-plan.md) and [Monitor Implementation Plan](managers/monitor-implementation-plan.md)
 
----
-
-#### Function: Category Manager
+##### Function: Category Manager
 
 The Manager can as **Category Managers** be explicitly made responsible for an area of the National Implementation Plan, thus for sets of Recommendations, commonly by Human Rights Mechanism (depends on application configuration). Category Managers play an oversight role to ensure that data is entered when required.
 
 > For each 'Human Rights Body' Mechanism, as well as for each SDG, a 'Category Manager' should be assigned by one of the Administrators.
 
-##### Prerequisites
+###### Prerequisites
 
 * A Manager requires to be assigned to a suitable category (by Administrator, see [Assign Category Manager](/admins/assign-category.md))
 
-##### Responsibilities
+###### Responsibilities
 
 The responsibilities of an **Category Managers** are:
 * Assign users to indicators (see [Oversee Reporting](/managers/oversee-reporting.md))
 * Oversee and follow-up data collection (see [Oversee Reporting](/managers/oversee-reporting.md))
 * Review and publish progress reports added by **Guest Contributors** (see [Reporting as Guest](/guests/reporting.md))
 
-##### Email reminders
+###### Email reminders
 
 **Category Managers** will receive automated email reminders when a reporting due date for Indicators in their area have lapsed ('overdue') so that they can follow-up with the responsible [Contributors](/contributors/contributor.md). 'Indicators in their area' are all **Indicators** that are associated with **Actions** that are targeting **Recommendations** that are tagged with the **Category** the **Manager** has been assigned to:
 

@@ -90,7 +90,6 @@ Learn more: [for visitors](/visitors/sdg-targets.md) \| [for registered users](/
 
 ---
 
-
 #### Taxonomies
 
 Taxonomies are groups of categories that allow to classify and cluster the principal Implementation Plan entities (see above)
